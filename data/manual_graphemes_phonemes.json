@@ -1,0 +1,6221 @@
+{
+	"ACCUMULATIVELY": {
+		"graphemes": "A CC U M U L A T I VE L Y",
+		"phonemes":	"AH K Y:UW M Y:AH L EY T IH V L IY"
+	},
+	"ACCUMULATIVELY(1)": {
+		"graphemes": "A CC U M U L A T I VE L Y",
+		"phonemes":	"AH K Y:UW M Y:AH L AH T IH V L IY"
+	},
+	"ACKNOWLEDGEABLE": {
+		"graphemes": "A CK N OW L E DGE A B LE",
+		"phonemes":	"AE K N AA L IH JH AH B AH:L"
+	},
+	"ACREAGE": {
+		"graphemes": "A C RE A GE",
+		"phonemes":	"EY K AH:R IH JH"
+	},
+	"ACREAGE(1)": {
+		"graphemes": "A C RE A GE",
+		"phonemes":	"EY K R IH JH"
+	},
+	"ACROLEIN": {
+		"graphemes": "A C R O L EI N",
+		"phonemes":	"AE K R OW L IY N"
+	},
+	"ADVERSELY": {
+		"graphemes": "A D V ER SE L Y",
+		"phonemes":	"AE D V ER S L IY"
+	},
+	"ADVERTISEMENT": {
+		"graphemes": "A D V ER T I SE M E N T",
+		"phonemes":	"AE D V ER T AH Z M AH N T"
+	},
+	"ADVERTISEMENT(1)": {
+		"graphemes": "A D V ER T I SE M E N T",
+		"phonemes":	"AE D V ER T AY Z M AH N T"
+	},
+	"AERONAUTICAL": {
+		"graphemes": "AE R O N AU T I C A L",
+		"phonemes":	"EH R OW N AA T AH K AH L"
+	},
+	"AERONAUTICAL(1)": {
+		"graphemes": "AE R O N AU T I C A L",
+		"phonemes":	"EH R AH N AA T AH K AH L"
+	},
+	"AFOREMENTIONED": {
+		"graphemes": "A F O RE M E N TI O N ED",
+		"phonemes":	"AH F AO R M EH N SH AH N D"
+	},
+	"AFTERTHOUGHT": {
+		"graphemes": "A F T ER TH OUGH T",
+		"phonemes":	"AE F T ER TH AA T"
+	},
+	"AFTERTHOUGHT(1)": {
+		"graphemes": "A F T ER TH OUGH T",
+		"phonemes":	"AE F T ER TH AO T"
+	},
+	"AGGRIEVED": {
+		"graphemes": "A GG R IE V ED",
+		"phonemes":	"AH G R IY V D"
+	},
+	"ALCHEMY": {
+		"graphemes": "A L CH E M Y",
+		"phonemes":	"AE L K AH M IY"
+	},
+	"ALTERNATELY": {
+		"graphemes": "A L T ER N A TE L Y",
+		"phonemes":	"AO L T ER N AH T L IY"
+	},
+	"AMBIGUOUS": {
+		"graphemes": "A M B I G U OU S",
+		"phonemes":	"AE M B IH G Y:UW AH S"
+	},
+	"AMBROSIAN": {
+		"graphemes": "A M B R O SI A N",
+		"phonemes":	"AE M B R OW Z AH N"
+	},
+	"ANARCHICAL": {
+		"graphemes": "A N A R CH I C A L",
+		"phonemes":	"AE N AA R K IH K AH L"
+	},
+	"ANEURISM": {
+		"graphemes": "A N EU R I S M",
+		"phonemes":	"AE N Y:UH R IH Z AH:M"
+	},
+	"ANEURISM(1)": {
+		"graphemes": "A N EU R I S M",
+		"phonemes":	"AE N Y:UH R IH Z M"
+	},
+	"ARCHAEOLOGICAL": {
+		"graphemes": "A R CH AE O L O G I C A L",
+		"phonemes":	"AA R K IY AH L AA JH IH K AH L"
+	},
+	"ARCHANGEL": {
+		"graphemes": "A R CH A N G E L",
+		"phonemes":	"AA R K EY N JH AH L"
+	},
+	"ARCHETYPAL": {
+		"graphemes": "A R CHE T Y P A L",
+		"phonemes":	"AA R K T AY P AH L"
+	},
+	"ARCHIPELAGO(1)": {
+		"graphemes": "A R CH I P E L A G O",
+		"phonemes":	"AA R CH AH P AH L EY G OW"
+	},
+	"ARCHITECTURE": {
+		"graphemes": "A R CH I T E C T URE",
+		"phonemes":	"AA R K AH T EH K CH ER"
+	},
+	"ASSERTIVELY": {
+		"graphemes": "A SS ER T I VE L Y",
+		"phonemes":	"AH S ER T IH V L IY"
+	},
+	"ASSERTIVENESS": {
+		"graphemes": "A SS ER T I VE N E SS",
+		"phonemes":	"AH S ER T IH V N AH S"
+	},
+	"AUTHORIZED": {
+		"graphemes": "AU TH OR I ZE D",
+		"phonemes":	"AO TH ER AY Z D"
+	},
+	"BARRELED": {
+		"graphemes": "B A RR E L ED",
+		"phonemes":	"B AE R AH L D"
+	},
+	"BARRELED(1)": {
+		"graphemes": "B A RR E L ED",
+		"phonemes":	"B EH R AH L D"
+	},
+	"BEEFSTEAK": {
+		"graphemes": "B EE F S T EA K",
+		"phonemes":	"B IY F S T EY K"
+	},
+	"BIOCHEMICAL": {
+		"graphemes": "B I O CH E M I C A L",
+		"phonemes":	"B AY OW K EH M IH K AH L"
+	},
+	"BLUDGEONED": {
+		"graphemes": "B L U DGE O N ED",
+		"phonemes":	"B L AH JH AH N D"
+	},
+	"BLUEING": {
+		"graphemes": "B L UE I NG",
+		"phonemes":	"B L UW IH NG"
+	},
+	"BOILED": {
+		"graphemes": "B OI L ED",
+		"phonemes":	"B OY L D"
+	},
+	"BOISTEROUS": {
+		"graphemes": "B OI S T ER OU S",
+		"phonemes":	"B OY S T ER AH S"
+	},
+	"BREAKAGE": {
+		"graphemes": "B R EA K A GE",
+		"phonemes":	"B R EY K IH JH"
+	},
+	"BREAKTHROUGH": {
+		"graphemes": "B R EA K TH R OUGH",
+		"phonemes":	"B R EY K TH R UW"
+	},
+	"BREATHED": {
+		"graphemes": "B R EA TH ED",
+		"phonemes":	"B R IY DH D"
+	},
+	"BRISTLED": {
+		"graphemes": "B R I ST LE D",
+		"phonemes":	"B R IH S AH:L D"
+	},
+	"BUSINESSLIKE": {
+		"graphemes": "B U SI N E SS L I KE",
+		"phonemes":	"B IH Z N IH S L AY K"
+	},
+	"CAFFEINE": {
+		"graphemes": "C A FF EI NE",
+		"phonemes":	"K AE F IY N"
+	},
+	"CALAIS": {
+		"graphemes": "C A L AIS",
+		"phonemes":	"K AH L EY"
+	},
+	"CALAMITOUS": {
+		"graphemes": "C A L A M I T OU S",
+		"phonemes":	"K AH L AE M AH T AH S"
+	},
+	"CANDLEMAKER": {
+		"graphemes": "C A N D LE M A K ER",
+		"phonemes":	"K AE N D AH:L M EY K ER"
+	},
+	"CAREER": {
+		"graphemes": "C AR EE R",
+		"phonemes":	"K ER IH R"
+	},
+	"CAREERING": {
+		"graphemes": "C AR EE R I NG",
+		"phonemes":	"K ER IH R IH NG"
+	},
+	"CAREERIST": {
+		"graphemes": "C AR EE R I S T",
+		"phonemes":	"K ER IH R IH S T"
+	},
+	"CARELESSLY": {
+		"graphemes": "C A RE L E SS L Y",
+		"phonemes":	"K EH R L EH S L IY"
+	},
+	"CARETAKER": {
+		"graphemes": "C A RE T A K ER",
+		"phonemes":	"K EH R T EY K ER"
+	},
+	"CASEIN": {
+		"graphemes": "C A SE I N",
+		"phonemes":	"K EY S IY N"
+	},
+	"CASEWORKER": {
+		"graphemes": "C A SE W OR K ER",
+		"phonemes":	"K EY S W ER K ER"
+	},
+	"CAUDAL": {
+		"graphemes": "C AU D A L",
+		"phonemes":	"K AA D AH L"
+	},
+	"CAUDAL(1)": {
+		"graphemes": "C AU D A L",
+		"phonemes":	"K AO D AH L"
+	},
+	"CEASELESSLY": {
+		"graphemes": "C EA SE L E SS L Y",
+		"phonemes":	"S IY Z L AH S L IY"
+	},
+	"CERACEOUS": {
+		"graphemes": "C ER A CE OU S",
+		"phonemes":	"S ER EY SH AH S"
+	},
+	"CHANDELIER": {
+		"graphemes": "CH A N D E L IE R",
+		"phonemes":	"SH AE N D AH L IH R"
+	},
+	"CHANNELED": {
+		"graphemes": "CH A NN E L ED",
+		"phonemes":	"CH AE N AH L D"
+	},
+	"CHARACTERISTICALLY": {
+		"graphemes": "CH A R A C T ER I S T I CA LL Y",
+		"phonemes":	"K EH R IH K T ER IH S T IH K L IY"
+	},
+	"CHARACTERIZE": {
+		"graphemes": "CH A R A C T ER I ZE",
+		"phonemes":	"K EH R IH K T ER AY Z"
+	},
+	"CHEERED": {
+		"graphemes": "CH EE R ED",
+		"phonemes":	"CH IH R D"
+	},
+	"CHEERLEADER": {
+		"graphemes": "CH EE R L EA D ER",
+		"phonemes":	"CH IH R L IY D ER"
+	},
+	"CHEMICAL": {
+		"graphemes": "CH E M I C A L",
+		"phonemes":	"K EH M IH K AH L"
+	},
+	"CHIMERICAL": {
+		"graphemes": "CH I M E R I C A L",
+		"phonemes":	"K IH M EH R AH K AH L"
+	},
+	"CHISELED": {
+		"graphemes": "CH I S E L ED",
+		"phonemes":	"CH IH Z AH L D"
+	},
+	"CLOISTERED": {
+		"graphemes": "C L OI S T ER ED",
+		"phonemes":	"K L OY S T ER D"
+	},
+	"COILED": {
+		"graphemes": "C OI L ED",
+		"phonemes":	"K OY L D"
+	},
+	"COLLEGIATE": {
+		"graphemes": "C O LL E GI A TE",
+		"phonemes":	"K AH L IY JH IH T"
+	},
+	"COLONEL": {
+		"graphemes": "C OLO N E L",
+		"phonemes":	"K ER N AH L"
+	},
+	"CONJOINED": {
+		"graphemes": "C O N J OI N ED",
+		"phonemes":	"K AA N JH OY N D"
+	},
+	"CONNOISSEUR": {
+		"graphemes": "C O NN OI SS EUR",
+		"phonemes":	"K AA N AH S ER"
+	},
+	"CONSERVATIVELY": {
+		"graphemes": "C O N S ER V A T I VE L Y",
+		"phonemes":	"K AH N S ER V AH T IH V L IY"
+	},
+	"CONSPICUOUS": {
+		"graphemes": "C O N S P I C U OU S",
+		"phonemes":	"K AH N S P IH K Y:UW AH S"
+	},
+	"CONSPICUOUSLY": {
+		"graphemes": "C O N S P I C U OU S L Y",
+		"phonemes":	"K AH N S P IH K Y:UW AH S L IY"
+	},
+	"CONSTRAINED": {
+		"graphemes": "C O N S T R AI N ED",
+		"phonemes":	"K AH N S T R EY N D"
+	},
+	"CONTIGUOUS": {
+		"graphemes": "C O N T I G U OU S",
+		"phonemes":	"K AH N T IH G Y:UW AH S"
+	},
+	"CONTINUOUS": {
+		"graphemes": "C O N T I N U OU S",
+		"phonemes":	"K AH N T IH N Y:UW AH S"
+	},
+	"CONTINUOUSLY": {
+		"graphemes": "C O N T I N U OU S L Y",
+		"phonemes":	"K AH N T IH N Y:UW AH S L IY"
+	},
+	"CONVERSELY": {
+		"graphemes": "C O N V ER SE L Y",
+		"phonemes":	"K AA N V ER S L IY"
+	},
+	"COUNTERFEIT": {
+		"graphemes": "C OU N T ER FE I T",
+		"phonemes":	"K AW N T ER F IH T"
+	},
+	"COUNTERFEIT(1)": {
+		"graphemes": "C OU NT ER FE I T",
+		"phonemes":	"K AW N ER F IH T"
+	},
+	"COUNTERFEITER": {
+		"graphemes": "C OU N T ER FE I T ER",
+		"phonemes":	"K AW N T ER F IH T ER"
+	},
+	"COUNTERFEITER(1)": {
+		"graphemes": "C OU NT ER FE I T ER",
+		"phonemes":	"K AW N ER F IH T ER"
+	},
+	"CRUELTY(1)": {
+		"graphemes": "C R U E L T Y",
+		"phonemes":	"K R UW AH L T IY"
+	},
+	"CUMULATIVELY": {
+		"graphemes": "C U M U L A T I VE L Y",
+		"phonemes":	"K Y:UW M Y:AH L AH T IH V L IY"
+	},
+	"CURRICULA": {
+		"graphemes": "C URR I C U L A",
+		"phonemes":	"K ER IH K Y:AH L AA"
+	},
+	"CURRICULAR": {
+		"graphemes": "C URR I C U L AR",
+		"phonemes":	"K ER IH K Y:AH L ER"
+	},
+	"CURRICULUM": {
+		"graphemes": "C URR I C U L U M",
+		"phonemes":	"K ER IH K Y:AH L AH M"
+	},
+	"CURTAILED": {
+		"graphemes": "C UR T AI L ED",
+		"phonemes":	"K ER T EY L D"
+	},
+	"DEARTH": {
+		"graphemes": "D EAR TH",
+		"phonemes":	"D ER TH"
+	},
+	"DEATHWATCH": {
+		"graphemes": "D EA TH W A TCH",
+		"phonemes":	"D EH TH W AA CH"
+	},
+	"DECAFFEINATE": {
+		"graphemes": "D E C A FF EI N A TE",
+		"phonemes":	"D IY K AE F AH N EY T"
+	},
+	"DELIBERATELY": {
+		"graphemes": "D E L I B ER A TE L Y",
+		"phonemes":	"D IH L IH B ER AH T L IY"
+	},
+	"DESPERATE(1)": {
+		"graphemes": "D E S P ER A TE",
+		"phonemes":	"D EH S P ER IH T"
+	},
+	"DESPERATELY": {
+		"graphemes": "D E S P ER A TE L Y",
+		"phonemes":	"D EH S P ER AH T L IY"
+	},
+	"DETAILED": {
+		"graphemes": "D E T AI L ED",
+		"phonemes":	"D IH T EY L D"
+	},
+	"DIFFERENTIATE": {
+		"graphemes": "D I FF ER E N T I A TE",
+		"phonemes":	"D IH F ER EH N SH IY EY T"
+	},
+	"DIFFERENTIATE(1)": {
+		"graphemes": "D I FF ER E N T I A TE",
+		"phonemes":	"D IH F ER EH N CH IY EY T"
+	},
+	"DIMENSIONED": {
+		"graphemes": "D I M E N SI O N ED",
+		"phonemes":	"D AH M EH N CH AH N D"
+	},
+	"DISHEVELED": {
+		"graphemes": "D I SH E V E L ED",
+		"phonemes":	"D IH SH EH V AH L D"
+	},
+	"DISINGENUOUS": {
+		"graphemes": "D I S I N G E N U OU S",
+		"phonemes":	"D IH S IH N JH EH N Y:UW AH S"
+	},
+	"DISINGENUOUSNESS": {
+		"graphemes": "D I S I N G E N U OU S N E SS",
+		"phonemes":	"D IH S IH N JH EH N Y:UW AH S N AH S"
+	},
+	"DOORKEEPER": {
+		"graphemes": "D OO R K EE P ER",
+		"phonemes":	"D AO R K IY P ER"
+	},
+	"DOVETAILED": {
+		"graphemes": "D O VE T AI L ED",
+		"phonemes":	"D AH V T EY L D"
+	},
+	"DUMBLEDORE": {
+		"graphemes": "D U M B LE D O RE",
+		"phonemes":	"D AH M B AH:L D AO R"
+	},
+	"EITHER": {
+		"graphemes": "EI TH ER",
+		"phonemes":	"IY DH ER"
+	},
+	"EITHER(1)": {
+		"graphemes": "EI TH ER",
+		"phonemes":	"AY DH ER"
+	},
+	"ELECTROCHEMICAL": {
+		"graphemes": "E L E C T R O CH E M I C A L",
+		"phonemes":	"AH L EH K T R OW K EH M IH K AH L"
+	},
+	"ELECTROMECHANICAL": {
+		"graphemes": "E L E C T R O M E CH A N I C A L",
+		"phonemes":	"IH L EH K T R OW M AH K AE N IH K AH L"
+	},
+	"ENAMELED": {
+		"graphemes": "E N A M E L ED",
+		"phonemes":	"IH N AE M AH L D"
+	},
+	"ENERGETICALLY": {
+		"graphemes": "E N ER G E T I CA LL Y",
+		"phonemes":	"EH N ER JH EH T IH K L IY"
+	},
+	"ESCHATOLOGICAL": {
+		"graphemes": "E S CH A T O L O G I C A L",
+		"phonemes":	"EH S K AH T AH L AA JH IH K AH L"
+	},
+	"EUCALYPTUS": {
+		"graphemes": "EU C A L Y P T U S",
+		"phonemes":	"Y:UW K AH L IH P T AH S"
+	},
+	"EUCHRE": {
+		"graphemes": "EU CH RE",
+		"phonemes":	"Y:UW K ER"
+	},
+	"EUCHRED": {
+		"graphemes": "EU CH R ED",
+		"phonemes":	"Y:UW K ER D"
+	},
+	"EUGENIC": {
+		"graphemes": "EU G E N I C",
+		"phonemes":	"Y:UW JH EH N IH K"
+	},
+	"EUGENICS": {
+		"graphemes": "EU G E N I C S",
+		"phonemes":	"Y:UW JH EH N IH K S"
+	},
+	"EULOGIZE": {
+		"graphemes": "EU L O G I ZE",
+		"phonemes":	"Y:UW L AH JH AY Z"
+	},
+	"EULOGY": {
+		"graphemes": "EU L O G Y",
+		"phonemes":	"Y:UW L AH JH IY"
+	},
+	"EUNUCH": {
+		"graphemes": "EU N U CH",
+		"phonemes":	"Y:UW N AH K"
+	},
+	"EUPHEMISM": {
+		"graphemes": "EU PH E M I S M",
+		"phonemes":	"Y:UW F AH M IH Z AH:M"
+	},
+	"EUPHEMISTIC": {
+		"graphemes": "EU PH E M I S T I C",
+		"phonemes":	"Y:UW F AH M IH S T IH K"
+	},
+	"EUPHEMISTICALLY": {
+		"graphemes": "EU PH E M I S T I CA LL Y",
+		"phonemes":	"Y:UW F AH M IH S T IH K L IY"
+	},
+	"EUPHONY": {
+		"graphemes": "EU PH O N Y",
+		"phonemes":	"Y:UW F AH N IY"
+	},
+	"EUPHORIA": {
+		"graphemes": "EU PH O R I A",
+		"phonemes":	"Y:UW F AO R IY AH"
+	},
+	"EUPHORIC": {
+		"graphemes": "EU PH O R I C",
+		"phonemes":	"Y:UW F AO R IH K"
+	},
+	"EUPHORY": {
+		"graphemes": "EU PH O R Y",
+		"phonemes":	"Y:UW F AO R IY"
+	},
+	"EUTHANASIA": {
+		"graphemes": "EU TH A N A SI A",
+		"phonemes":	"Y:UW TH AH N EY ZH AH"
+	},
+	"EUTHANASIA(1)": {
+		"graphemes": "EU TH A N A S I A",
+		"phonemes":	"Y:UW TH AH N EY ZH Y AH"
+	},
+	"EXTRACURRICULAR": {
+		"graphemes": "E X T R A C URR I C U L AR",
+		"phonemes":	"EH K:S T R AH K ER IH K Y:AH L ER"
+	},
+	"FABULOUS": {
+		"graphemes": "F A B U L OU S",
+		"phonemes":	"F AE B Y:AH L AH S"
+	},
+	"FATHERED": {
+		"graphemes": "F A TH ER ED",
+		"phonemes":	"F AA DH ER D"
+	},
+	"FEATHERED": {
+		"graphemes": "F EA TH ER ED",
+		"phonemes":	"F EH DH ER D"
+	},
+	"FEATHERWEIGHT": {
+		"graphemes": "F EA TH ER W EIGH T",
+		"phonemes":	"F EH DH ER W EY T"
+	},
+	"FEIGNED": {
+		"graphemes": "F EI GN ED",
+		"phonemes":	"F EY N D"
+	},
+	"FEIL": {
+		"graphemes": "F EI L",
+		"phonemes":	"F IY L"
+	},
+	"FEUD": {
+		"graphemes": "F EU D",
+		"phonemes":	"F Y:UW D"
+	},
+	"FEUDAL": {
+		"graphemes": "F EU D A L",
+		"phonemes":	"F Y:UW D AH L"
+	},
+	"FEUDALISM": {
+		"graphemes": "F EU D A L I S M",
+		"phonemes":	"F Y:UW D AH L IH Z AH:M"
+	},
+	"FEUDALISTIC": {
+		"graphemes": "F EU D A L I S T I C",
+		"phonemes":	"F Y:UW D AH L IH S T IH K"
+	},
+	"FLANNELED": {
+		"graphemes": "F L A NN E L ED",
+		"phonemes":	"F L AE N AH L D"
+	},
+	"FOREBEAR": {
+		"graphemes": "F O RE B EA R",
+		"phonemes":	"F AO R B EH R"
+	},
+	"FORECASTER": {
+		"graphemes": "F O RE C A S T ER",
+		"phonemes":	"F AO R K AE S T ER"
+	},
+	"FOREFATHER": {
+		"graphemes": "F O RE F A TH ER",
+		"phonemes":	"F AO R F AA DH ER"
+	},
+	"FOREIGN": {
+		"graphemes": "F O R EI GN",
+		"phonemes":	"F AO R AH N"
+	},
+	"FOREIGN(1)": {
+		"graphemes": "F O R EI GN",
+		"phonemes":	"F AA R AH N"
+	},
+	"FOREIGNER": {
+		"graphemes": "F O R EI GN ER",
+		"phonemes":	"F AO R AH N ER"
+	},
+	"FOREIGNER(1)": {
+		"graphemes": "F O R EI GN ER",
+		"phonemes":	"F AA R AH N ER"
+	},
+	"FORESEEABLE": {
+		"graphemes": "F O RE S EE A B LE",
+		"phonemes":	"F AO R S IY AH B AH:L"
+	},
+	"FORFEIT": {
+		"graphemes": "F O R F EI T",
+		"phonemes":	"F AO R F IH T"
+	},
+	"FORFEITS": {
+		"graphemes": "F O R F EI T S",
+		"phonemes":	"F AO R F IH T S"
+	},
+	"FORFEITURE": {
+		"graphemes": "F O R F EI T URE",
+		"phonemes":	"F AO R F AH CH ER"
+	},
+	"FRIENDSHIP": {
+		"graphemes": "F R IE N D SH I P",
+		"phonemes":	"F R EH N D SH IH P"
+	},
+	"FUNNELED": {
+		"graphemes": "F U NN E L ED",
+		"phonemes":	"F AH N AH L D"
+	},
+	"GAMEKEEPER": {
+		"graphemes": "G A ME K EE P ER",
+		"phonemes":	"G EY M K IY P ER"
+	},
+	"GATEKEEPER": {
+		"graphemes": "G A TE K EE P ER",
+		"phonemes":	"G EY T K IY P ER"
+	},
+	"GELATINOUS": {
+		"graphemes": "G E L A T I N OU S",
+		"phonemes":	"JH AH L AE T AH N AH S"
+	},
+	"GENERALIZED(1)": {
+		"graphemes": "G E N ER A L I Z ED",
+		"phonemes":	"JH EH N R AH L AY Z D"
+	},
+	"GEOMETRICALLY": {
+		"graphemes": "G EO M E T R I CA LL Y",
+		"phonemes":	"JH IY AH:M EH T R IH K L IY"
+	},
+	"GOLDENEYE": {
+		"graphemes": "G O L D E N EYE",
+		"phonemes":	"G OW L D AH N AY"
+	},
+	"GRAPESHOT": {
+		"graphemes": "G R A PE SH O T",
+		"phonemes":	"G R EY P SH AA T"
+	},
+	"GRIEVED": {
+		"graphemes": "G R IE VE D",
+		"phonemes":	"G R IY V D"
+	},
+	"HALLELUJAH": {
+		"graphemes": "H A LL E L U J AH",
+		"phonemes":	"HH AE L AH L UW Y AH"
+	},
+	"HAREBRAINED": {
+		"graphemes": "H A RE B R AI N ED",
+		"phonemes":	"HH EH R B R EY N D"
+	},
+	"HEELED": {
+		"graphemes": "H EE L ED",
+		"phonemes":	"HH IY L D"
+	},
+	"HEREAFTER": {
+		"graphemes": "H E RE A F T ER",
+		"phonemes":	"HH IH R AE F T ER"
+	},
+	"HIERARCHICAL": {
+		"graphemes": "H IE R A R CH I C A L",
+		"phonemes":	"HH AY R AA R K AH K AH L"
+	},
+	"HOMEMAKER": {
+		"graphemes": "H O ME M A K ER",
+		"phonemes":	"HH OW M M EY K ER"
+	},
+	"HOMEOWNER": {
+		"graphemes": "H O ME OW N ER",
+		"phonemes":	"HH OW M OW N ER"
+	},
+	"HOMESICKNESS": {
+		"graphemes": "H O ME S I CK N E SS",
+		"phonemes":	"HH OW M S IH K N AH S"
+	},
+	"HOMESTEAD": {
+		"graphemes": "H O ME S T EA D",
+		"phonemes":	"HH OW M S T EH D"
+	},
+	"HOMESTEADER": {
+		"graphemes": "H O ME S T EA D ER",
+		"phonemes":	"HH OW M S T EH D ER"
+	},
+	"HOMEWORKER": {
+		"graphemes": "H O ME W OR K ER",
+		"phonemes":	"HH OW M W ER K ER"
+	},
+	"HOPELESSLY": {
+		"graphemes": "H O PE L E SS L Y",
+		"phonemes":	"HH OW P L AH S L IY"
+	},
+	"HORSEMANSHIP": {
+		"graphemes": "H O R SE M A N SH I P",
+		"phonemes":	"HH AO R S M AH N SH IH P"
+	},
+	"HOSTLER": {
+		"graphemes": "H O ST L ER",
+		"phonemes":	"HH AA S L ER"
+	},
+	"HOUSEHOLDER": {
+		"graphemes": "H OU SE H O L D ER",
+		"phonemes":	"HH AW S HH OW L D ER"
+	},
+	"HOUSEKEEPER": {
+		"graphemes": "H OU SE K EE P ER",
+		"phonemes":	"HH AW S K IY P ER"
+	},
+	"HUSTLER": {
+		"graphemes": "H U ST L ER",
+		"phonemes":	"HH AH S AH:L ER"
+	},
+	"HUSTLER(1)": {
+		"graphemes": "H U ST L ER",
+		"phonemes":	"HH AH S L ER"
+	},
+	"IDEOLOGICALLY": {
+		"graphemes": "I D E O L O G I CA LL Y",
+		"phonemes":	"AY D IY AH L AA JH IH K L IY"
+	},
+	"IMMACULATELY": {
+		"graphemes": "I MM A C U L A TE L Y",
+		"phonemes":	"IH M AE K Y:AH L AH T L IY"
+	},
+	"INGENUOUS": {
+		"graphemes": "I N G E N U OU S",
+		"phonemes":	"IH N JH EH N Y:UW AH S"
+	},
+	"INNOCUOUS": {
+		"graphemes": "I NN O C U OU S",
+		"phonemes":	"IH N AA K Y:UW AH S"
+	},
+	"INTERCOURSE": {
+		"graphemes": "I N T ER C OU R SE",
+		"phonemes":	"IH N T ER K AO R S"
+	},
+	"INTERMARRIAGE": {
+		"graphemes": "I N T ER M A RR IA GE",
+		"phonemes":	"IH N T ER M EH R IH JH"
+	},
+	"INTERMOUNTAIN": {
+		"graphemes": "I N T ER M OU N T AI N",
+		"phonemes":	"IH N T ER M AW N T IH N"
+	},
+	"INVERSELY": {
+		"graphemes": "I N V ER SE L Y",
+		"phonemes":	"IH N V ER S L IY"
+	},
+	"JEOPARDIZE": {
+		"graphemes": "J EO P AR D I ZE",
+		"phonemes":	"JH EH P ER D AY Z"
+	},
+	"JEOPARDY": {
+		"graphemes": "J EO P AR D Y",
+		"phonemes":	"JH EH P ER D IY"
+	},
+	"JOKESTER": {
+		"graphemes": "J O KE S T ER",
+		"phonemes":	"JH OW K S T ER"
+	},
+	"JUDGESHIP": {
+		"graphemes": "J U DGE SH I P",
+		"phonemes":	"JH AH JH SH IH P"
+	},
+	"KNOWLEDGEABLE": {
+		"graphemes": "KN OW L E DGE A B LE",
+		"phonemes":	"N AA L AH JH AH B AH:L"
+	},
+	"LATECOMER": {
+		"graphemes": "L A TE C O M ER",
+		"phonemes":	"L EY T K AH M ER"
+	},
+	"LEISTER": {
+		"graphemes": "L EI S T ER",
+		"phonemes":	"L IY S T ER"
+	},
+	"LEISURELY": {
+		"graphemes": "L EI S URE L Y",
+		"phonemes":	"L IY Z ER L IY"
+	},
+	"LEOPARD": {
+		"graphemes": "L EO P AR D",
+		"phonemes":	"L EH P ER D"
+	},
+	"LEPRECHAUN": {
+		"graphemes": "L E P RE CH AU N",
+		"phonemes":	"L EH P ER K AO N"
+	},
+	"LIFESAVER": {
+		"graphemes": "L I FE S A V ER",
+		"phonemes":	"L AY F S EY V ER"
+	},
+	"LIPOPROTEIN": {
+		"graphemes": "L I P O P R O T EI N",
+		"phonemes":	"L IH P AH P R OW T IY N"
+	},
+	"MADEMOISELLE": {
+		"graphemes": "M A D E M OI S E LLE",
+		"phonemes":	"M AE D AH M AH Z EH L"
+	},
+	"MAILED": {
+		"graphemes": "M AI L ED",
+		"phonemes":	"M EY L D"
+	},
+	"MAIMED": {
+		"graphemes": "M AI M ED",
+		"phonemes":	"M EY M D"
+	},
+	"MAKESHIFT": {
+		"graphemes": "M A KE SH I F T",
+		"phonemes":	"M EY K SH IH F T"
+	},
+	"MANEUVERABLE": {
+		"graphemes": "M A N EU V ER A B LE",
+		"phonemes":	"M AH N UW V ER AH B AH:L"
+	},
+	"MARVELOUS": {
+		"graphemes": "M A R V E L OU S",
+		"phonemes":	"M AA R V AH L AH S"
+	},
+	"MARVELOUSLY": {
+		"graphemes": "M A R V E L OU S L Y",
+		"phonemes":	"M AA R V AH L AH S L IY"
+	},
+	"MASQUERADE": {
+		"graphemes": "M A S QU ER A DE",
+		"phonemes":	"M AE S K ER EY D"
+	},
+	"MEASUREMENT": {
+		"graphemes": "M EA S URE M E N T",
+		"phonemes":	"M EH ZH ER M AH N T"
+	},
+	"MECHANICAL": {
+		"graphemes": "M E CH A N I C A L",
+		"phonemes":	"M AH K AE N IH K AH L"
+	},
+	"MEIN": {
+		"graphemes": "M EI N",
+		"phonemes":	"M IY N"
+	},
+	"MELODIOUS": {
+		"graphemes": "M E L O D I OU S",
+		"phonemes":	"M AH L OW D IY AH S"
+	},
+	"METICULOUS": {
+		"graphemes": "M E T I C U L OU S",
+		"phonemes":	"M AH T IH K Y:AH L AH S"
+	},
+	"METICULOUSLY": {
+		"graphemes": "M E T I C U L OU S L Y",
+		"phonemes":	"M AH T IH K Y:AH L AH S L IY"
+	},
+	"MEUSE": {
+		"graphemes": "M EU SE",
+		"phonemes":	"M Y:UW Z"
+	},
+	"MILEAGE": {
+		"graphemes": "M I LE A GE",
+		"phonemes":	"M AY L AH JH"
+	},
+	"MILEAGE(1)": {
+		"graphemes": "M I LE A GE",
+		"phonemes":	"M AY L IH JH"
+	},
+	"MINEOWNER": {
+		"graphemes": "M I NE OW N ER",
+		"phonemes":	"M AY N OW N ER"
+	},
+	"MINEWORKER": {
+		"graphemes": "M I NE W OR K ER",
+		"phonemes":	"M AY N W ER K ER"
+	},
+	"MIRACULOUS": {
+		"graphemes": "M IR A C U L OU S",
+		"phonemes":	"M ER AE K Y:AH L AH S"
+	},
+	"MIRACULOUSLY": {
+		"graphemes": "M IR A C U L OU S L Y",
+		"phonemes":	"M ER AE K Y:AH L AH S L IY"
+	},
+	"MISCHARACTERIZE": {
+		"graphemes": "M I S CH A R A C T ER I ZE",
+		"phonemes":	"M IH S K AE R AH K T ER AY Z"
+	},
+	"MODERATELY": {
+		"graphemes": "M O D ER A TE L Y",
+		"phonemes":	"M AA D ER AH T L IY"
+	},
+	"MOREOVER": {
+		"graphemes": "M O RE O V ER",
+		"phonemes":	"M AO R OW V ER"
+	},
+	"MOUTHED": {
+		"graphemes": "M OU TH ED",
+		"phonemes":	"M AW DH D"
+	},
+	"MUSCLED": {
+		"graphemes": "M U SC LE D",
+		"phonemes":	"M AH S AH:L D"
+	},
+	"NEBULOUS": {
+		"graphemes": "N E B U L OU S",
+		"phonemes":	"N EH B Y:AH L AH S"
+	},
+	"NEEDLELIKE": {
+		"graphemes": "N EE D LE L I KE",
+		"phonemes":	"N IY D AH:L L AY K"
+	},
+	"NEITHER": {
+		"graphemes": "N EI TH ER",
+		"phonemes":	"N IY DH ER"
+	},
+	"NEITHER(1)": {
+		"graphemes": "N EI TH ER",
+		"phonemes":	"N AY DH ER"
+	},
+	"NESTLER": {
+		"graphemes": "N E ST L ER",
+		"phonemes":	"N EH S AH:L ER"
+	},
+	"NESTLER(1)": {
+		"graphemes": "N E ST L ER",
+		"phonemes":	"N EH S L ER"
+	},
+	"NEURAL(1)": {
+		"graphemes": "N EU R A L",
+		"phonemes":	"N Y:UH R AH L"
+	},
+	"NEURASTHENIA": {
+		"graphemes": "N EU R A S TH E N I A",
+		"phonemes":	"N UH R AE S TH IY N IY AH"
+	},
+	"NEUROLOGICAL": {
+		"graphemes": "N EU R O L O G I C A L",
+		"phonemes":	"N UH R AH L AA JH IH K AH L"
+	},
+	"NEUROPATHY": {
+		"graphemes": "N EU R O P A TH Y",
+		"phonemes":	"N UH R OW P AE TH IY"
+	},
+	"NEUROPATHY(1)": {
+		"graphemes": "N EU R O P A TH Y",
+		"phonemes":	"N UH R AO P AH TH IY"
+	},
+	"NEUROPATHY(2)": {
+		"graphemes":	"N EU R O P A TH Y",
+		"phonemes":	"N Y:UH R OW P AE TH IY"
+	},
+	"NEUROSURGEON": {
+		"graphemes": "N EU R O S UR GE O N",
+		"phonemes":	"N UH R OW S ER JH AH N"
+	},
+	"NONETHELESS": {
+		"graphemes": "N O NE TH E L E SS",
+		"phonemes":	"N AH N DH AH L EH S"
+	},
+	"NOSEBLEED": {
+		"graphemes": "N O SE B L EE D",
+		"phonemes":	"N OW Z B L IY D"
+	},
+	"NOTEHOLDER": {
+		"graphemes": "N O TE H O L D ER",
+		"phonemes":	"N OW T HH OW L D ER"
+	},
+	"OCEANSIDE": {
+		"graphemes": "O C EA N S I DE",
+		"phonemes":	"OW SH AH N S AY D"
+	},
+	"OILED": {
+		"graphemes": "OI L ED",
+		"phonemes":	"OY L D"
+	},
+	"OVEREXCITE": {
+		"graphemes": "O V ER E XC I TE",
+		"phonemes":	"OW V ER EH K:S AY T"
+	},
+	"OVERSTATEMENT": {
+		"graphemes": "O V ER S T A TE M E N T",
+		"phonemes":	"OW V ER S T EY T M AH N T"
+	},
+	"PEELED": {
+		"graphemes": "P EE L ED",
+		"phonemes":	"P IY L D"
+	},
+	"PEEVED": {
+		"graphemes": "P EE V ED",
+		"phonemes":	"P IY V D"
+	},
+	"PEINE": {
+		"graphemes": "P EI NE",
+		"phonemes":	"P IY N"
+	},
+	"PEOPLED": {
+		"graphemes": "P EO P LE D",
+		"phonemes":	"P IY P AH:L D"
+	},
+	"PERVERSELY": {
+		"graphemes": "P ER V ER SE L Y",
+		"phonemes":	"P ER V ER S L IY"
+	},
+	"PETROCHEMICAL": {
+		"graphemes": "P E T R O CH E M I C A L",
+		"phonemes":	"P EH T R OW K EH M IH K AH L"
+	},
+	"PHENOLPHTHALEIN": {
+		"graphemes": "PH E N O L PH TH A L EI N",
+		"phonemes":	"F IY N AA L F TH EY L AH N"
+	},
+	"PHENOLPHTHALEIN(1)": {
+		"graphemes": "PH E N O L PH TH A L EI N",
+		"phonemes":	"F EH N AA L F TH EY L AH N"
+	},
+	"PHOTOCHEMICAL": {
+		"graphemes": "PH O T O CH E M I C A L",
+		"phonemes":	"F OW T OW K EH M IH K AH L"
+	},
+	"PLAGUED": {
+		"graphemes": "P L A GUE D",
+		"phonemes":	"P L EY G D"
+	},
+	"PLEBEIAN": {
+		"graphemes": "P L E B EI A N",
+		"phonemes":	"P L AH B IY AH N"
+	},
+	"PLEIAD": {
+		"graphemes": "P L EI A D",
+		"phonemes":	"P L IY AH D"
+	},
+	"POIGNANCY": {
+		"graphemes": "P OI GN A N C Y",
+		"phonemes":	"P OY N Y:AH N S IY"
+	},
+	"POIGNANT": {
+		"graphemes": "P OI GN A N T",
+		"phonemes":	"P OY N Y:AH N T"
+	},
+	"POIGNANTLY": {
+		"graphemes": "P OI GN A N T L Y",
+		"phonemes":	"P OY N Y:AH N T L IY"
+	},
+	"POISED": {
+		"graphemes": "P OI SE D",
+		"phonemes":	"P OY Z D"
+	},
+	"POPEYE": {
+		"graphemes": "P O P EYE",
+		"phonemes":	"P AA P AY"
+	},
+	"POPULOUS": {
+		"graphemes": "P O P U L OU S",
+		"phonemes":	"P AA P Y:AH L AH S"
+	},
+	"PORCELAIN": {
+		"graphemes": "P O R C E L AI N",
+		"phonemes":	"P AO R S AH L AH N"
+	},
+	"PRECONCEIVED": {
+		"graphemes": "P R E C O N C EI V ED",
+		"phonemes":	"P R IY K AH N S IY V D"
+	},
+	"PREMIERSHIP": {
+		"graphemes": "P R E M IE R SH I P",
+		"phonemes":	"P R EH M IH R SH IH P"
+	},
+	"PROTEIN": {
+		"graphemes": "P R O T EI N",
+		"phonemes":	"P R OW T IY N"
+	},
+	"PROTEINACEOUS": {
+		"graphemes": "P R O T EI N A CE OU S",
+		"phonemes":	"P R OW T IH N EY SH AH S"
+	},
+	"PSYCHIC": {
+		"graphemes": "PS Y CH I C",
+		"phonemes":	"S AY K IH K"
+	},
+	"PSYCHICAL": {
+		"graphemes": "PS Y CH I C A L",
+		"phonemes":	"S AY K IH K AH L"
+	},
+	"PSYCHICS": {
+		"graphemes": "PS Y CH I C S",
+		"phonemes":	"S AY K IH K S"
+	},
+	"PSYCHOLOGICAL": {
+		"graphemes": "PS Y CH O L O G I C A L",
+		"phonemes":	"S AY K AH L AA JH IH K AH L"
+	},
+	"PSYCHOLOGIST": {
+		"graphemes": "PS Y CH O L O G I S T",
+		"phonemes":	"S AY K AA L AH JH AH S T"
+	},
+	"PSYCHOLOGY": {
+		"graphemes": "PS Y CH O L O G Y",
+		"phonemes":	"S AY K AA L AH JH IY"
+	},
+	"PSYCHOPATHY": {
+		"graphemes": "PS Y CH O P A TH Y",
+		"phonemes":	"S AY K AA P AH TH IY"
+	},
+	"PSYCHOSOCIAL": {
+		"graphemes": "PS Y CH O S O CI A L",
+		"phonemes":	"S AY K OW S OW SH AH L"
+	},
+	"PSYCHOTHERAPEUTIC": {
+		"graphemes": "PS Y CH O TH E R A P EU T I C",
+		"phonemes":	"S AY K OW TH EH R AH P Y:UW T IH K"
+	},
+	"PSYCHOTIC": {
+		"graphemes": "PS Y CH O T I C",
+		"phonemes":	"S AY K AA T IH K"
+	},
+	"QUARRELED": {
+		"graphemes": "Q U A RR E L ED",
+		"phonemes":	"K W AO R AH L D"
+	},
+	"QUEERER": {
+		"graphemes": "Q U EE R ER",
+		"phonemes":	"K W IH R ER"
+	},
+	"QUEUE": {
+		"graphemes": "Q UEUE",
+		"phonemes":	"K Y:UW"
+	},
+	"RAISED": {
+		"graphemes": "R AI SE D",
+		"phonemes":	"R EY Z D"
+	},
+	"RAPESEED": {
+		"graphemes": "R A PE S EE D",
+		"phonemes":	"R EY P S IY D"
+	},
+	"REALISTICALLY": {
+		"graphemes": "R E A L I S T I CA LL Y",
+		"phonemes":	"R IY AH L IH S T IH K L IY"
+	},
+	"RECEIVED": {
+		"graphemes": "R E CE I V ED",
+		"phonemes":	"R AH S IY V D"
+	},
+	"RECEIVED(1)": {
+		"graphemes": "R E CE I V ED",
+		"phonemes":	"R IH S IY V D"
+	},
+	"RECEIVED(2)": {
+		"graphemes": "R E CE I V ED",
+		"phonemes":	"R IY S IY V D"
+	},
+	"REELED": {
+		"graphemes": "R EE L ED",
+		"phonemes":	"R IY L D"
+	},
+	"RELIEVED": {
+		"graphemes": "R E L IE V ED",
+		"phonemes":	"R IH L IY V D"
+	},
+	"RELIEVED(1)": {
+		"graphemes": "R E L IE V ED",
+		"phonemes":	"R IY L IY V D"
+	},
+	"REPERTOIRE": {
+		"graphemes": "R E P ER T OI RE",
+		"phonemes":	"R EH P ER T W:AA R"
+	},
+	"RESERVOIR(1)": {
+		"graphemes": "R E S ER V OI R",
+		"phonemes":	"R EH Z ER V W:AA R"
+	},
+	"RHETORICAL": {
+		"graphemes": "RH E T O R I C A L",
+		"phonemes":	"R IH T AO R IH K AH L"
+	},
+	"RHIZOIDAL": {
+		"graphemes": "RH I Z OI D A L",
+		"phonemes":	"R AY Z OY D AH L"
+	},
+	"RIDICULOUS": {
+		"graphemes": "R I D I C U L OU S",
+		"phonemes":	"R IH D IH K Y:AH L AH S"
+	},
+	"RIDICULOUSLY": {
+		"graphemes": "R I D I C U L OU S L Y",
+		"phonemes":	"R AH D IH K Y:AH L AH S L IY"
+	},
+	"RUSTLER": {
+		"graphemes": "R U ST LE R",
+		"phonemes":	"R AH S L ER"
+	},
+	"SAILED": {
+		"graphemes": "S AI L ED",
+		"phonemes":	"S EY L D"
+	},
+	"SCANDALOUS": {
+		"graphemes": "S C A N D A L OU S",
+		"phonemes":	"S K AE N D AH L AH S"
+	},
+	"SCHEFFEL": {
+		"graphemes": "SCH E FF E L",
+		"phonemes":	"SH EH F AH L"
+	},
+	"SCHIMMEL": {
+		"graphemes": "SCH I MM E L",
+		"phonemes":	"SH IH M AH L"
+	},
+	"SCOREKEEPER": {
+		"graphemes": "S C O RE K EE P ER",
+		"phonemes":	"S K AO R K IY P ER"
+	},
+	"SCREENED": {
+		"graphemes": "S C R EE N ED",
+		"phonemes":	"S K R IY N D"
+	},
+	"SCRIVENER": {
+		"graphemes": "S C R I VE N ER",
+		"phonemes":	"S K R IH V N ER"
+	},
+	"SCRUPULOUS": {
+		"graphemes": "S C R U P U L OU S",
+		"phonemes":	"S K R UW P Y:AH L AH S"
+	},
+	"SCRUPULOUSLY": {
+		"graphemes": "S C R U P U L OU S L Y",
+		"phonemes":	"S K R UW P Y AH:L AH S L IY"
+	},
+	"SEIGNIORAGE": {
+		"graphemes": "S EI G N I OR A GE",
+		"phonemes":	"S IY G N IY ER IH JH"
+	},
+	"SEIZE": {
+		"graphemes": "S EI ZE",
+		"phonemes":	"S IY Z"
+	},
+	"SEIZING": {
+		"graphemes": "S EI Z I NG",
+		"phonemes":	"S IY Z IH NG"
+	},
+	"SEIZURE": {
+		"graphemes": "S EI Z URE",
+		"phonemes":	"S IY ZH ER"
+	},
+	"SELECTIVELY": {
+		"graphemes": "S E L E C T I VE L Y",
+		"phonemes":	"S AH L EH K T IH V L IY"
+	},
+	"SEPARATELY": {
+		"graphemes": "S E P AR A TE L Y",
+		"phonemes":	"S EH P ER AH T L IY"
+	},
+	"SEPARATENESS": {
+		"graphemes": "S E P AR A TE N E SS",
+		"phonemes":	"S EH P ER AH T N AH S"
+	},
+	"SEPARATES": {
+		"graphemes": "S E P AR A TE S",
+		"phonemes":	"S EH P ER EY T S"
+	},
+	"SEPARATES(1)": {
+		"graphemes": "S E P AR A TE S",
+		"phonemes":	"S EH P ER IH T S"
+	},
+	"SHARECROPPER": {
+		"graphemes": "SH A RE C R O PP ER",
+		"phonemes":	"SH EH R K R AA P ER"
+	},
+	"SHAREHOLDER": {
+		"graphemes": "SH A RE H O L D ER",
+		"phonemes":	"SH EH R HH OW L D ER"
+	},
+	"SHEATHED": {
+		"graphemes": "SH EA THE D",
+		"phonemes":	"SH IY DH D"
+	},
+	"SHOREWARD": {
+		"graphemes": "SH O RE W AR D",
+		"phonemes":	"SH AO R W ER D"
+	},
+	"SIDEWINDER": {
+		"graphemes": "S I DE W I N D ER",
+		"phonemes":	"S AY D W AY N D ER"
+	},
+	"SIZEABLE": {
+		"graphemes": "S I ZE A B LE",
+		"phonemes":	"S AY Z AH B AH:L"
+	},
+	"SLAUGHTERHOUSE": {
+		"graphemes": "S L AUGH T ER H OU SE",
+		"phonemes":	"S L AO T ER HH AW S"
+	},
+	"SLEEVED": {
+		"graphemes": "S LE E VE D",
+		"phonemes":	"S L IY V D"
+	},
+	"SLEUTH": {
+		"graphemes": "S L EU TH",
+		"phonemes":	"S L UW TH"
+	},
+	"SMOTHERED": {
+		"graphemes": "S M O TH ER ED",
+		"phonemes":	"S M AH DH ER D"
+	},
+	"SOILED": {
+		"graphemes": "S OI L ED",
+		"phonemes":	"S OY L D"
+	},
+	"SOUTHER": {
+		"graphemes": "S OU TH ER",
+		"phonemes":	"S AH DH ER"
+	},
+	"SOUTHERLAND": {
+		"graphemes": "S OU TH ER L A N D",
+		"phonemes":	"S AH DH ER L AH N D"
+	},
+	"SOUTHERLY": {
+		"graphemes": "S OU TH ER L Y",
+		"phonemes":	"S AH DH ER L IY"
+	},
+	"SOUTHERN": {
+		"graphemes": "S OU TH ER N",
+		"phonemes":	"S AH DH ER N"
+	},
+	"SOUTHERNER": {
+		"graphemes": "S OU TH ER NE R",
+		"phonemes":	"S AH DH ER N ER"
+	},
+	"SOUTHERNMOST": {
+		"graphemes": "S OU TH ER N M O S T",
+		"phonemes":	"S AH DH ER N M OW S T"
+	},
+	"SOVEREIGN": {
+		"graphemes": "S O VE R EI GN",
+		"phonemes":	"S AA V R AH N"
+	},
+	"SOVEREIGNTY": {
+		"graphemes": "S O VE R EI GN T Y",
+		"phonemes":	"S AA V R AH N T IY"
+	},
+	"SPOILED": {
+		"graphemes": "S P OI L ED",
+		"phonemes":	"S P OY L D"
+	},
+	"STAKEHOLDER": {
+		"graphemes": "S T A KE H O L D ER",
+		"phonemes":	"S T EY K HH OW L D ER"
+	},
+	"STATESMANSHIP": {
+		"graphemes": "S T A TE S M A N SH I P",
+		"phonemes":	"S T EY T S M AH N SH IH P"
+	},
+	"STONECUTTER": {
+		"graphemes": "S T O NE C U TT ER",
+		"phonemes":	"S T OW N K AH T ER"
+	},
+	"STOREKEEPER": {
+		"graphemes": "S T O RE K EE P ER",
+		"phonemes":	"S T AO R K IY P ER"
+	},
+	"STRENUOUS": {
+		"graphemes": "S T R E N U OU S",
+		"phonemes":	"S T R EH N Y:UW AH S"
+	},
+	"STRENUOUSLY": {
+		"graphemes": "S T R E N U OU S L Y",
+		"phonemes":	"S T R EH N Y:UW AH S L IY"
+	},
+	"STRIKEBREAKER": {
+		"graphemes": "S T R I KE B R EA K ER",
+		"phonemes":	"S T R AY K B R EY K ER"
+	},
+	"SURFEIT": {
+		"graphemes": "S UR F EI T",
+		"phonemes":	"S ER F AH T"
+	},
+	"SURREALISM(1)": {
+		"graphemes": "S URR E A L I S M",
+		"phonemes":	"S ER IY AH L IH Z AH:M"
+	},
+	"SURREALISTIC(1)": {
+		"graphemes": "S URR E A L I S T I C",
+		"phonemes":	"S ER IY AH L IH S T IH K"
+	},
+	"SWIVELED": {
+		"graphemes": "S W I V E L ED",
+		"phonemes":	"S W IH V AH L D"
+	},
+	"SYSTEMATICALLY": {
+		"graphemes": "S Y S T E M A T I CA LL Y",
+		"phonemes":	"S IH S T AH M AE T IH K L IY"
+	},
+	"TAILED": {
+		"graphemes": "T AI L ED",
+		"phonemes":	"T EY L D"
+	},
+	"TEMPERATE(1)": {
+		"graphemes": "T E M P ER A TE",
+		"phonemes":	"T EH M P ER AH T"
+	},
+	"THEMATICALLY": {
+		"graphemes": "TH E M A T I CA LL Y",
+		"phonemes":	"TH AH M AE T IH K L IY"
+	},
+	"THEOLOGICALLY": {
+		"graphemes": "TH E O L O G I CA LL Y",
+		"phonemes":	"TH IY AH L AA JH IH K L IY"
+	},
+	"THEOREM": {
+		"graphemes": "TH E OR E M",
+		"phonemes":	"TH IH R AH M"
+	},
+	"THEORY": {
+		"graphemes": "TH E OR Y",
+		"phonemes":	"TH IH R IY"
+	},
+	"THEORY(1)": {
+		"graphemes": "TH E OR Y",
+		"phonemes":	"TH IY ER IY"
+	},
+	"THERAPEUTIC": {
+		"graphemes": "TH E R A P EU T I C",
+		"phonemes":	"TH EH R AH P Y:UW T IH K"
+	},
+	"THERAPEUTICALLY": {
+		"graphemes": "TH E R A P EU T I C A LL Y",
+		"phonemes":	"TH EH R AH P Y:UW T IH K AH L IY"
+	},
+	"THERAPEUTICALLY(1)": {
+		"graphemes": "TH E R A P EU T I CA LL Y",
+		"phonemes":	"TH EH R AH P Y:UW T IH K L IY"
+	},
+	"THERAPEUTICS": {
+		"graphemes": "TH E R A P EU T I C S",
+		"phonemes":	"TH EH R AH P Y:UW T IH K S"
+	},
+	"THEREABOUTS": {
+		"graphemes": "TH E RE A B OU T S",
+		"phonemes":	"DH EH R AH B AW T S"
+	},
+	"THEREAFTER": {
+		"graphemes": "TH E RE A F T ER",
+		"phonemes":	"DH EH R AE F T ER"
+	},
+	"THEREIN": {
+		"graphemes": "TH E RE I N",
+		"phonemes":	"DH EH R IH N"
+	},
+	"THUMBED": {
+		"graphemes": "TH U MB ED",
+		"phonemes":	"TH AH M D"
+	},
+	"THUNDEROUS": {
+		"graphemes": "TH U N D ER OU S",
+		"phonemes":	"TH AH N D ER AH S"
+	},
+	"TIDEWATER": {
+		"graphemes": "T I DE W A T ER",
+		"phonemes":	"T AY D W AO T ER"
+	},
+	"TIERED": {
+		"graphemes": "T IE R ED",
+		"phonemes":	"T IY R D"
+	},
+	"TIRELESSLY": {
+		"graphemes": "T I RE L E SS L Y",
+		"phonemes":	"T AY R L AH S L IY"
+	},
+	"TIREMAKER": {
+		"graphemes": "T I RE M A K ER",
+		"phonemes":	"T AY R M EY K ER"
+	},
+	"TITLEHOLDER": {
+		"graphemes": "T I T LE H O L D ER",
+		"phonemes":	"T AY T AH:L HH OW L D ER"
+	},
+	"TOILED": {
+		"graphemes": "T OI L ED",
+		"phonemes":	"T OY L D"
+	},
+	"TRACHEAL": {
+		"graphemes": "T R A CH E A L",
+		"phonemes":	"T R EY K IY AH L"
+	},
+	"TRAVELED": {
+		"graphemes": "T R A V E L ED",
+		"phonemes":	"T R AE V AH L D"
+	},
+	"TREMENDOUS": {
+		"graphemes": "T R E M E N D OU S",
+		"phonemes":	"T R AH M EH N D AH S"
+	},
+	"TREMENDOUSLY": {
+		"graphemes": "T R E M E N D OU S L Y",
+		"phonemes":	"T R AH M EH N D AH S L IY"
+	},
+	"TREMULOUS": {
+		"graphemes": "T R E M U L OU S",
+		"phonemes":	"T R EH M Y:AH L AH S"
+	},
+	"TREMULOUSLY": {
+		"graphemes": "T R E M U L OU S L Y",
+		"phonemes":	"T R EH M Y:AH L AH S L IY"
+	},
+	"TROUBLEMAKER": {
+		"graphemes": "T R OU B LE M A K ER",
+		"phonemes":	"T R AH B AH:L M EY K ER"
+	},
+	"TYPEWRITER": {
+		"graphemes": "T Y PE WR I T ER",
+		"phonemes":	"T AY P R AY T ER"
+	},
+	"UNAMBIGUOUSLY": {
+		"graphemes": "U N A M B I G U OU S L Y",
+		"phonemes":	"AH N AE M B IH G Y:UW AH S L IY"
+	},
+	"UNANSWERED": {
+		"graphemes": "U N A N SW ER ED",
+		"phonemes":	"AH N AE N S ER D"
+	},
+	"UNAUTHORIZED": {
+		"graphemes": "U N AU TH OR I Z ED",
+		"phonemes":	"AH N AO TH ER AY Z D"
+	},
+	"UNCEREMONIOUS": {
+		"graphemes": "U N C E R E M O N I OU S",
+		"phonemes":	"AH N S EH R AH M OW N IY AH S"
+	},
+	"UNCEREMONIOUSLY": {
+		"graphemes": "U N C E R E M O N I OU S L Y",
+		"phonemes":	"AH N S EH R AH M OW N IY AH S L IY"
+	},
+	"UNCHARACTERISTICALLY": {
+		"graphemes": "U N CH A R A C T ER I S T I CA LL Y",
+		"phonemes":	"AH N K EH R IH K T ER IH S T IH K L IY"
+	},
+	"UNCLAIMED": {
+		"graphemes": "U N C L AI M ED",
+		"phonemes":	"AH N K L EY M D"
+	},
+	"UNCOILED": {
+		"graphemes": "U N C OI L ED",
+		"phonemes":	"AH N K OY L D"
+	},
+	"UNCONSTRAINED": {
+		"graphemes": "U N C O N S T R AI N ED",
+		"phonemes":	"AH N K AH N S T R EY N D"
+	},
+	"UNDERCARRIAGE": {
+		"graphemes": "U N D ER C A RR IA GE",
+		"phonemes":	"AH N D ER K AE R IH JH"
+	},
+	"UNDERSTATEMENT": {
+		"graphemes": "U N D ER S T A TE M E N T",
+		"phonemes":	"AH N D ER S T EY T M AH N T"
+	},
+	"UNEARTH": {
+		"graphemes": "U N EAR TH",
+		"phonemes":	"AH N ER TH"
+	},
+	"UNEARTHED": {
+		"graphemes": "U N EAR TH ED",
+		"phonemes":	"AH N ER TH T"
+	},
+	"UNEARTHLY": {
+		"graphemes": "U N EAR TH L Y",
+		"phonemes":	"AH N ER TH L IY"
+	},
+	"UNFORESEEABLE": {
+		"graphemes": "U N F O RE S EE A B LE",
+		"phonemes":	"AH N F AO R S IY AH B AH:L"
+	},
+	"UNLABELED": {
+		"graphemes": "U N L A B E L ED",
+		"phonemes":	"AH N L EY B AH L D"
+	},
+	"UNRAVELED": {
+		"graphemes": "U N R A V E L ED",
+		"phonemes":	"AH N R AE V AH L D"
+	},
+	"UNREALIZED": {
+		"graphemes": "U N R E A L I Z ED",
+		"phonemes":	"AH N R IY AH L AY Z D"
+	},
+	"UNREDEEMED": {
+		"graphemes": "U N R E D EE M ED",
+		"phonemes":	"AH N R IY D IY M D"
+	},
+	"UNRELIEVED": {
+		"graphemes": "U N R E L IE V ED",
+		"phonemes":	"AH N R IY L IY V D"
+	},
+	"UNSCATHED": {
+		"graphemes": "U N S C A TH ED",
+		"phonemes":	"AH N S K EY DH D"
+	},
+	"UNSCRUPULOUS": {
+		"graphemes": "U N S C R U P U L OU S",
+		"phonemes":	"AH N S K R UW P Y:AH L AH S"
+	},
+	"UNSPOILED": {
+		"graphemes": "U N S P OI L ED",
+		"phonemes":	"AH N S P OY L D"
+	},
+	"UNTRAMMELED": {
+		"graphemes": "U N T R A MM E L ED",
+		"phonemes":	"AH N T R AE M AH L D"
+	},
+	"UNVEILED": {
+		"graphemes": "U N V EI L ED",
+		"phonemes":	"AH N V EY L D"
+	},
+	"USUALLY(1)": {
+		"graphemes": "U S UA LL Y",
+		"phonemes": "Y:UW ZH AH L IY"
+	},
+	"OVEREXPOSURE": {
+	    "graphemes": "O V ER E X P O S URE",
+	    "phonemes": "OW V ER IH K:S P OW ZH ER"
+	},
+	"VACUOUS": {
+		"graphemes": "V A C U OU S",
+		"phonemes":	"V AE K Y:UW AH S"
+	},
+	"VEILED": {
+		"graphemes": "V EI L ED",
+		"phonemes":	"V EY L D"
+	},
+	"VERTICALLY": {
+		"graphemes": "V ER T I CA LL Y",
+		"phonemes":	"V ER T IH K L IY"
+	},
+	"VEUVE": {
+		"graphemes": "V EU VE",
+		"phonemes":	"V Y:UW V"
+	},
+	"VOYEUR": {
+		"graphemes": "V OY EU R",
+		"phonemes":	"V OY Y:UW R"
+	},
+	"VOYEURISM": {
+		"graphemes": "V OY EU R I S M",
+		"phonemes":	"V OY Y:UW R IH Z AH:M"
+	},
+	"WAREHOUSED": {
+		"graphemes": "W A RE H OU SE D",
+		"phonemes":	"W EH R HH AW Z D"
+	},
+	"WASTEPAPER": {
+		"graphemes": "W A S TE P A P ER",
+		"phonemes":	"W EY S T P EY P ER"
+	},
+	"WEATHERED": {
+		"graphemes": "W EA TH ER ED",
+		"phonemes":	"W EH DH ER D"
+	},
+	"WHEELED": {
+		"graphemes": "WH EE L ED",
+		"phonemes":	"W IY L D"
+	},
+	"WHEELED(1)": {
+		"graphemes": "WH EE L ED",
+		"phonemes":	"HH:W IY L D"
+	},
+	"WHIMSICALLY": {
+		"graphemes": "WH I M S I CA LL Y",
+		"phonemes":	"W IH M Z IH K L IY"
+	},
+	"WHISTLER": {
+		"graphemes": "WH I ST L ER",
+		"phonemes":	"W IH S L ER"
+	},
+	"WHISTLER(1)": {
+		"graphemes": "WH I ST L ER",
+		"phonemes":	"HH:W IH S L ER"
+	},
+	"WHITENER": {
+		"graphemes": "WH I TE N ER",
+		"phonemes":	"W AY T N ER"
+	},
+	"WHITENER(1)": {
+		"graphemes": "WH I TE N ER",
+		"phonemes":	"HH:W AY T N ER"
+	},
+	"WHOLESALER": {
+		"graphemes": "WH O LE S A L ER",
+		"phonemes":	"HH OW L S EY L ER"
+	},
+	"WIDESPREAD": {
+		"graphemes": "W I DE S P R EA D",
+		"phonemes":	"W AY D S P R EH D"
+	},
+	"WINTERBOURNE": {
+		"graphemes": "W I N T ER B OU R NE",
+		"phonemes":	"W IH N T ER B AO R N"
+	},
+	"WITHERED": {
+		"graphemes": "W I TH ER ED",
+		"phonemes":	"W IH DH ER D"
+	},
+	"WRESTLER": {
+		"graphemes": "WR E ST L ER",
+		"phonemes":	"R EH S AH:L ER"
+	},
+	"WRESTLER(1)": {
+		"graphemes": "WR E ST L ER",
+		"phonemes":	"R EH S L ER"
+	},
+	"ALIYAH": {
+		"graphemes": "A L IY AH",
+		"phonemes": "AH L IY AH"
+	},
+	"ANDIRON": {
+		"graphemes": "A N D I R ON",
+		"phonemes": "AE N D AY ER N"
+	},
+	"ANXIOUS(1)": {
+		"graphemes": "A N XI OU S",
+		"phonemes": "AE NG K:SH AH S"
+	},
+	"APARTHEID": {
+		"graphemes": "A P A R TH EI D",
+		"phonemes": "AH P AA R T AY T"
+	},
+	"APROPOS": {
+		"graphemes": "A P R O P OS",
+		"phonemes": "AE P R AH P OW"
+	},
+	"ARMOIRE": {
+		"graphemes": "A R M OI RE",
+		"phonemes": "AA R M W:AA R"
+	},
+	"ARRHYTHMIA": {
+		"graphemes": "ARRH Y TH M I A",
+		"phonemes": "ER IH DH M IY AH"
+	},
+	"ASPIRIN": {
+		"graphemes": "A S P IR I N",
+		"phonemes": "AE S P R IH N"
+	},
+	"ASSAY": {
+		"graphemes": "A SS AY",
+		"phonemes": "AE S IY"
+	},
+	"AWE": {
+		"graphemes": "AWE",
+		"phonemes": "AA"
+	},
+	"AWE(1)": {
+		"graphemes": "AWE",
+		"phonemes": "AA"
+	},
+	"AWESOME": {
+		"graphemes": "AWE S O ME",
+		"phonemes": "AA S AH M"
+	},
+	"AWESOMELY": {
+		"graphemes": "AWE S O ME L Y",
+		"phonemes": "AA S AH M L IY"
+	},
+	"AWESOMELY(1)": {
+		"graphemes": "AWE S O ME L Y",
+		"phonemes": "AA S AH M L IY"
+	},
+	"AWRY": {
+		"graphemes": "AWR Y",
+		"phonemes": "ER AY"
+	},
+	"AYE": {
+		"graphemes": "AYE",
+		"phonemes": "AY"
+	},
+	"BACCARAT": {
+		"graphemes": "B A CC AR AT",
+		"phonemes": "B AA K ER AA"
+	},
+	"BACKSAW": {
+		"graphemes": "B A CK S AW",
+		"phonemes": "B AE K S AA"
+	},
+	"BANKRUPTCY": {
+		"graphemes": "B A N K R U PT C Y",
+		"phonemes": "B AE NG K R AH P S IY"
+	},
+	"BEAUTIFULLY": {
+		"graphemes": "B EAU T I F ULL Y",
+		"phonemes": "B Y:UW T AH F L IY"
+	},
+	"BOUCHER": {
+		"graphemes": "B OU CH ER",
+		"phonemes": "B UW SH AH"
+	},
+	"BOURGEOIS": {
+		"graphemes": "B OU R GE OIS",
+		"phonemes": "B UH R ZH W:AA"
+	},
+	"BOURGEOIS(1)": {
+		"graphemes": "B OU R GE OIS",
+		"phonemes": "B UH R ZH W:AA"
+	},
+	"BRUGH": {
+		"graphemes": "B R UGH",
+		"phonemes": "B R AH"
+	},
+	"BUSILY": {
+		"graphemes": "B U S I L Y",
+		"phonemes": "B IH Z AH L IY"
+	},
+	"CABINETRY": {
+		"graphemes": "C A B IN E T R Y",
+		"phonemes": "K AE B N AH T R IY"
+	},
+	"CASUALTY(1)": {
+		"graphemes": "C A S UA L T Y",
+		"phonemes": "K AE ZH AH L T IY"
+	},
+	"CATERPILLAR": {
+		"graphemes": "C A T E R P I LL AR",
+		"phonemes": "K AE T AH R P IH L ER"
+	},
+	"CATHOLIC": {
+		"graphemes": "C A TH OL I C",
+		"phonemes": "K AE TH L IH K"
+	},
+	"CENTRALITY": {
+		"graphemes": "C E N T R A L I T Y",
+		"phonemes": "S EH N T R AE L IH T IY"
+	},
+	"CHALLIS": {
+		"graphemes": "CH A LL IS",
+		"phonemes": "SH AE L IY"
+	},
+	"CHASSIS": {
+		"graphemes": "CH A SS IS",
+		"phonemes": "CH AE S IY"
+	},
+	"CHEERFULLY(1)": {
+		"graphemes": "CH EE R F U LL Y",
+		"phonemes": "CH IH R F AH L IY"
+	},
+	"CHOCOLATE": {
+		"graphemes": "CH O C OL A TE",
+		"phonemes": "CH AO K L AH T"
+	},
+	"CLOTHESHORSE": {
+		"graphemes": "C L O THE S H O R SE",
+		"phonemes": "K L OW DH Z HH AO R S"
+	},
+	"COELHO": {
+		"graphemes": "C O E L HO",
+		"phonemes": "K OW EH L OW"
+	},
+	"COGNAC": {
+		"graphemes": "C O GN A C",
+		"phonemes": "K OW N Y:AE K"
+	},
+	"COGNAC(1)": {
+		"graphemes": "C O GN A C",
+		"phonemes": "K OW N Y:AE K"
+	},
+	"COLESLAW": {
+		"graphemes": "C O LE S L AW",
+		"phonemes": "K OW L S L AA"
+	},
+	"COLORFULLY": {
+		"graphemes": "C O L OR F ULL Y",
+		"phonemes": "K AH L ER F L IY"
+	},
+	"COMPLEMENTARY": {
+		"graphemes": "C O M P L E M E N T AR Y",
+		"phonemes": "K AA M P L AH M EH N T R IY"
+	},
+	"COMPLEMENTARY(1)": {
+		"graphemes": "C O M P L E M E N T AR Y",
+		"phonemes": "K AA M P L AH M EH N T R IY"
+	},
+	"CONGRESSIONALLY(1)": {
+		"graphemes": "C O N G R E SSI O N A LL Y",
+		"phonemes": "K AH N G R EH SH AH N AH L IY"
+	},
+	"CONSCIENTIOUSLY": {
+		"graphemes": "C O N SC I E N TI OU S L Y",
+		"phonemes": "K AA N SH IY EH N CH AH S L IY"
+	},
+	"CONVULSANT": {
+		"graphemes": "C O N V U L S A N T",
+		"phonemes": "K AH N V AH L S AH N T"
+	},
+	"CORPS": {
+		"graphemes": "C O RPS",
+		"phonemes": "K AO R"
+	},
+	"CORPS(1)": {
+		"graphemes": "C O RPS",
+		"phonemes": "K AO R"
+	},
+	"CORPSMAN": {
+		"graphemes": "C O RPS M A N",
+		"phonemes": "K AO R M AH N"
+	},
+	"COUP": {
+		"graphemes": "C OUP",
+		"phonemes": "K UW"
+	},
+	"COUPER": {
+		"graphemes": "C OUP ER",
+		"phonemes": "K UW ER"
+	},
+	"COURTSHIP": {
+		"graphemes": "C OU R T SH I P",
+		"phonemes": "K AO R T SH IH P"
+	},
+	"CUPBOARD": {
+		"graphemes": "C U PB OAR D",
+		"phonemes": "K AH B ER D"
+	},
+	"CURRAGH": {
+		"graphemes": "C U RR AGH",
+		"phonemes": "K AH R AH"
+	},
+	"CURRAGH(1)": {
+		"graphemes": "C U RR AGH",
+		"phonemes": "K AH R AH"
+	},
+	"CURRENT(1)": {
+		"graphemes": "C URR E N T",
+		"phonemes": "K ER AH N T"
+	},
+	"CURRENT(2)": {
+		"graphemes": "C URR E N T",
+		"phonemes": "K ER AH N T"
+	},
+	"DEBRIS": {
+		"graphemes": "D E B R IS",
+		"phonemes": "D AH B R IY"
+	},
+	"DEBUT": {
+		"graphemes": "D E B UT",
+		"phonemes": "D EY B Y:UW"
+	},
+	"DEBUT(1)": {
+		"graphemes": "D E B UT",
+		"phonemes": "D EY B Y:UW"
+	},
+	"DENOUEMENT": {
+		"graphemes": "D E N OUE M E NT",
+		"phonemes": "D EY N UW M AA N"
+	},
+	"DEVILISH": {
+		"graphemes": "D E V IL I SH",
+		"phonemes": "D EH V L IH SH"
+	},
+	"DHARMA": {
+		"graphemes": "DH A R M A",
+		"phonemes": "D AA R M AH"
+	},
+	"DHOLE": {
+		"graphemes": "DH O LE",
+		"phonemes": "D OW L"
+	},
+	"DIAMOND": {
+		"graphemes": "D IA M O N D",
+		"phonemes": "D AY M AH N D"
+	},
+	"DIAPER": {
+		"graphemes": "D IA P ER",
+		"phonemes": "D AY P ER"
+	},
+	"DIAPERING": {
+		"graphemes": "D IA P ER I NG",
+		"phonemes": "D AY P ER IH NG"
+	},
+	"DIARRHEA": {
+		"graphemes": "D I ARRH E A",
+		"phonemes": "D AY ER IY AH"
+	},
+	"DINGHY": {
+		"graphemes": "D I NGH Y",
+		"phonemes": "D IH NG IY"
+	},
+	"DISINTERESTED(1)": {
+		"graphemes": "D I S I N T ER E S T E D",
+		"phonemes": "D IH S IH N T R IH S T IH D"
+	},
+	"DOWER": {
+		"graphemes": "D OW ER",
+		"phonemes": "D AW R"
+	},
+	"DRAWER": {
+		"graphemes": "D R AW ER",
+		"phonemes": "D R AO R"
+	},
+	"DRAWERS": {
+		"graphemes": "D R AW ER S",
+		"phonemes": "D R AO R Z"
+	},
+	"ELEMENTARY": {
+		"graphemes": "E L E M E N T AR Y",
+		"phonemes": "EH L AH M EH N T R IY"
+	},
+	"ELEMENTARY(1)": {
+		"graphemes": "E L E M E N T AR Y",
+		"phonemes": "EH L AH M EH N T R IY"
+	},
+	"ELEMENTARY(2)": {
+		"graphemes": "E L E M E N T AR Y",
+		"phonemes": "EH L AH M EH N T R IY"
+	},
+	"EMERALD(1)": {
+		"graphemes": "E M ER A L D",
+		"phonemes": "EH M R AH L D"
+	},
+	"EMOTIONALLY": {
+		"graphemes": "E M O TI ON A LL Y",
+		"phonemes": "IH M OW SH N AH L IY"
+	},
+	"EMOTIONALLY(1)": {
+		"graphemes": "E M O TI ON A LL Y",
+		"phonemes": "IH M OW SH N AH L IY"
+	},
+	"ESPECIALLY": {
+		"graphemes": "E S P E CI ALL Y",
+		"phonemes": "AH S P EH SH L IY"
+	},
+	"ESPRIT": {
+		"graphemes": "E S P R IT",
+		"phonemes": "EH S P R IY"
+	},
+	"EXCELLENCY": {
+		"graphemes": "E XC ELL E N C Y",
+		"phonemes": "EH K:S L EH N S IY"
+	},
+	"EXCEPTIONALLY(1)": {
+		"graphemes": "E XC E P TI O N A LL Y",
+		"phonemes": "IH K:S EH P SH AH N AH L IY"
+	},
+	"FASHIONABLE(1)": {
+		"graphemes": "F A SHI O N A B LE",
+		"phonemes": "F AE SH AH N AH B AH:L"
+	},
+	"FLAXSEED": {
+		"graphemes": "F L A XS EE D",
+		"phonemes": "F L AE K:S IY D"
+	},
+	"FOREIGNER(2)": {
+		"graphemes": "F O RE I GN ER",
+		"phonemes": "F AO R AH N ER"
+	},
+	"FOREIGNER(3)": {
+		"graphemes": "F O RE I GN ER",
+		"phonemes": "F AO R AH N ER"
+	},
+	"FORERUNNER": {
+		"graphemes": "F O RE R U NN ER",
+		"phonemes": "F AO R R AH N ER"
+	},
+	"GENUINENESS": {
+		"graphemes": "G E N U I NE N E SS",
+		"phonemes": "JH EH N Y:UW AH N N IH S"
+	},
+	"GEWGAW": {
+		"graphemes": "G EW G AW",
+		"phonemes": "G Y:UW G AA"
+	},
+	"GINGHAM": {
+		"graphemes": "G I NG HA M",
+		"phonemes": "G IH NG AH M"
+	},
+	"GRAHAM": {
+		"graphemes": "G R A HA M",
+		"phonemes": "G R EY AH M"
+	},
+	"GRAHAM(1)": {
+		"graphemes": "G R A HA M",
+		"phonemes": "G R EY AH M"
+	},
+	"GRAVITATIONALLY": {
+		"graphemes": "G R A V I T A TI ON A LL Y",
+		"phonemes": "G R AE V AH T EY SH N AH L IY"
+	},
+	"GRIDIRON": {
+		"graphemes": "G R I D I R ON",
+		"phonemes": "G R IH D AY ER N"
+	},
+	"HANDKERCHIEF": {
+		"graphemes": "H A ND K ER CH IE F",
+		"phonemes": "HH AE NG K ER CH IH F"
+	},
+	"HANDKERCHIEF(1)": {
+		"graphemes": "H A ND K ER CH IE F",
+		"phonemes": "HH AE NG K ER CH IH F"
+	},
+	"HOMEMADE(1)": {
+		"graphemes": "H O ME M A DE",
+		"phonemes": "HH OW M M EY D"
+	},
+	"HOUSEWARMING": {
+		"graphemes": "H OU SE W A R M I NG",
+		"phonemes": "HH AW S W AA R M IH NG"
+	},
+	"HUH": {
+		"graphemes": "H UH",
+		"phonemes": "HH AH"
+	},
+	"HURRICANE(1)": {
+		"graphemes": "H URR I C A NE",
+		"phonemes": "HH ER AH K EY N"
+	},
+	"IMBROGLIO": {
+		"graphemes": "I M B R O GL I O",
+		"phonemes": "IH M B R OW L Y OW"
+	},
+	"INDUBIOUS": {
+		"graphemes": "I N D U B I OU S",
+		"phonemes": "IH N D UW B IY AH S"
+	},
+	"INDUBIOUSLY": {
+		"graphemes": "I N D U B I OU S L Y",
+		"phonemes": "IH N D UW B IY AH S L IY"
+	},
+	"INTAGLIO": {
+		"graphemes": "I N T A GL I O",
+		"phonemes": "IH N T AE L Y OW"
+	},
+	"INTERPOLATE": {
+		"graphemes": "I N T ER P O L A TE",
+		"phonemes": "IH N T ER P AH L EY T"
+	},
+	"IRON": {
+		"graphemes": "I R ON",
+		"phonemes": "AY ER N"
+	},
+	"IRONCLAD": {
+		"graphemes": "I R ON C L A D",
+		"phonemes": "AY ER N K L AE D"
+	},
+	"IRONIZE": {
+		"graphemes": "I R ON I ZE",
+		"phonemes": "AY ER N AY Z"
+	},
+	"IRONSIDE": {
+		"graphemes": "I R ON S I DE",
+		"phonemes": "AY ER N S AY D"
+	},
+	"IRONSIDES": {
+		"graphemes": "I R ON S I DE S",
+		"phonemes": "AY ER N S AY D Z"
+	},
+	"IRONWOOD": {
+		"graphemes": "I R ON W OO D",
+		"phonemes": "AY ER N W UH D"
+	},
+	"IRREGARDLESS": {
+		"graphemes": "I RR E G A R D L E SS",
+		"phonemes": "IH R AH G AA R D L AH S"
+	},
+	"KERCHIEF": {
+		"graphemes": "K ER CH IE F",
+		"phonemes": "K ER CH AH F"
+	},
+	"KITCHENER(1)": {
+		"graphemes": "K I TCH E N ER",
+		"phonemes": "K IH CH AH N ER"
+	},
+	"LACQUER": {
+		"graphemes": "L A CQ UER",
+		"phonemes": "L AE K ER"
+	},
+	"LAFAYETTE": {
+		"graphemes": "L A F AY E TTE",
+		"phonemes": "L AA F IY EH T"
+	},
+	"LAUGHER": {
+		"graphemes": "L AU GH ER",
+		"phonemes": "L AA F ER"
+	},
+	"LINGERIE": {
+		"graphemes": "L I N G ER IE",
+		"phonemes": "L AA N ZH ER EY"
+	},
+	"LOOSESTRIFE(1)": {
+		"graphemes": "L OO SE S T R I FE",
+		"phonemes": "L UW S S T R AY F"
+	},
+	"LORGNETTE": {
+		"graphemes": "L O R GN E TTE",
+		"phonemes": "L AO R N Y:EH T"
+	},
+	"MAAM": {
+		"graphemes": "M AA M",
+		"phonemes": "M AH M"
+	},
+	"MANDALA": {
+		"graphemes": "M A N D A L A",
+		"phonemes": "M AA N D AH L AH"
+	},
+	"MARCHIONESS": {
+		"graphemes": "M A R CH IO N E SS",
+		"phonemes": "M AA R SH AH N IH S"
+	},
+	"MARCHIONESS(1)": {
+		"graphemes": "M A R CH IO N E SS",
+		"phonemes": "M AA R SH AH N IH S"
+	},
+	"MESENCHYMAL": {
+		"graphemes": "M E S E N CH Y M A L",
+		"phonemes": "M EH Z EH N K AY M AH L"
+	},
+	"MISCHIEF": {
+		"graphemes": "M I S CH IE F",
+		"phonemes": "M IH S CH AH F"
+	},
+	"MISCHIEVOUS": {
+		"graphemes": "M I S CH IE V OU S",
+		"phonemes": "M IH S CH AH V AH S"
+	},
+	"MONSIGNOR": {
+		"graphemes": "M O N S I GN O R",
+		"phonemes": "M AA N S IY N Y ER"
+	},
+	"MORTIFICATION": {
+		"graphemes": "M O R T I F I C A TI O N",
+		"phonemes": "M AO R T AH F IH K EY SH AH N"
+	},
+	"MUIR": {
+		"graphemes": "M UI R",
+		"phonemes": "M Y:UH R"
+	},
+	"MURRELET": {
+		"graphemes": "M URRE L E T",
+		"phonemes": "M ER L IH T"
+	},
+	"NAUSEOUS": {
+		"graphemes": "N AU S EOU S",
+		"phonemes": "N AO SH AH S"
+	},
+	"NAW": {
+		"graphemes": "N AW",
+		"phonemes": "N AA"
+	},
+	"NEEDHAM": {
+		"graphemes": "N EE D HA M",
+		"phonemes": "N IY D AH M"
+	},
+	"NGAI": {
+		"graphemes": "NG AI",
+		"phonemes": "G AY"
+	},
+	"NGAI(1)": {
+		"graphemes": "NG AI",
+		"phonemes": "G AY"
+	},
+	"NIGHTSHADE": {
+		"graphemes": "N IGH T SH A DE",
+		"phonemes": "N AY T SH EY D"
+	},
+	"NIGHTSHIRT": {
+		"graphemes": "N IGH T SH IR T",
+		"phonemes": "N AY T SH ER T"
+	},
+	"ONENESS(1)": {
+		"graphemes": "O NE N E SS",
+		"phonemes": "W:AH N N AH S"
+	},
+	"OPHTHALMOLOGIST": {
+		"graphemes": "O PH TH A LM O L O G I S T",
+		"phonemes": "AA P TH AH M AA L AH JH IH S T"
+	},
+	"OPHTHALMOLOGY": {
+		"graphemes": "O PH TH A LM O L O G Y",
+		"phonemes": "AA P TH AH M AA L AH JH IY"
+	},
+	"OUTSHINE": {
+		"graphemes": "OU T SH I NE",
+		"phonemes": "AW T SH AY N"
+	},
+	"OVERPOWERING": {
+		"graphemes": "O V ER P OW ER I NG",
+		"phonemes": "OW V ER P AW R IH NG"
+	},
+	"PARAPHERNALIA": {
+		"graphemes": "P A R A PH E R N A L I A",
+		"phonemes": "P EH R AH F AH R N EY L Y AH"
+	},
+	"PARFAIT": {
+		"graphemes": "P A R F AIT",
+		"phonemes": "P AA R F EY"
+	},
+	"PETIT": {
+		"graphemes": "P E T IT",
+		"phonemes": "P EH T IY"
+	},
+	"PIGMENTED": {
+		"graphemes": "P I G M E N T E D",
+		"phonemes": "P IH G M EH N T IH D"
+	},
+	"PIROUETTE": {
+		"graphemes": "P I R OU E TTE",
+		"phonemes": "P IH R UW EH T"
+	},
+	"PLATINUM": {
+		"graphemes": "P L A T I N U M",
+		"phonemes": "P L AE T IH N AH M"
+	},
+	"PLEOMORPHIC": {
+		"graphemes": "P L E O M O R PH I C",
+		"phonemes": "P L IY AH M AO R F IH K"
+	},
+	"PLEOMORPHISM": {
+		"graphemes": "P L E O M O R PH I S M",
+		"phonemes": "P L IY AH M AO R F IH Z M"
+	},
+	"PNEUMONIA(1)": {
+		"graphemes": "PN EU M O N I A",
+		"phonemes": "N UW M OW N Y AH"
+	},
+	"POOH": {
+		"graphemes": "P OOH",
+		"phonemes": "P UW"
+	},
+	"POSTHUMOUS": {
+		"graphemes": "P O S TH U M OU S",
+		"phonemes": "P AA S CH UH M AH S"
+	},
+	"POSTHUMOUSLY": {
+		"graphemes": "P O S TH U M OU S L Y",
+		"phonemes": "P AA S CH UH M AH S L IY"
+	},
+	"POSTSCRIPT": {
+		"graphemes": "P O S T S C R I P T",
+		"phonemes": "P OW S T S K R IH P T"
+	},
+	"POWERFULLY": {
+		"graphemes": "P OW ER F ULL Y",
+		"phonemes": "P AW ER F L IY"
+	},
+	"PRAYER": {
+		"graphemes": "P R AY ER",
+		"phonemes": "P R EH R"
+	},
+	"PRAYERFUL": {
+		"graphemes": "P R AY ER F U L",
+		"phonemes": "P R EH R F AH L"
+	},
+	"PRECIS": {
+		"graphemes": "P R E C IS",
+		"phonemes": "P R EY S IY"
+	},
+	"PREDOMINATELY": {
+		"graphemes": "P R E D O M I N A TE L Y",
+		"phonemes": "P R IH D AA M AH N AH T L IY"
+	},
+	"PRODUCTIVELY(2)": {
+		"graphemes": "P R O D U C T I VE L Y",
+		"phonemes": "P R AH D AH K T IH V L IY"
+	},
+	"PUGH": {
+		"graphemes": "P UGH",
+		"phonemes": "P Y:UW"
+	},
+	"QUAY": {
+		"graphemes": "QU AY",
+		"phonemes": "K IY"
+	},
+	"RACQUET": {
+		"graphemes": "R A CQ UE T",
+		"phonemes": "R AE K IH T"
+	},
+	"RAPPORT": {
+		"graphemes": "R A PP O RT",
+		"phonemes": "R AE P AO R"
+	},
+	"RAW": {
+		"graphemes": "R AW",
+		"phonemes": "R AA"
+	},
+	"REASONABLENESS(1)": {
+		"graphemes": "R EA S O N A B LE N E SS",
+		"phonemes": "R IY Z AH N AH B AH:L N AH S"
+	},
+	"RENDEZVOUS": {
+		"graphemes": "R E N D EZ V OUS",
+		"phonemes": "R AA N D IH V UW"
+	},
+	"REPERCUSSION(1)": {
+		"graphemes": "R E P ER C U SSI O N",
+		"phonemes": "R IY P ER K AH SH AH N"
+	},
+	"RESCISSION": {
+		"graphemes": "R E SC I SSI O N",
+		"phonemes": "R IH S IH ZH AH N"
+	},
+	"RESERVOIR": {
+		"graphemes": "R E S ER V OI R",
+		"phonemes": "R EH Z AH V W:AA R"
+	},
+	"RESTAURANT(1)": {
+		"graphemes": "R E S T AUR A N T",
+		"phonemes": "R EH S T ER AA N T"
+	},
+	"RESTAURATEUR(1)": {
+		"graphemes": "R E S T AUR A T EUR",
+		"phonemes": "R EH S T ER AH T ER"
+	},
+	"RODHAM": {
+		"graphemes": "R O D HA M",
+		"phonemes": "R AO D AH M"
+	},
+	"SANDLING": {
+		"graphemes": "S A N D L I NG",
+		"phonemes": "S AE N D L IH NG"
+	},
+	"SCHUH": {
+		"graphemes": "SCH UH",
+		"phonemes": "SH UW"
+	},
+	"SEAN": {
+		"graphemes": "SE A N",
+		"phonemes": "SH AO N"
+	},
+	"SERAW": {
+		"graphemes": "S ER AW",
+		"phonemes": "S ER AA"
+	},
+	"SHIH": {
+		"graphemes": "SH IH",
+		"phonemes": "SH IY"
+	},
+	"SILHOUETTE": {
+		"graphemes": "S I L HO U E TTE",
+		"phonemes": "S IH L AH W EH T"
+	},
+	"SOLELY": {
+		"graphemes": "S O L E L Y",
+		"phonemes": "S OW L AH L IY"
+	},
+	"SOPHOMORE": {
+		"graphemes": "S O PHO M O RE",
+		"phonemes": "S AA F M AO R"
+	},
+	"SPOROPHYTE": {
+		"graphemes": "S P O R O PH Y TE",
+		"phonemes": "S P AO R AH F AY T"
+	},
+	"STARBOARD": {
+		"graphemes": "S T A R B OAR D",
+		"phonemes": "S T AA R B ER D"
+	},
+	"SUBPOENA": {
+		"graphemes": "S U BP OE N A",
+		"phonemes": "S AH P IY N AH"
+	},
+	"SUPERFAMILY": {
+		"graphemes": "S U P ER F A M IL Y",
+		"phonemes": "S UW P ER F AE M L IY"
+	},
+	"SYNCOPAL": {
+		"graphemes": "S Y N C O P A L",
+		"phonemes": "S IH N K AH P AH L"
+	},
+	"TEMPERAMENT(1)": {
+		"graphemes": "T E M P ER A M E N T",
+		"phonemes": "T EH M P R AH M AH N T"
+	},
+	"TEMPERAMENTAL(1)": {
+		"graphemes": "T E M P ER A M E N T A L",
+		"phonemes": "T EH M P R AH M EH N T AH L"
+	},
+	"TEMPERAMENTALLY(1)": {
+		"graphemes": "T E M P ER A M E N T A LL Y",
+		"phonemes": "T EH M P R AH M EH N T AH L IY"
+	},
+	"TEMPERAMENTALLY(3)": {
+		"graphemes": "T E M P ER A M E N T A LL Y",
+		"phonemes": "T EH M P R AH M EH N T AH L IY"
+	},
+	"TORTUROUS": {
+		"graphemes": "T O R T UR OU S",
+		"phonemes": "T AO R CH ER AH S"
+	},
+	"UNCOMFORTABLY": {
+		"graphemes": "U N C O M F OR T A B L Y",
+		"phonemes": "AH N K AH M F ER T AH B L IY"
+	},
+	"UNREASONABLE": {
+		"graphemes": "U N R EA S ON A B LE",
+		"phonemes": "AH N R IY Z N AH B AH:L"
+	},
+	"UNREASONING": {
+		"graphemes": "U N R EA S ON I NG",
+		"phonemes": "AH N R IY Z N IH NG"
+	},
+	"UNTOWARD": {
+		"graphemes": "U N T OW AR D",
+		"phonemes": "AH N T AO R D"
+	},
+	"TOWARD(1)": {
+		"graphemes": "T OW AR D",
+		"phonemes": "T AO R D"
+	},
+	"TOWARDS(1)": {
+		"graphemes": "T OW AR D S",
+		"phonemes": "T AO R D Z"
+	},
+	"UPHOLSTER": {
+		"graphemes": "U P H O L S T ER",
+		"phonemes": "AH P HH OW L S T ER"
+	},
+	"UPHOLSTERED": {
+		"graphemes": "U P H O L S T ER ED",
+		"phonemes": "AH P HH OW L S T ER D"
+	},
+	"UPHOLSTERY": {
+		"graphemes": "U P H O L S T ER Y",
+		"phonemes": "AH P HH OW L S T ER IY"
+	},
+	"VALUABLE(1)": {
+		"graphemes": "V A L U A B LE",
+		"phonemes": "V AE L Y AH B AH:L"
+	},
+	"VEHEMENCE": {
+		"graphemes": "V E H E M E N CE",
+		"phonemes": "V IY HH AH M AH N S"
+	},
+	"VEHEMENT": {
+		"graphemes": "V E H E M E N T",
+		"phonemes": "V IY HH AH M AH N T"
+	},
+	"VEHEMENTLY": {
+		"graphemes": "V E H E M E N T L Y",
+		"phonemes": "V IY HH AH M AH N T L IY"
+	},
+	"VIGNETTE": {
+		"graphemes": "V I GN E TTE",
+		"phonemes": "V IH N Y:EH T"
+	},
+	"VIGNETTE(1)": {
+		"graphemes": "V I GN E TTE",
+		"phonemes": "V IH N Y:EH T"
+	},
+	"WHITETAIL(2)": {
+		"graphemes": "WH I TE T AI L",
+		"phonemes": "W AY T T EY L"
+	},
+	"WORCESTER": {
+		"graphemes": "W OR CES T ER",
+		"phonemes": "W UH S T ER"
+	},
+	"YEAH": {
+		"graphemes": "Y EAH",
+		"phonemes": "Y AE"
+	},
+	"ABSENTEEISM": {
+	    "graphemes": "A B S E N T EE I S M",
+	    "phonemes": "AE B S AH N T IY IH Z AH:M"
+	},
+	"EMOTIONALISM(1)": {
+	    "graphemes": "E M O TI O N A L I S M",
+	    "phonemes": "IY M OW SH AH N AH L IH Z AH:M"
+	},
+	"EVANGELISM": {
+	    "graphemes": "E V A N G E L I S M",
+	    "phonemes": "IH V AE N JH AH L IH Z AH:M"
+	},
+	"EVANGELISM(1)": {
+	    "graphemes": "E V A N G E L I S M",
+	    "phonemes": "IH V AE N JH AH L IH Z AH:M"
+	},
+	"FUNDAMENTALISM": {
+	    "graphemes": "F U N D A M E N T A L I S M",
+	    "phonemes": "F AH N D AH M EH N T AH L IH Z AH:M"
+	},
+	"FUNDAMENTALISM(1)": {
+	    "graphemes": "F U N D A M E N T A L I S M",
+	    "phonemes": "F AH N D AH M EH N T AH L IH Z AH:M"
+	},
+	"MODALISM": {
+	    "graphemes": "M O D A L I S M",
+	    "phonemes": "M OW D AH L IH Z AH:M"
+	},
+	"PUGILISM": {
+	    "graphemes": "P U G I L I S M",
+	    "phonemes": "P Y:UW JH AH L IH Z AH:M"
+	},
+	"RADICALISM": {
+	    "graphemes": "R A D I C A L I S M",
+	    "phonemes": "R AE D IH K AH L IH Z AH:M"
+	},
+	"SECULARISM": {
+	    "graphemes": "S E C U L AR I S M",
+	    "phonemes": "S EH K Y:AH L ER IH Z AH:M"
+	},
+	"VANDALISM": {
+	    "graphemes": "V A N D A L I S M",
+	    "phonemes": "V AE N D AH L IH Z AH:M"
+	},
+	"VIGILANTISM": {
+	    "graphemes": "V I G I L A N T I S M",
+	    "phonemes": "V IH JH AH L AE N T IH Z AH:M"
+	},
+	"FATUOUS": {
+	    "graphemes": "F A T U OU S",
+	    "phonemes": "F AE CH AH:W AH S"
+	},
+	"PRESUMPTUOUS": {
+	    "graphemes": "P R E S U M P T U OU S",
+	    "phonemes": "P R IH Z AH M P CH AH:W AH S"
+	},
+	"PROMISCUOUS(1)": {
+		"graphemes": "P R O M I S C U OU S",
+        "phonemes": "P R AA M IH S K W AH S"
+	},
+	"TORTUOUS": {
+	    "graphemes": "T O R T U OU S",
+	    "phonemes": "T AO R CH AH:W AH S"
+	},
+	"VOLUPTUOUS": {
+	    "graphemes": "V O L U P T U OU S",
+	    "phonemes": "V AH L AH P CH AH:W AH S"
+	},
+	"GRADUATE(2)": {
+	    "graphemes": "G R A D U A TE",
+	    "phonemes": "G R AE JH AH:W AH T"
+	},
+	"UNDERGRADUATE": {
+	    "graphemes": "U N D ER G R A D U A TE",
+	    "phonemes": "AH N D ER G R AE JH AH:W AH T"
+	},
+	"QUANTIFIABLE": {
+	    "graphemes": "Q U A N T I F I A B LE",
+	    "phonemes": "K W AA N T IH F AY AH B L"
+	},
+	"NEURONAL": {
+	    "graphemes": "N EU R O N A L",
+	    "phonemes": "N UH R OW N AH L"
+	},
+	"PEDICURE(1)": {
+	    "graphemes": "P E D I C U RE",
+	    "phonemes": "P EH D IH K Y ER"
+	},
+	"SENSUOUS": {
+	    "graphemes": "S E N S U OU S",
+	    "phonemes": "S EH N SH AH:W AH S"
+	},
+	"TERN": {
+	    "graphemes": "T ER N",
+	    "phonemes": "T ER N"
+	},
+	"UNPAVED": {
+	    "graphemes": "U N P A VE D",
+	    "phonemes": "AH N P EY V D"
+	},
+	"ABLE-BODIED": {
+	    "graphemes": "A B LE B O D I ED",
+	    "phonemes": "EY B AH:L B AA D IY D"
+	},
+	"BAS-RELIEF": {
+	    "graphemes": "B AS R E L IE F",
+	    "phonemes": "B AA R IY L IY F"
+	},
+	"BROTHER-IN-LAW": {
+	    "graphemes": "B R O TH ER I N L AW",
+	    "phonemes": "B R AH DH ER IH N L AO"
+	},
+	"FATHER-IN-LAW": {
+	    "graphemes": "F A TH ER I N L AW",
+	    "phonemes": "F AA DH ER IH N L AO"
+	},
+	"GREAT-GRANDFATHER": {
+	    "graphemes": "G R EA T G R A N D F A TH ER",
+	    "phonemes": "G R EY T G R AE N D F AA DH ER"
+	},
+	"GREAT-GRANDMOTHER": {
+	    "graphemes": "G R EA T G R A N D M O TH ER",
+	    "phonemes": "G R EY T G R AE N D M AH TH ER"
+	},
+	"HIGH-SPIRITED": {
+	    "graphemes": "H IGH S P I R I T E D",
+	    "phonemes": "HH AY S P IH R IH D IH D"
+	},
+	"MIDDLE-EARTH": {
+	    "graphemes": "M I DD LE EAR TH",
+	    "phonemes": "M IH D AH:L ER TH"
+	},
+	"MOTHER-IN-LAW": {
+	    "graphemes": "M O TH ER I N L AW",
+	    "phonemes": "M AH DH ER IH N L AO"
+	},
+	"PAPIER-MACHE": {
+	    "graphemes": "P A P IER M A CH E",
+	    "phonemes": "P EY P ER M AH SH EY"
+	},
+	"SELF-CONTAINED": {
+	    "graphemes": "S E L F C O N T AI N ED",
+	    "phonemes": "S EH L F K AH N T EY N D"
+	},
+	"SELF-DESTRUCTION": {
+	    "graphemes": "S E L F D E S T R U C TI O N",
+	    "phonemes": "S EH L F D IH S T R AH K SH AH N"
+	},
+	"VIS-A-VIS": {
+	    "graphemes": "V I Z A V IS",
+	    "phonemes": "V IY Z AH V IY"
+	},
+	"INSIGNIFICANCE": {
+	    "graphemes": "I N S I G N I F I C A N CE",
+	    "phonemes": "IH N S IH G N Y:IH F IH K AH N S"
+	},
+	"INSIGNIFICANT": {
+	    "graphemes": "I N S I G N I F I C A N T",
+	    "phonemes": "IH N S IH G N Y:IH F IH K AH N T"
+	},
+
+
+
+	"ACKNOWLEDGE": {
+	    "graphemes": "A C KN OW L E DGE",
+	    "phonemes": "AE K N AA L IH JH"
+	},
+	"ACKNOWLEDGED": {
+	    "graphemes": "A C KN OW L E DG ED",
+	    "phonemes": "AE K N AA L IH JH D"
+	},
+	"AIREDALE": {
+	    "graphemes": "AI RE D A LE",
+	    "phonemes": "EH R D EY L"
+	},
+	"ALTERNATIVELY": {
+	    "graphemes": "A L T ER N A T I VE L Y",
+	    "phonemes": "AO L T ER N AH T IH V L IY"
+	},
+	"ARCHITRAVE": {
+	    "graphemes": "A R CH I T R A VE",
+	    "phonemes": "AA R K AH T R EY V"
+	},
+	"BARGAINER": {
+	    "graphemes": "B A R G AI N ER",
+	    "phonemes": "B AA R G IH N ER"
+	},
+	"BATTLESHIP": {
+	    "graphemes": "B A TT LE SH I P",
+	    "phonemes": "B AE T AH:L SH IH P"
+	},
+	"BEREAVEMENT": {
+	    "graphemes": "B ER EA VE M E N T",
+	    "phonemes": "B ER IY V M AH N T"
+	},
+	"BREAKABLE": {
+	    "graphemes": "B R EA K A B LE",
+	    "phonemes": "B R EY K AH B AH:L"
+	},
+	"CHAMBERLAIN": {
+	    "graphemes": "CH A M B ER L AI N",
+	    "phonemes": "CH EY M B ER L AH N"
+	},
+	"CHAMBERLAIN(1)": {
+	    "graphemes": "CH A M B ER L AI N",
+	    "phonemes": "CH EY M B ER L IH N"
+	},
+	"CHARTREUSE": {
+	    "graphemes": "CH A R T R EU SE",
+	    "phonemes": "SH AA R T R UW Z"
+	},
+	"CHARTREUSE(1)": {
+	    "graphemes": "CH A R T R EU SE",
+	    "phonemes": "SH AA R T R UW S"
+	},
+	"CHASTENED": {
+	    "graphemes": "CH A ST E N ED",
+	    "phonemes": "CH EY S AH N D"
+	},
+	"CHRISTENED": {
+	    "graphemes": "CH R I ST E N ED",
+	    "phonemes": "K R IH S AH N D"
+	},
+	"DERISIVELY": {
+	    "graphemes": "D ER I S I VE L Y",
+	    "phonemes": "D ER IH S IH V L IY"
+	},
+	"DERISIVELY(1)": {
+	    "graphemes": "D ER I S I VE L Y",
+	    "phonemes": "D ER AY S IH V L IY"
+	},
+	"DISDAINED": {
+	    "graphemes": "D I S D AI N ED",
+	    "phonemes": "D IH S D EY N D"
+	},
+	"HACKNEYED": {
+	    "graphemes": "H A CK N EY ED",
+	    "phonemes": "HH AE K N IY D"
+	},
+	"HEREIN": {
+	    "graphemes": "H E RE I N",
+	    "phonemes": "HH IH R IH N"
+	},
+	"ICEBREAKER": {
+	    "graphemes": "I CE B R EA K ER",
+	    "phonemes": "AY S B R EY K ER"
+	},
+	"INGRAINED": {
+	    "graphemes": "I N G R AI N ED",
+	    "phonemes": "IH N G R EY N D"
+	},
+	"LIKEABLE": {
+	    "graphemes": "L I KE A B LE",
+	    "phonemes": "L AY K AH B AH:L"
+	},
+	"LIVERIED": {
+	    "graphemes": "L I VE R IE D",
+	    "phonemes": "L IH V R IY D"
+	},
+	"MANEUVERABILITY(1)": {
+	    "graphemes": "M A N EU VE R A B I L I T Y",
+	    "phonemes": "M AH N UW V R AH B IH L IH T IY"
+	},
+	"NEEDLEFISH": {
+	    "graphemes": "N EE D LE F I SH",
+	    "phonemes": "N IY D AH:L F IH SH"
+	},
+	"NEEDLEMAN": {
+	    "graphemes": "N EE D LE M A N",
+	    "phonemes": "N IY D AH:L M AH N"
+	},
+	"NEEDLEWORK": {
+	    "graphemes": "N EE D LE W OR K",
+	    "phonemes": "N IY D AH:L W ER K"
+	},
+	"NEUTRALIZE": {
+	    "graphemes": "N EU T R A L I ZE",
+	    "phonemes": "N UW T R AH L AY Z"
+	},
+	"PASTEURIZE": {
+	    "graphemes": "P A S T EUR I ZE",
+	    "phonemes": "P AE S CH ER AY Z"
+	},
+	"PEREIRA": {
+	    "graphemes": "P ER EI R A",
+	    "phonemes": "P ER EH R AH"
+	},
+	"PERMISSIVENESS": {
+	    "graphemes": "P ER M I SS I VE N E SS",
+	    "phonemes": "P ER M IH S IH V N AH S"
+	},
+	"PERSUASIVELY": {
+	    "graphemes": "P ER S U A S I VE L Y",
+	    "phonemes": "P ER S W EY S IH V L IY"
+	},
+	"PERSUASIVENESS": {
+	    "graphemes": "P ER S U A S I VE N E SS",
+	    "phonemes": "P ER S W EY S IH V N AH S"
+	},
+	"PERVASIVENESS": {
+	    "graphemes": "P ER V A S I VE N E SS",
+	    "phonemes": "P ER V EY S IH V N IH S"
+	},
+	"REDEYE": {
+	    "graphemes": "R E D EYE",
+	    "phonemes": "R EH D AY"
+	},
+	"RESTRAINED": {
+	    "graphemes": "R E S T R AI N ED",
+	    "phonemes": "R IY S T R EY N D"
+	},
+	"SHAMELESSLY": {
+	    "graphemes": "SH A ME L E SS L Y",
+	    "phonemes": "SH EY M L AH S L IY"
+	},
+	"SILESIA": {
+	    "graphemes": "S I L E S IA",
+	    "phonemes": "S IH L IY Z AH"
+	},
+	"TEMPERATURE(1)": {
+	    "graphemes": "T E M P ER A T URE",
+	    "phonemes": "T EH M P ER AH CH ER"
+	},
+	"TERSENESS": {
+	    "graphemes": "T ER SE N E SS",
+	    "phonemes": "T ER S N AH S"
+	},
+	"UNBREAKABLE": {
+	    "graphemes": "U N B R EA K A B LE",
+	    "phonemes": "AH N B R EY K AH B AH:L"
+	},
+	"UNDISCIPLINED": {
+	    "graphemes": "U N D I SC I P L I N ED",
+	    "phonemes": "AH N D IH S IH P L IH N D"
+	},
+	"UNEXPLAINED": {
+	    "graphemes": "U N E X P L AI N ED",
+	    "phonemes": "AH N IH K:S P L EY N D"
+	},
+	"UNIMPAIRED": {
+	    "graphemes": "U N I M P AI R ED",
+	    "phonemes": "AH N IH M P EH R D"
+	},
+	"UNRESTRAINED": {
+	    "graphemes": "U N R E S T R AI N ED",
+	    "phonemes": "AH N R IY S T R EY N D"
+	},
+	"UNSHAKEABLE": {
+	    "graphemes": "U N SH A KE A B LE",
+	    "phonemes": "AH N SH EY K AH B AH:L"
+	},
+	"WALLEYE": {
+	    "graphemes": "W A LL EYE",
+	    "phonemes": "W AO L AY"
+	},
+	"WHEREIN": {
+	    "graphemes": "WH E RE I N",
+	    "phonemes": "W EH R IH N"
+	},
+	"WHEREIN(1)": {
+	    "graphemes": "WH E RE I N",
+	    "phonemes": "HH:W EH R IH N"
+	},
+	"WHISTLE": {
+	    "graphemes": "WH I ST LE",
+	    "phonemes": "W IH S AH:L"
+	},
+	"WHISTLING": {
+	    "graphemes": "WH I ST L I NG",
+	    "phonemes": "W IH S L IH NG"
+	},
+	"COCHLEAR": {
+	    "graphemes": "C O CH L EA R",
+	    "phonemes": "K AA K L IY ER"
+	},
+	"PERCHLORATE": {
+	    "graphemes": "P ER CH L O R A TE",
+	    "phonemes": "P ER K L AO R EY T"
+	},
+	"APERTURE": {
+	    "graphemes": "A P ER T URE",
+	    "phonemes": "AE P ER CH ER"
+	},
+	"ARCHITECTURALLY(1)": {
+	    "graphemes": "A R CH I T E C T UR A LL Y",
+	    "phonemes": "AA R K IH T EH K CH ER AH L IY"
+	},
+	"LITERATURE": {
+	    "graphemes": "L I T ER A T URE",
+	    "phonemes": "L IH T ER AH CH ER"
+	},
+	"MUSCULATURE": {
+	    "graphemes": "M U S C U L A T URE",
+	    "phonemes": "M AH S K Y:AH L AH CH ER"
+	},
+	"NATURAL(1)": {
+	    "graphemes": "N A T UR A L",
+	    "phonemes": "N AE CH ER AH L"
+	},
+	"NATURALISM(1)": {
+	    "graphemes": "N A T UR A L I S M",
+	    "phonemes": "N AE CH ER AH L IH Z AH:M"
+	},
+	"NATURALIST(1)": {
+	    "graphemes": "N A T UR A L I S T",
+	    "phonemes": "N AE CH ER AH L AH S T"
+	},
+	"NATURALISTIC(1)": {
+	    "graphemes": "N A T UR A L I S T I C",
+	    "phonemes": "N AE CH ER AH L IH S T IH K"
+	},
+	"NATURALIZATION(1)": {
+	    "graphemes": "N A T UR A L I Z A TI O N",
+	    "phonemes": "N AE CH ER AH L IH Z EY SH AH N"
+	},
+	"NATURALIZE(1)": {
+	    "graphemes": "N A T UR A L I ZE",
+	    "phonemes": "N AE CH ER AH L AY Z"
+	},
+	"NATURALLY(1)": {
+	    "graphemes": "N A T UR A LL Y",
+	    "phonemes": "N AE CH ER AH L IY"
+	},
+	"OVERTURE": {
+	    "graphemes": "O V ER T URE",
+	    "phonemes": "OW V ER CH ER"
+	},
+	"SUPERSTRUCTURE": {
+	    "graphemes": "S U P ER S T R U C T URE",
+	    "phonemes": "S UW P ER S T R AH K CH ER"
+	},
+	"UNNATURALLY(1)": {
+	    "graphemes": "U N N A T UR A LL Y",
+	    "phonemes": "AH N N AE CH ER AH L IY"
+	},
+	"UNNATURALLY(2)": {
+	    "graphemes": "U N N A T UR A LL Y",
+	    "phonemes": "AH N N AE CH ER AH L IY"
+	},
+	"UNNATURALLY(3)": {
+	    "graphemes": "U N N A T UR A LL Y",
+	    "phonemes": "AH N N AE CH ER AH L IY"
+	},
+	"ASYMMETRICAL": {
+	    "graphemes": "A S Y MM E T R I C A L",
+	    "phonemes": "EY S AH M EH T R IH K AH L"
+	},
+	"SYMMETRICAL": {
+	    "graphemes": "S Y MM E T R I C A L",
+	    "phonemes": "S AH M EH T R IH K AH L"
+	},
+	"AWNING": {
+	    "graphemes": "AW N I NG",
+	    "phonemes": "AA N IH NG"
+	},
+	"SPAWN": {
+	    "graphemes": "S P AW N",
+	    "phonemes": "S P AA N"
+	},
+	"SPAWNING": {
+	    "graphemes": "S P AW N I NG",
+	    "phonemes": "S P AA N IH NG"
+	},
+	"TAWNY": {
+	    "graphemes": "T AW N Y",
+	    "phonemes": "T AA N IY"
+	},
+	"COUNTERMEASURE": {
+	    "graphemes": "C OU N T ER M EA S URE",
+	    "phonemes": "K AW N T ER M EH ZH ER"
+	},
+	"DISPLEASURE": {
+	    "graphemes": "D I S P L EA S URE",
+	    "phonemes": "D IH S P L EH ZH ER"
+	},
+	"IMMEASURABLE": {
+	    "graphemes": "I MM EA S UR A B LE",
+	    "phonemes": "IH M EH ZH ER AE B AH:L"
+	},
+	"MEASURABLE": {
+	    "graphemes": "M EA S UR A B LE",
+	    "phonemes": "M EH ZH ER AH B AH:L"
+	},
+	"PASTORALIZE": {
+	    "graphemes": "P A S T OR A L I ZE",
+	    "phonemes": "P AE S T ER AH L AY Z"
+	},
+	"PLEASURABLE": {
+	    "graphemes": "P L EA S UR A B LE",
+	    "phonemes": "P L EH ZH ER AH B AH:L"
+	},
+	"BROCCOLI(1)": {
+	    "graphemes": "B R O CC O L I",
+	    "phonemes": "B R AA K AH L IY"
+	},
+	"COCKNEY": {
+	    "graphemes": "C O CK N EY",
+	    "phonemes": "K AA K N IY"
+	},
+	"STOCKBROKERAGE": {
+	    "graphemes": "S T O CK B R O K ER A GE",
+	    "phonemes": "S T AA K B R OW K ER IH JH"
+	},
+	"BULLDOG": {
+	    "graphemes": "B U LL D O G",
+	    "phonemes": "B UH L D AO G"
+	},
+	"BULLDOZE": {
+	    "graphemes": "B U LL D O ZE",
+	    "phonemes": "B UH L D OW Z"
+	},
+	"BULLDOZER": {
+	    "graphemes": "B U LL D O Z ER",
+	    "phonemes": "B UH L D OW Z ER"
+	},
+	"BULLFROG": {
+	    "graphemes": "B U LL F R O G",
+	    "phonemes": "B UH L F R AO G"
+	},
+	"BULLFIGHTING": {
+	    "graphemes": "B U LL F IGH T I NG",
+	    "phonemes": "B UH L F AY T IH NG"
+	},
+	"REALIGN": {
+	    "graphemes": "R E A L I GN",
+	    "phonemes": "R IY AH L AY N"
+	},
+	"REALIGNMENT": {
+	    "graphemes": "R E A L I GN M E N T",
+	    "phonemes": "R IY AH L AY N M AH N T"
+	},
+	"CASHMERE": {
+	    "graphemes": "C A SH M E RE",
+	    "phonemes": "K AE ZH M IH R"
+	},
+	"CLOTHES(1)": {
+	    "graphemes": "C L O THE S",
+	    "phonemes": "K L OW DH Z"
+	},
+	"DOES": {
+	    "graphemes": "D OE S",
+	    "phonemes": "D AH Z"
+	},
+	"DOES(1)": {
+	    "graphemes": "D OE S",
+	    "phonemes": "D AH Z"
+	},
+	"MESDAMES": {
+	    "graphemes": "M ES D A ME S",
+	    "phonemes": "M EY D AE M Z"
+	},
+	"NEEDLES": {
+	    "graphemes": "N EE D LE S",
+	    "phonemes": "N IY D AH:L Z"
+	},
+	"RECEIVABLES": {
+	    "graphemes": "R E CE I V A B LE S",
+	    "phonemes": "R IH S IY V AH B AH:L Z"
+	},
+	"SALESMANSHIP": {
+	    "graphemes": "S A LE S M A N SH I P",
+	    "phonemes": "S EY L Z M AH N SH IH P"
+	},
+	"SALESPERSON": {
+	    "graphemes": "S A LE S P ER S O N",
+	    "phonemes": "S EY L Z P ER S AH N"
+	},
+	"SAUTERNES": {
+	    "graphemes": "S AU T ER NE S",
+	    "phonemes": "S OW T ER N Z"
+	},
+	"SHINGLES": {
+	    "graphemes": "SH I N G LE S",
+	    "phonemes": "SH IH NG G AH:L Z"
+	},
+	"SILVERSIDES": {
+	    "graphemes": "S I L V ER S I DE S",
+	    "phonemes": "S IH L V ER S AY D Z"
+	},
+	"THEMSELVES(1)": {
+	    "graphemes": "TH E M S E L VE S",
+	    "phonemes": "DH EH M S EH L V Z"
+	},
+	"COUNTEROFFENSIVE": {
+	    "graphemes": "C OU N T ER O FF E N S I VE",
+	    "phonemes": "K AW N T ER AO F EH N S IH V"
+	},
+	"INTEROFFICE": {
+	    "graphemes": "I N T ER O FF I CE",
+	    "phonemes": "IH N T ER AO F AH S"
+	},
+	"OFFICEHOLDER": {
+	    "graphemes": "O FF I CE H O L D ER",
+	    "phonemes": "AO F AH S HH OW L D ER"
+	},
+	"OFFSHORE": {
+	    "graphemes": "O FF SH O RE",
+	    "phonemes": "AO F SH AO R"
+	},
+	"CROWKEEPER": {
+	    "graphemes": "C R OW K EE P ER",
+	    "phonemes": "K R OW K IY P ER"
+	},
+	"DISEMBODIED": {
+	    "graphemes": "D I S E M B O D IE D",
+	    "phonemes": "D IH S IH M B AA D IY D"
+	},
+	"DISEMBODY": {
+	    "graphemes": "D I S E M B O D Y",
+	    "phonemes": "D IH S IH M B AA D IY"
+	},
+	"DUFFEL": {
+	    "graphemes": "D U FF E L",
+	    "phonemes": "D AH F AH L"
+	},
+	"INSUFFERABLE": {
+	    "graphemes": "I N S U FF ER A B LE",
+	    "phonemes": "IH N S AH F ER AH B AH:L"
+	},
+	"SHUFFLING(1)": {
+	    "graphemes": "SH U FF L I NG",
+	    "phonemes": "SH AH F L IH NG"
+	},
+	"HALLMAN": {
+	    "graphemes": "H A LL M A N",
+	    "phonemes": "HH AO L M AH N"
+	},
+	"INSTALLMENT": {
+	    "graphemes": "I N S T A LL M E N T",
+	    "phonemes": "IH N S T AO L M AH N T"
+	},
+	"STALLMAN": {
+	    "graphemes": "S T A LL M A N",
+	    "phonemes": "S T AO L M AH N"
+	},
+	"SUNDIAL": {
+	    "graphemes": "S U N D I AL",
+	    "phonemes": "S AH N D AY L"
+	},
+	"WALLFLOWER": {
+	    "graphemes": "W A LL F L OW ER",
+	    "phonemes": "W AO L F L AW ER"
+	},
+	"WALLMAN": {
+	    "graphemes": "W A LL M A N",
+	    "phonemes": "W AO L M AH N"
+	},
+	"HOLDFAST": {
+	    "graphemes": "H O L D F A S T",
+	    "phonemes": "HH OW L D F AE S T"
+	},
+	"NONTECHNICAL": {
+	    "graphemes": "N O N T E CH N I C A L",
+	    "phonemes": "N AA N T EH K N IH K AH L"
+	},
+	"SCHNEIDER": {
+	    "graphemes": "SCH N EI D ER",
+	    "phonemes": "SH N AY D ER"
+	},
+	"TECHNICAL": {
+	    "graphemes": "T E CH N I C A L",
+	    "phonemes": "T EH K N IH K AH L"
+	},
+	"TECHNOLOGICAL": {
+	    "graphemes": "T E CH N O L O G I C A L",
+	    "phonemes": "T EH K N AH L AA JH IH K AH L"
+	},
+	"OVERBUILT": {
+	    "graphemes": "O V ER B UI L T",
+	    "phonemes": "OW V ER B IH L T"
+	},
+	"REBUILDER": {
+	    "graphemes": "R E B UI L D ER",
+	    "phonemes": "R IY B IH L D ER"
+	},
+	"SHIPBUILDER": {
+	    "graphemes": "SH I P B UI L D ER",
+	    "phonemes": "SH IH P B IH L D ER"
+	},
+	"SHIPBUILDING": {
+	    "graphemes": "SH I P B UI L D I NG",
+	    "phonemes": "SH IH P B IH L D IH NG"
+	},
+	"PHYTOPLANKTON": {
+	    "graphemes": "PH Y T O P L A NK T O N",
+	    "phonemes": "F AY T OW P L AE NG T AH N"
+	},
+	"PREKINDERGARTEN": {
+    	"graphemes": "P R E K I N D ER G A R T E N",
+    	"phonemes": "P R IY K IH N D ER G AA R D AH N"
+	},
+	"SYNAPSE": {
+	    "graphemes": "S Y N A P SE",
+	    "phonemes": "S IH N AE P S"
+	},
+	"SYNAPSES": {
+	    "graphemes": "S Y N A P S E S",
+	    "phonemes": "S IH N AE P S IH Z"
+	},
+	"CHRISTENING(1)": {
+        "graphemes": "C HR I ST E N I NG",
+        "phonemes": "K R IH S AH N IH NG"
+    },
+    "FASTENER": {
+        "graphemes": "F A ST E N ER",
+        "phonemes": "F AE S AH N ER"
+    },
+    "FASTENER(1)": {
+        "graphemes": "F A ST E N ER",
+        "phonemes": "F AE S AH N ER"
+    },
+    "GLISTENING(1)": {
+        "graphemes": "G L I ST E N I NG",
+        "phonemes": "G L IH S AH N IH NG"
+    },
+    "LISTENER": {
+        "graphemes": "L I ST E N ER",
+        "phonemes": "L IH S AH N ER"
+    },
+    "LISTENER(1)": {
+        "graphemes": "L I ST E N ER",
+        "phonemes": "L IH S AH N ER"
+    },
+    "SOFTENING(1)": {
+        "graphemes": "S O FT E N I NG",
+        "phonemes": "S AO F AH N IH NG"
+    },
+    "MONSIEUR": {
+        "graphemes": "M ON S I EUR",
+        "phonemes": "M AH S Y ER"
+    },
+    "DOSSIER": {
+        "graphemes": "D O SS I ER",
+        "phonemes": "D AO S Y EY"
+    },
+    "DOSSIER(1)": {
+        "graphemes": "D O SS I ER",
+        "phonemes": "D AO S IY EY"
+    },
+    "BOURGEOISIE": {
+        "graphemes": "B OU R GE OI S IE",
+        "phonemes": "B UH R ZH W:AA Z IY"
+    },
+    "POTBOILER": {
+        "graphemes": "P O T B OI L ER",
+        "phonemes": "P AA T B OY L ER"
+    },
+    "ANGST": {
+        "graphemes": "A NG S T",
+        "phonemes": "AA NG:K S T"
+    },
+    "LENGTH": {
+        "graphemes": "L E NG TH",
+        "phonemes": "L EH NG:K TH"
+    },
+    "STRENGTH": {
+        "graphemes": "S T R E NG TH",
+        "phonemes": "S T R EH NG:K TH"
+    },
+    "XI": {
+        "graphemes": "X I",
+        "phonemes": "Z AY"
+    },
+	"SARCOMA": {
+        "graphemes": "S A R C O M A",
+        "phonemes": "S AA R K OW M AH"
+    },
+    "UNREIN": {
+        "graphemes": "U N R EI N",
+        "phonemes": "AH N R AY N"
+    },
+    "BAE": {
+        "graphemes": "B AE",
+        "phonemes": "B EY"
+    },
+    "FAE": {
+        "graphemes": "F AE",
+        "phonemes": "F EY"
+    },
+    "KAOLIN": {
+        "graphemes": "K A O L I N",
+        "phonemes": "K EY UH L IH N"
+    },
+    "THUNDERSHOWER": {
+        "graphemes": "TH U N D ER SH OW ER",
+        "phonemes": "TH AH N D ER SH AW ER"
+    },
+    "CATSUP": {
+        "graphemes": "C A T S U P",
+        "phonemes": "K AE T S AH P"
+    },
+    "WELSH": {
+        "graphemes": "W E L SH",
+        "phonemes": "W EH L SH"
+    },
+    "LICENSURE": {
+        "graphemes": "L I C E N S URE",
+        "phonemes": "L AY S AH N SH ER"
+    },
+
+
+
+
+	"ADULTEROUS": {
+	    "graphemes": "A D U L T ER OU S",
+	    "phonemes": "AH D AH L T ER AH S"
+	},
+	"ANARCHIST": {
+	    "graphemes": "A N AR CH I S T",
+	    "phonemes": "AE N ER K IH S T"
+	},
+	"ANTLERED": {
+	    "graphemes": "A N T LE R ED",
+	    "phonemes": "AE N T L ER D"
+	},
+	"ARRANGER": {
+	    "graphemes": "ARR A N GE R",
+	    "phonemes": "ER EY N JH ER"
+	},
+	"BATTERED": {
+	    "graphemes": "B A TT ER ED",
+	    "phonemes": "B AE T ER D"
+	},
+	"BECHER": {
+	    "graphemes": "B E CH ER",
+	    "phonemes": "B EH K ER"
+	},
+	"BEWILDERED": {
+	    "graphemes": "B E W I L D ER ED",
+	    "phonemes": "B IH W IH L D ER D"
+	},
+	"BLISTERED": {
+	    "graphemes": "B L I S T ER ED",
+	    "phonemes": "B L IH S T ER D"
+	},
+	"BORDERED": {
+	    "graphemes": "B O R D ER ED",
+	    "phonemes": "B AO R D ER D"
+	},
+	"BOUCHER(1)": {
+	    "graphemes": "B OU CH ER",
+	    "phonemes": "B AW CH ER"
+	},
+	"BOUCHER(2)": {
+	    "graphemes": "B OU CH ER",
+	    "phonemes": "B AO CH ER"
+	},
+	"BOULDER": {
+	    "graphemes": "B OU L D ER",
+	    "phonemes": "B OW L D ER"
+	},
+	"BOULTER": {
+	    "graphemes": "B OU L T ER",
+	    "phonemes": "B OW L T ER"
+	},
+	"BREAKAWAY": {
+	    "graphemes": "B R EA K A W AY",
+	    "phonemes": "B R EY K AH W EY"
+	},
+	"BREAKWATER": {
+	    "graphemes": "B R EA K W A T ER",
+	    "phonemes": "B R EY K W AO T ER"
+	},
+	"BUREAU": {
+	    "graphemes": "B U R EAU",
+	    "phonemes": "B Y:UH R OW"
+	},
+	"BUREAUCRACY": {
+	    "graphemes": "B U RE AU C R A C Y",
+	    "phonemes": "B Y:UH R AA K R AH S IY"
+	},
+	"BUREAUCRAT": {
+	    "graphemes": "B U RE AU C R A T",
+	    "phonemes": "B Y:UH R AH K R AE T"
+	},
+	"BUREAUCRAT(1)": {
+	    "graphemes": "B U R EAU C R A T",
+	    "phonemes": "B Y:UH R OW K R AE T"
+	},
+	"BUREAUCRATIC": {
+	    "graphemes": "B U RE AU C R A T I C",
+	    "phonemes": "B Y:UH R AH K R AE T IH K"
+	},
+	"BURGHER": {
+	    "graphemes": "B UR GH ER",
+	    "phonemes": "B ER G ER"
+	},
+	"BURROWER": {
+	    "graphemes": "B URR OW ER",
+	    "phonemes": "B ER OW ER"
+	},
+	"BUTTERED": {
+	    "graphemes": "B U TT ER ED",
+	    "phonemes": "B AH T ER D"
+	},
+	"CANCEROUS": {
+	    "graphemes": "C A N C ER OU S",
+	    "phonemes": "K AE N S ER AH S"
+	},
+	"CANTANKEROUS": {
+	    "graphemes": "C A N T A N K ER OU S",
+	    "phonemes": "K AE N T AE NG K ER AH S"
+	},
+	"CARBONIFEROUS": {
+	    "graphemes": "C A R B O N I F ER OU S",
+	    "phonemes": "K AA R B AH N IH F ER AH S"
+	},
+	"CATERPILLAR(1)": {
+	    "graphemes": "C A T ER P I LL AR",
+	    "phonemes": "K AE T ER P IH L ER"
+	},
+	"CATERWAUL": {
+	    "graphemes": "C A T ER W AU L",
+	    "phonemes": "K AE T ER W AA L"
+	},
+	"CAVERNOUS": {
+	    "graphemes": "C A V ER N OU S",
+	    "phonemes": "K AE V ER N AH S"
+	},
+	"CENTERED": {
+	    "graphemes": "C E N T ER ED",
+	    "phonemes": "S EH N T ER D"
+	},
+	"CERTIFIED": {
+	    "graphemes": "C ER T I F IE D",
+	    "phonemes": "S ER T AH F AY D"
+	},
+	"CHAMBERED": {
+	    "graphemes": "CH A M B ER ED",
+	    "phonemes": "CH EY M B ER D"
+	},
+	"CHARACTER": {
+	    "graphemes": "CH A R A C T ER",
+	    "phonemes": "K EH R IH K T ER"
+	},
+	"CHARACTERISTIC": {
+	    "graphemes": "CH A R A C T ER I S T I C",
+	    "phonemes": "K EH R IH K T ER IH S T IH K"
+	},
+	"CHARACTERIZATION": {
+	    "graphemes": "CH A R A C T ER I Z A TI O N",
+	    "phonemes": "K EH R IH K T ER IH Z EY SH AH N"
+	},
+	"CHARTERED": {
+	    "graphemes": "CH A R T ER ED",
+	    "phonemes": "CH AA R T ER D"
+	},
+	"CHECKERED": {
+	    "graphemes": "CH E CK ER ED",
+	    "phonemes": "CH EH K ER D"
+	},
+	"CHOLERA": {
+	    "graphemes": "CH O L ER A",
+	    "phonemes": "K AA L ER AH"
+	},
+	"CHOLERIC": {
+	    "graphemes": "CH O L ER I C",
+	    "phonemes": "K AA L ER IH K"
+	},
+	"CHOLESTEROL": {
+	    "graphemes": "CH O L E S T ER O L",
+	    "phonemes": "K AH L EH S T ER AO L"
+	},
+	"CHOLESTEROL(1)": {
+	    "graphemes": "CH O L E S T ER O L",
+	    "phonemes": "K AH L EH S T ER AH L"
+	},
+	"CHOREOGRAPH": {
+	    "graphemes": "CH O R E O G R A PH",
+	    "phonemes": "K AO R IY AH G R AE F"
+	},
+	"CHOREOGRAPHER": {
+	    "graphemes": "CH O R E O G R A PH ER",
+	    "phonemes": "K AO R IY AA G R AH F ER"
+	},
+	"CHOREOGRAPHIC": {
+	    "graphemes": "CH O R E O G R A PH I C",
+	    "phonemes": "K AO R IY AH G R AE F IH K"
+	},
+	"CHOREOGRAPHY": {
+	    "graphemes": "CH O R E O G R A PH Y",
+	    "phonemes": "K AO R IY AA G R AH F IY"
+	},
+	"CIRCLED": {
+	    "graphemes": "C IR C LE D",
+	    "phonemes": "S ER K AH:L D"
+	},
+	"CIRCUMSCRIBED": {
+	    "graphemes": "C IR C U M S C R I B ED",
+	    "phonemes": "S ER K AH M S K R AY B D"
+	},
+	"CLUSTERED": {
+	    "graphemes": "C L U S T ER ED",
+	    "phonemes": "K L AH S T ER D"
+	},
+	"COMMISSIONER": {
+	    "graphemes": "C O MM I SSI O N ER",
+	    "phonemes": "K AH M IH SH AH N ER"
+	},
+	"CONCERNED": {
+	    "graphemes": "C O N C ER N ED",
+	    "phonemes": "K AH N S ER N D"
+	},
+	"CONFIRMED": {
+	    "graphemes": "C O N F IR M ED",
+	    "phonemes": "K AH N F ER M D"
+	},
+	"CONIFEROUS": {
+	    "graphemes": "C O N I F ER OU S",
+	    "phonemes": "K AH N IH F ER AH S"
+	},
+	"CONQUER": {
+	    "graphemes": "C O N QU ER",
+	    "phonemes": "K AA NG K ER"
+	},
+	"CONQUERING": {
+	    "graphemes": "C O N QU ER I NG",
+	    "phonemes": "K AA NG K ER IH NG"
+	},
+	"CONQUEROR": {
+	    "graphemes": "C O N QU ER OR",
+	    "phonemes": "K AA NG K ER ER"
+	},
+	"CONSIDERED": {
+	    "graphemes": "C O N S I D ER ED",
+	    "phonemes": "K AH N S IH D ER D"
+	},
+	"CORNERED": {
+	    "graphemes": "C O R N ER ED",
+	    "phonemes": "K AO R N ER D"
+	},
+	"COULTER": {
+	    "graphemes": "C OU L T ER",
+	    "phonemes": "K OW L T ER"
+	},
+	"COUNTERWEIGHT": {
+	    "graphemes": "C OU N T ER W EIGH T",
+	    "phonemes": "K AW N T ER W EY T"
+	},
+	"COUPLER": {
+	    "graphemes": "C OU P L ER",
+	    "phonemes": "K AH P L ER"
+	},
+	"COURIER": {
+	    "graphemes": "C OUR I ER",
+	    "phonemes": "K ER IY ER"
+	},
+	"COURSER": {
+	    "graphemes": "C OU R S ER",
+	    "phonemes": "K AO R S ER"
+	},
+	"COURTER": {
+	    "graphemes": "C OU R T ER",
+	    "phonemes": "K AO R T ER"
+	},
+	"COURTIER": {
+	    "graphemes": "C OU R T I ER",
+	    "phonemes": "K AO R T IY ER"
+	},
+	"COVERED": {
+	    "graphemes": "C O V ER ED",
+	    "phonemes": "K AH V ER D"
+	},
+	"CRATERED": {
+	    "graphemes": "C R A T ER ED",
+	    "phonemes": "K R EY T ER D"
+	},
+	"CURIOUS": {
+	    "graphemes": "C U R I OU S",
+	    "phonemes": "K Y:UH R IY AH S"
+	},
+	"CURIOUSLY": {
+	    "graphemes": "C U R I OU S L Y",
+	    "phonemes": "K Y:UH R IY AH S L IY"
+	},
+	"CURRIER": {
+	    "graphemes": "C URR I ER",
+	    "phonemes": "K ER IY ER"
+	},
+	"DANGEROUS": {
+	    "graphemes": "D A N G ER OU S",
+	    "phonemes": "D EY N JH ER AH S"
+	},
+	"DANGEROUSLY": {
+	    "graphemes": "D A N G ER OU S L Y",
+	    "phonemes": "D EY N JH ER AH S L IY"
+	},
+	"DANGEROUSNESS": {
+	    "graphemes": "D A N G ER OU S N E SS",
+	    "phonemes": "D EY N JH ER AH S N AH S"
+	},
+	"DEMURELY": {
+	    "graphemes": "D E M U RE L Y",
+	    "phonemes": "D IH M Y:UH R L IY"
+	},
+	"DERIVED": {
+	    "graphemes": "DE R I VE D",
+	    "phonemes": "D ER AY V D"
+	},
+	"DESERVED": {
+	    "graphemes": "D E S ER VE D",
+	    "phonemes": "D IH Z ER V D"
+	},
+	"DETERMINED": {
+	    "graphemes": "D E T ER M I N ED",
+	    "phonemes": "D IH T ER M AH N D"
+	},
+	"DEUTERIUM": {
+	    "graphemes": "D EU T E R I U M",
+	    "phonemes": "D UW T IY R IY AH M"
+	},
+	"DIFFERENTLY(1)": {
+	    "graphemes": "D I FF ER E N T L Y",
+	    "phonemes": "D IH F ER EH N T L IY"
+	},
+	"DISCOVERED": {
+	    "graphemes": "D I S C O V ER ED",
+	    "phonemes": "D IH S K AH V ER D"
+	},
+	"DISMEMBERED": {
+	    "graphemes": "D I S M E M B ER ED",
+	    "phonemes": "D IH S M EH M B ER D"
+	},
+	"DISORDERED": {
+	    "graphemes": "D I S O R D ER ED",
+	    "phonemes": "D IH S AO R D ER D"
+	},
+	"DISSOLVER": {
+	    "graphemes": "D I SS O L V ER",
+	    "phonemes": "D IH Z AA L V ER"
+	},
+	"DIVERSIFIED": {
+	    "graphemes": "D I V ER S I F IE D",
+	    "phonemes": "D AY V ER S AH F AY D"
+	},
+	"DIVERSIFIED(1)": {
+	    "graphemes": "D I V ER S I F IE D",
+	    "phonemes": "D IH V ER S AH F AY D"
+	},
+	"DWELLED": {
+	    "graphemes": "D W E LL ED",
+	    "phonemes": "D W EH L D"
+	},
+	"ENTREPRENEUR(1)": {
+	    "graphemes": "E N T R E P R E N EU R",
+	    "phonemes": "AA N T R AH P R AH N UH R"
+	},
+	"EXCHEQUER": {
+	    "graphemes": "E X CH E QU ER",
+	    "phonemes": "EH K:S CH EH K ER"
+	},
+	"EYER": {
+	    "graphemes": "EYE R",
+	    "phonemes": "AY ER"
+	},
+	"FEROCIOUS": {
+	    "graphemes": "F ER O CI OU S",
+	    "phonemes": "F ER OW SH AH S"
+	},
+	"FEROCIOUSLY": {
+	    "graphemes": "F ER O CI OU S L Y",
+	    "phonemes": "F ER OW SH IH S L IY"
+	},
+	"FETTERED": {
+	    "graphemes": "F E TT ER ED",
+	    "phonemes": "F EH T ER D"
+	},
+	"FEVERFEW": {
+	    "graphemes": "F E V ER F EW",
+	    "phonemes": "F IY V ER F Y:UW"
+	},
+	"FIGURATIVELY": {
+	    "graphemes": "F I G U R A T I VE L Y",
+	    "phonemes": "F IH G Y:UH R AH T IH V L IY"
+	},
+	"FINGERED": {
+	    "graphemes": "F I N G ER ED",
+	    "phonemes": "F IH NG G ER D"
+	},
+	"FLEURY": {
+	    "graphemes": "F L EU R Y",
+	    "phonemes": "F L UH R IY"
+	},
+	"FLOODWATER": {
+	    "graphemes": "F L OO D W A T ER",
+	    "phonemes": "F L AH D W AO T ER"
+	},
+	"FLOWERED": {
+	    "graphemes": "F L OW ER ED",
+	    "phonemes": "F L AW ER D"
+	},
+	"FOSSILIFEROUS": {
+	    "graphemes": "F O SS I L I F ER OU S",
+	    "phonemes": "F AA S AH L IH F ER AH S"
+	},
+	"FURIOUS": {
+	    "graphemes": "F U R I OU S",
+	    "phonemes": "F Y:UH R IY AH S"
+	},
+	"FURIOUSLY": {
+	    "graphemes": "F U R I OU S L Y",
+	    "phonemes": "F Y:UH R IY AH S L IY"
+	},
+	"FURRIER": {
+	    "graphemes": "F URR I ER",
+	    "phonemes": "F ER IY ER"
+	},
+	"GENERALIZED": {
+	    "graphemes": "G E N ER A L I Z ED",
+	    "phonemes": "JH EH N ER AH L AY Z D"
+	},
+	"GENEROUS": {
+	    "graphemes": "G E N ER OU S",
+	    "phonemes": "JH EH N ER AH S"
+	},
+	"GENEROUSLY": {
+	    "graphemes": "G E N ER OU S L Y",
+	    "phonemes": "JH EH N ER AH S L IY"
+	},
+	"GEYSER": {
+	    "graphemes": "G EY S ER",
+	    "phonemes": "G AY Z ER"
+	},
+	"GIVEAWAY": {
+	    "graphemes": "G I VE A W AY",
+	    "phonemes": "G IH V AH W EY"
+	},
+	"GRANDDAUGHTER": {
+	    "graphemes": "G R A N DD AUGH T ER",
+	    "phonemes": "G R AE N D AO T ER"
+	},
+	"GRANDEUR": {
+	    "graphemes": "G R A N D EU R",
+	    "phonemes": "G R AE N D UW R"
+	},
+	"HETEROGENEOUS": {
+	    "graphemes": "H E T ER O G E N E OU S",
+	    "phonemes": "HH EH T ER AH JH IY N Y AH S"
+	},
+	"HETEROSPOROUS": {
+	    "graphemes": "H E T ER O S P OR OU S",
+	    "phonemes": "HH EH T ER AA S P ER AH S"
+	},
+	"HETEROZYGOUS": {
+	    "graphemes": "H E T ER O Z Y G OU S",
+	    "phonemes": "HH EH T ER AH Z AY G AH S"
+	},
+	"HIDEAWAY": {
+	    "graphemes": "H I DE A W AY",
+	    "phonemes": "HH AY D AH W EY"
+	},
+	"HIERARCHY": {
+	    "graphemes": "H I ER A R CH Y",
+	    "phonemes": "HH AY ER AA R K IY"
+	},
+	"IMPERVIOUS": {
+	    "graphemes": "I M P ER V I OU S",
+	    "phonemes": "IH M P ER V IY AH S"
+	},
+	"INDIFFERENT(1)": {
+	    "graphemes": "I N D I FF ER E N T",
+	    "phonemes": "IH N D IH F ER AH N T"
+	},
+	"INTERCESSION": {
+	    "graphemes": "I N T ER C E SSI O N",
+	    "phonemes": "IH N T ER S EH SH AH N"
+	},
+	"INTERCURRENT": {
+	    "graphemes": "I N T ER C URR E N T",
+	    "phonemes": "IH N T ER K ER AH N T"
+	},
+	"INTERMEDIARY(1)": {
+	    "graphemes": "I N T ER M E D I A R Y",
+	    "phonemes": "IH N T ER M IY D IY EH R IY"
+	},
+	"INTERMISSION": {
+	    "graphemes": "I N T ER M I SSI O N",
+	    "phonemes": "IH N T ER M IH SH AH N"
+	},
+	"INTERSCHOLASTIC": {
+	    "graphemes": "I N T ER S CH O L A S T I C",
+	    "phonemes": "IH N T ER S K AH L AE S T IH K"
+	},
+	"INURED": {
+	    "graphemes": "I N U RE D",
+	    "phonemes": "IH N Y:UH R D"
+	},
+	"ISLANDER": {
+	    "graphemes": "I SL A N D ER",
+	    "phonemes": "AY L AH N D ER"
+	},
+	"KITCHENER": {
+	    "graphemes": "K I TCH E N ER",
+	    "phonemes": "K IH CH AH N ER"
+	},
+	"KNICKERBOCKERED": {
+	    "graphemes": "KN I CK ER B O CK ER ED",
+	    "phonemes": "N IH K ER B AA K ER D"
+	},
+	"LAYERED": {
+	    "graphemes": "L AY ER ED",
+	    "phonemes": "L EY ER D"
+	},
+	"LEARNER": {
+	    "graphemes": "L EAR N ER",
+	    "phonemes": "L ER N ER"
+	},
+	"LECHEROUS": {
+	    "graphemes": "L E CH ER OU S",
+	    "phonemes": "L EH CH ER AH S"
+	},
+	"LETTERED": {
+	    "graphemes": "L E TT ER ED",
+	    "phonemes": "L EH T ER D"
+	},
+	"LEU": {
+	    "graphemes": "L EU",
+	    "phonemes": "L UW"
+	},
+	"LEUKEMIA": {
+	    "graphemes": "L EU K E M I A",
+	    "phonemes": "L UW K IY M IY AH"
+	},
+	"MANEUVER": {
+	    "graphemes": "M A N EU V ER",
+	    "phonemes": "M AH N UW V ER"
+	},
+	"MANEUVERABILITY": {
+	    "graphemes": "M A N EU V ER A B I L I T Y",
+	    "phonemes": "M AH N UW V ER AH B IH L IH T IY"
+	},
+	"MANNERED": {
+	    "graphemes": "M A NN ER ED",
+	    "phonemes": "M AE N ER D"
+	},
+	"MANSLAUGHTER": {
+	    "graphemes": "M A N S L AUGH T ER",
+	    "phonemes": "M AE N S L AO T ER"
+	},
+	"MARQUIS": {
+	    "graphemes": "M A R QU IS",
+	    "phonemes": "M AA R K IY"
+	},
+	"MEMBERED": {
+	    "graphemes": "M E M BE R ED",
+	    "phonemes": "M EH M B ER D"
+	},
+	"MISCHARACTERIZATION": {
+	    "graphemes": "M I S CH A R A C T ER I Z A TI O N",
+	    "phonemes": "M IH S K AE R AH K T ER AH Z EY SH AH N"
+	},
+	"MOURNER": {
+	    "graphemes": "M OU R N ER",
+	    "phonemes": "M AO R N ER"
+	},
+	"MURDEROUS": {
+	    "graphemes": "M UR D ER OU S",
+	    "phonemes": "M ER D ER AH S"
+	},
+	"NERVOUS": {
+	    "graphemes": "N ER V OU S",
+	    "phonemes": "N ER V AH S"
+	},
+	"NERVOUSLY": {
+	    "graphemes": "N ER V OU S L Y",
+	    "phonemes": "N ER V AH S L IY"
+	},
+	"NERVOUSNESS": {
+	    "graphemes": "N ER V OU S N E SS",
+	    "phonemes": "N ER V AH S N AH S"
+	},
+	"NEURAL": {
+	    "graphemes": "N EU R A L",
+	    "phonemes": "N UH R AH L"
+	},
+	"NEUROFIBROMATOSIS": {
+	    "graphemes": "N EU R O F I B R O M A T O S I S",
+	    "phonemes": "N UH R OW F AY B R OW M AH T OW S IH S"
+	},
+	"NEUROLOGIST": {
+	    "graphemes": "N EU R O L O G I S T",
+	    "phonemes": "N UH R AA L AH JH AH S T"
+	},
+	"NEUROLOGY": {
+	    "graphemes": "N EU R O L O G Y",
+	    "phonemes": "N UH R AA L AH JH IY"
+	},
+	"NEURON": {
+	    "graphemes": "N EU R O N",
+	    "phonemes": "N UH R AA N"
+	},
+	"NEUROSES": {
+	    "graphemes": "N EU R O S E S",
+	    "phonemes": "N UH R OW S IY Z"
+	},
+	"NEUROSIS": {
+	    "graphemes": "N EU R O S I S",
+	    "phonemes": "N UH R OW S AH S"
+	},
+	"NEUROSURGERY": {
+	    "graphemes": "N EU R O S UR G ER Y",
+	    "phonemes": "N UH R OW S ER JH ER IY"
+	},
+	"NEUROTIC": {
+	    "graphemes": "N EU R O T I C",
+	    "phonemes": "N UH R AA T IH K"
+	},
+	"NEUTRAL": {
+	    "graphemes": "N EU T R A L",
+	    "phonemes": "N UW T R AH L"
+	},
+	"NEUTRALISM": {
+	    "graphemes": "N EU T R A L I S M",
+	    "phonemes": "N UW T R AH L IH Z AH:M"
+	},
+	"NEUTRALIST": {
+	    "graphemes": "N EU T R A L I S T",
+	    "phonemes": "N UW T R AH L AH S T"
+	},
+	"NEUTRALITY": {
+	    "graphemes": "N EU T R A L I T Y",
+	    "phonemes": "N UW T R AE L AH T IY"
+	},
+	"NEUTRALIZATION": {
+	    "graphemes": "N EU T R A L I Z A TI O N",
+	    "phonemes": "N UW T R AH L AH Z EY SH AH N"
+	},
+	"NEUTRALLY": {
+	    "graphemes": "N EU T R A LL Y",
+	    "phonemes": "N UW T R AH L IY"
+	},
+	"NEUTRINO": {
+	    "graphemes": "N EU T R I N O",
+	    "phonemes": "N UW T R IY N OW"
+	},
+	"NEUTRON": {
+	    "graphemes": "N EU T R O N",
+	    "phonemes": "N UW T R AA N"
+	},
+	"NUMEROUS": {
+	    "graphemes": "N U M ER OU S",
+	    "phonemes": "N UW M ER AH S"
+	},
+	"OBSTREPEROUS": {
+	    "graphemes": "O B S T R E P ER OU S",
+	    "phonemes": "AH B S T R EH P ER AH S"
+	},
+	"OCEANOGRAPHER": {
+	    "graphemes": "O CE A N O G R A PH ER",
+	    "phonemes": "OW SH AH N AA G R AH F ER"
+	},
+	"OCEANOGRAPHIC": {
+	    "graphemes": "O CE A N O G R A PH I C",
+	    "phonemes": "OW SH AH N AH G R AE F IH K"
+	},
+	"OCEANOGRAPHY": {
+	    "graphemes": "O CE A N O G R A PH Y",
+	    "phonemes": "OW SH AH N AA G R AH F IY"
+	},
+	"ONEROUS": {
+	    "graphemes": "O N ER OU S",
+	    "phonemes": "OW N ER AH S"
+	},
+	"ORDERED": {
+	    "graphemes": "O R D ER ED",
+	    "phonemes": "AO R D ER D"
+	},
+	"OUTMANEUVER": {
+	    "graphemes": "OU T M A N EU V ER",
+	    "phonemes": "AW T M AH N UW V ER"
+	},
+	"OVERAMBITIOUS": {
+	    "graphemes": "O V ER A M B I TI OU S",
+	    "phonemes": "OW V ER AE M B IH SH AH S"
+	},
+	"OVERBOUGHT": {
+	    "graphemes": "O V ER B OUGH T",
+	    "phonemes": "OW V ER B AO T"
+	},
+	"OVERGENEROUS": {
+	    "graphemes": "O V ER G E N ER OU S",
+	    "phonemes": "OW V ER JH EH N ER AH S"
+	},
+	"OVERMATCH": {
+	    "graphemes": "O V ER M A TCH",
+	    "phonemes": "OW V ER M AE CH"
+	},
+	"OVERSIZED": {
+	    "graphemes": "O V ER S I Z ED",
+	    "phonemes": "OW V ER S AY Z D"
+	},
+	"OVERWEIGHT": {
+	    "graphemes": "O V ER W EIGH T",
+	    "phonemes": "OW V ER W EY T"
+	},
+	"OVERWROUGHT": {
+	    "graphemes": "O V ER WR OUGH T",
+	    "phonemes": "OW V ER R AO T"
+	},
+	"OVERZEALOUS": {
+	    "graphemes": "O V ER Z EA L OU S",
+	    "phonemes": "OW V ER Z EH L AH S"
+	},
+	"OVERZEALOUSLY": {
+	    "graphemes": "O V ER Z EA L OU S L Y",
+	    "phonemes": "OW V ER Z EH L AH S L IY"
+	},
+	"OVIPAROUS": {
+	    "graphemes": "O V I P AR OU S",
+	    "phonemes": "OW V IH P ER AH S"
+	},
+	"OVOVIVIPAROUS": {
+	    "graphemes": "O V O V I V I P AR OU S",
+	    "phonemes": "OW V OW V AY V IH P ER AH S"
+	},
+	"PAMPERED": {
+	    "graphemes": "P A M P ER ED",
+	    "phonemes": "P AE M P ER D"
+	},
+	"PAPERED": {
+	    "graphemes": "P A P ER ED",
+	    "phonemes": "P EY P ER D"
+	},
+	"PAPERWEIGHT": {
+	    "graphemes": "P A P ER W EIGH T",
+	    "phonemes": "P EY P ER W EY T"
+	},
+	"PARIAH": {
+	    "graphemes": "P AR I AH",
+	    "phonemes": "P ER AY AH"
+	},
+	"PARISHIONER": {
+	    "graphemes": "P AR I SHI O N ER",
+	    "phonemes": "P ER IH SH AH N ER"
+	},
+	"PAROCHIAL": {
+	    "graphemes": "P AR O CH I A L",
+	    "phonemes": "P ER OW K IY AH L"
+	},
+	"PAROCHIALISM": {
+	    "graphemes": "P AR O CH I A L I S M",
+	    "phonemes": "P ER OW K IY AH L IH Z AH:M"
+	},
+	"PASTEUR": {
+	    "graphemes": "P A S T EU R",
+	    "phonemes": "P AH S T UW R"
+	},
+	"PATTERNED": {
+	    "graphemes": "P A TT ER N ED",
+	    "phonemes": "P AE T ER N D"
+	},
+	"PERCUSSION": {
+	    "graphemes": "P ER C U SSI O N",
+	    "phonemes": "P ER K AH SH AH N"
+	},
+	"PERCUSSIONIST": {
+	    "graphemes": "P ER C U SSI O N I S T",
+	    "phonemes": "P ER K AH SH AH N IH S T"
+	},
+	"PERFUMED": {
+	    "graphemes": "P ER F U ME D",
+	    "phonemes": "P ER F Y:UW M D"
+	},
+	"PERINEURAL": {
+	    "graphemes": "P ER I N EU R A L",
+	    "phonemes": "P ER IY N UH R AH L"
+	},
+	"PERJURED": {
+	    "graphemes": "P ER J URE D",
+	    "phonemes": "P ER JH ER D"
+	},
+	"PERMISSION": {
+	    "graphemes": "P ER M I SSI O N",
+	    "phonemes": "P ER M IH SH AH N"
+	},
+	"PERNICIOUS": {
+	    "graphemes": "P ER N I CI OU S",
+	    "phonemes": "P ER N IH SH AH S"
+	},
+	"PERSPICACIOUS": {
+	    "graphemes": "P ER S P I C A CI OU S",
+	    "phonemes": "P ER S P AH K EY SH AH S"
+	},
+	"PLEURISY": {
+	    "graphemes": "P L EU R I S Y",
+	    "phonemes": "P L UH R AH S IY"
+	},
+	"PLEURITIS": {
+	    "graphemes": "P L EU R I T I S",
+	    "phonemes": "P L UH R AY T AH S"
+	},
+	"PONDEROUS": {
+	    "graphemes": "P O N D ER OU S",
+	    "phonemes": "P AA N D ER AH S"
+	},
+	"POULTER": {
+	    "graphemes": "P OU L T ER",
+	    "phonemes": "P OW L T ER"
+	},
+	"POWDERED": {
+	    "graphemes": "P OW D ER ED",
+	    "phonemes": "P AW D ER D"
+	},
+	"POWERED": {
+	    "graphemes": "P OW ER ED",
+	    "phonemes": "P AW ER D"
+	},
+	"PRECANCEROUS": {
+	    "graphemes": "P R E C A N C ER OU S",
+	    "phonemes": "P R IY K AE N S ER AH S"
+	},
+	"PREPOSTEROUS": {
+	    "graphemes": "P R E P O S T ER OU S",
+	    "phonemes": "P R IH P AA S T ER AH S"
+	},
+	"PROCUREMENT": {
+	    "graphemes": "P R O C U RE M E N T",
+	    "phonemes": "P R OW K Y:UH R M AH N T"
+	},
+	"PROSPEROUS": {
+	    "graphemes": "P R O S P ER OU S",
+	    "phonemes": "P R AA S P ER AH S"
+	},
+	"PUREBRED": {
+	    "graphemes": "P U RE B R E D",
+	    "phonemes": "P Y:UH R B R EH D"
+	},
+	"PURELY": {
+	    "graphemes": "P U RE L Y",
+	    "phonemes": "P Y:UH R L IY"
+	},
+	"RACONTEUR": {
+	    "graphemes": "R A C O N T EU R",
+	    "phonemes": "R AE K AA N T UW R"
+	},
+	"RECONQUER": {
+	    "graphemes": "R E C O N QU ER",
+	    "phonemes": "R IY K AO NG K ER"
+	},
+	"RECOVERY(1)": {
+	    "graphemes": "R E C O V ER Y",
+	    "phonemes": "R IH K AH V ER IY"
+	},
+	"REGISTERED": {
+	    "graphemes": "R E G I S T ER ED",
+	    "phonemes": "R EH JH IH S T ER D"
+	},
+	"REPERCUSSION": {
+	    "graphemes": "R E P ER C U SSI O N",
+	    "phonemes": "R IY P ER K AH SH AH N"
+	},
+	"RESEARCHER": {
+	    "graphemes": "R E S EAR CH ER",
+	    "phonemes": "R IY S ER CH ER"
+	},
+	"RESERVED": {
+	    "graphemes": "R E S ER V ED",
+	    "phonemes": "R IH Z ER V D"
+	},
+	"RESERVED(1)": {
+	    "graphemes": "R E S ER V ED",
+	    "phonemes": "R IY Z ER V D"
+	},
+	"RHINOCEROS": {
+	    "graphemes": "RH I N O C ER O S",
+	    "phonemes": "R AY N AA S ER AH S"
+	},
+	"RHYMER": {
+	    "graphemes": "RH Y M ER",
+	    "phonemes": "R AY M ER"
+	},
+	"SCATTERED": {
+	    "graphemes": "S C A TT ER ED",
+	    "phonemes": "S K AE T ER D"
+	},
+	"SCHEMER": {
+	    "graphemes": "S CH E M ER",
+	    "phonemes": "S K IY M ER"
+	},
+	"SCHILLER": {
+	    "graphemes": "SCH I LL ER",
+	    "phonemes": "SH IH L ER"
+	},
+	"SCHIZOPHRENIA": {
+	    "graphemes": "S CH I Z O PH R E N I A",
+	    "phonemes": "S K IH T:S AH F R IY N IY AH"
+	},
+	"SCHIZOPHRENIC": {
+	    "graphemes": "SCH I Z O PH R E N I C",
+	    "phonemes": "SH IH Z AH F R EH N IH K"
+	},
+	"SCHOLAR": {
+	    "graphemes": "S CH O L AR",
+	    "phonemes": "S K AA L ER"
+	},
+	"SCHOLARLY": {
+	    "graphemes": "S C HO L AR L Y",
+	    "phonemes": "S K AA L ER L IY"
+	},
+	"SCHOLARSHIP": {
+	    "graphemes": "S CH O L AR SH I P",
+	    "phonemes": "S K AA L ER SH IH P"
+	},
+	"SCHOOLMASTER": {
+	    "graphemes": "S CH OO L M A S T ER",
+	    "phonemes": "S K UW L M AE S T ER"
+	},
+	"SEARCHER": {
+	    "graphemes": "S EAR CH ER",
+	    "phonemes": "S ER CH ER"
+	},
+	"SECURELY": {
+	    "graphemes": "S E C U RE L Y",
+	    "phonemes": "S IH K Y:UH R L IY"
+	},
+	"SEQUESTERED": {
+	    "graphemes": "S E Q U E S T ER ED",
+	    "phonemes": "S IH K W EH S T ER D"
+	},
+	"SHELTERED": {
+	    "graphemes": "SH E L T ER ED",
+	    "phonemes": "SH EH L T ER D"
+	},
+	"SHOULDER": {
+	    "graphemes": "SH OU L D ER",
+	    "phonemes": "SH OW L D ER"
+	},
+	"SHOULDERED": {
+	    "graphemes": "SH OU L D ER ED",
+	    "phonemes": "SH OW L D ER D"
+	},
+	"SHOULDERING": {
+	    "graphemes": "SH OU L D ER I NG",
+	    "phonemes": "SH OW L D ER IH NG"
+	},
+	"SHUTTERED": {
+	    "graphemes": "SH U TT ER ED",
+	    "phonemes": "SH AH T ER D"
+	},
+	"SKIER(1)": {
+	    "graphemes": "S K I ER",
+	    "phonemes": "S K IY ER"
+	},
+	"SLANDEROUS": {
+	    "graphemes": "S L A N D ER OU S",
+	    "phonemes": "S L AE N D ER AH S"
+	},
+	"SNOOKERED": {
+	    "graphemes": "S N OO K ER ED",
+	    "phonemes": "S N UH K ER D"
+	},
+	"SOJOURNER": {
+	    "graphemes": "S O J OUR N ER",
+	    "phonemes": "S OW JH ER N ER"
+	},
+	"SPURIOUS": {
+	    "graphemes": "S P U R I OU S",
+	    "phonemes": "S P Y:UH R IY AH S"
+	},
+	"SPURRIER": {
+	    "graphemes": "S P URR I ER",
+	    "phonemes": "S P ER IY ER"
+	},
+	"STANDARDIZED": {
+	    "graphemes": "S T A N D AR D I ZE D",
+	    "phonemes": "S T AE N D ER D AY Z D"
+	},
+	"STEPDAUGHTER": {
+	    "graphemes": "S T E P D AUGH T ER",
+	    "phonemes": "S T EH P D AO T ER"
+	},
+	"SUPERCILIOUS": {
+	    "graphemes": "S U P ER C I L I OU S",
+	    "phonemes": "S UW P ER S IH L IY AH S"
+	},
+	"SUPERIMPOSED": {
+	    "graphemes": "S U P ER I M P O S ED",
+	    "phonemes": "S UW P ER AH M P OW Z D"
+	},
+	"SUPERSTITIOUS": {
+	    "graphemes": "S U P ER S T I TI OU S",
+	    "phonemes": "S UW P ER S T IH SH AH S"
+	},
+	"SURRENDER": {
+	    "graphemes": "S URR E N D ER",
+	    "phonemes": "S ER EH N D ER"
+	},
+	"SWELLED": {
+	    "graphemes": "S W E LL ED",
+	    "phonemes": "S W EH L D"
+	},
+	"TAPERED": {
+	    "graphemes": "T A P ER ED",
+	    "phonemes": "T EY P ER D"
+	},
+	"TATTERED": {
+	    "graphemes": "T A TT ER ED",
+	    "phonemes": "T AE T ER D"
+	},
+	"TEMEROUS": {
+	    "graphemes": "T E M ER OU S",
+	    "phonemes": "T EH M ER AH S"
+	},
+	"TEMPERED": {
+	    "graphemes": "T E M P ER ED",
+	    "phonemes": "T EH M P ER D"
+	},
+	"TERTIUS": {
+	    "graphemes": "T ER T I U S",
+	    "phonemes": "T ER T IY IH S"
+	},
+	"TERTIUS(1)": {
+	    "graphemes": "T ER T I U S",
+	    "phonemes": "T ER SH Y IH S"
+	},
+	"TETRAMEROUS": {
+	    "graphemes": "T E T R A M ER OU S",
+	    "phonemes": "T EH T R AE M ER AH S"
+	},
+	"TOWERED": {
+	    "graphemes": "T OW ER ED",
+	    "phonemes": "T AW ER D"
+	},
+	"TREACHEROUS": {
+	    "graphemes": "T R EA CH ER OU S",
+	    "phonemes": "T R EH CH ER AH S"
+	},
+	"TRIGGERED": {
+	    "graphemes": "T R I GG ER ED",
+	    "phonemes": "T R IH G ER D"
+	},
+	"UNALTERED": {
+	    "graphemes": "U N A L T ER ED",
+	    "phonemes": "AH N AO L T ER D"
+	},
+	"UNCHARACTERISTIC": {
+	    "graphemes": "U N CH A R A C T ER I S T I C",
+	    "phonemes": "AH N K EH R IH K T ER IH S T IH K"
+	},
+	"UNCHARTERED": {
+	    "graphemes": "U N CH A R T ER ED",
+	    "phonemes": "AH N CH AA R T ER D"
+	},
+	"UNCLUTTERED": {
+	    "graphemes": "U N C L U TT ER ED",
+	    "phonemes": "AH N K L AH T ER D"
+	},
+	"UNCONCERNED": {
+	    "graphemes": "U N C O N C ER N ED",
+	    "phonemes": "AH N K AH N S ER N D"
+	},
+	"UNCONFIRMED": {
+	    "graphemes": "U N C O N F IR M ED",
+	    "phonemes": "AH N K AH N F ER M D"
+	},
+	"UNCOVERED": {
+	    "graphemes": "U N C O V ER ED",
+	    "phonemes": "AH N K AH V ER D"
+	},
+	"UNDELIVERED": {
+	    "graphemes": "U N D E L I V ER ED",
+	    "phonemes": "AH N D IH L IH V ER D"
+	},
+	"UNDERCURRENT": {
+	    "graphemes": "U N D ER C URR E N T",
+	    "phonemes": "AH N D ER K ER AH N T"
+	},
+	"UNDERMANNED": {
+	    "graphemes": "U N D ER M A NN ED",
+	    "phonemes": "AH N D ER M AE N D"
+	},
+	"UNDERNOURISH": {
+	    "graphemes": "U N D ER N OUR I SH",
+	    "phonemes": "AH N D ER N ER IH SH"
+	},
+	"UNDERNOURISHED": {
+	    "graphemes": "U N D ER N OUR I SH ED",
+	    "phonemes": "AH N D ER N ER IH SH T"
+	},
+	"UNDERSIZED": {
+	    "graphemes": "U N D ER S I ZE D",
+	    "phonemes": "AH N D ER S AY Z D"
+	},
+	"UNDERWEIGHTED": {
+	    "graphemes": "U N D ER W EIGH T E D",
+	    "phonemes": "AH N D ER W EY T IH D"
+	},
+	"UNDESERVED": {
+	    "graphemes": "U N D E S ER VE D",
+	    "phonemes": "AH N D IH Z ER V D"
+	},
+	"UNDETERMINED": {
+	    "graphemes": "U N D E T ER M I NE D",
+	    "phonemes": "AH N D IH T ER M IH N D"
+	},
+	"UNDETERMINED(1)": {
+	    "graphemes": "U N D E T ER M I NE D",
+	    "phonemes": "AH N D IY T ER M AH N D"
+	},
+	"UNDISCOVERED": {
+	    "graphemes": "U N D I S C O V ER ED",
+	    "phonemes": "AH N D IH S K AH V ER D"
+	},
+	"UNDIVERSIFIED": {
+	    "graphemes": "U N D I V ER S I F IE D",
+	    "phonemes": "AH N D IH V ER S IH F AY D"
+	},
+	"UNENCUMBERED": {
+	    "graphemes": "U N E N C U M B ER ED",
+	    "phonemes": "AH N EH N K AH M B ER D"
+	},
+	"UNEXERCISED": {
+	    "graphemes": "U N E X ER C I S ED",
+	    "phonemes": "AH N EH K:S ER S AY Z D"
+	},
+	"UNFETTERED": {
+	    "graphemes": "U N F E TT ER ED",
+	    "phonemes": "AH N F EH T ER D"
+	},
+	"UNFILTERED": {
+	    "graphemes": "U N F I L T ER ED",
+	    "phonemes": "AH N F IH L T ER D"
+	},
+	"UNHAMPERED": {
+	    "graphemes": "U N H A M P ER ED",
+	    "phonemes": "AH N HH AE M P ER D"
+	},
+	"UNHINDERED": {
+	    "graphemes": "U N H I N D ER ED",
+	    "phonemes": "AH N HH IH N D ER D"
+	},
+	"UNNERVED": {
+	    "graphemes": "U N N ER VE D",
+	    "phonemes": "AH N N ER V D"
+	},
+	"UNPRESERVED": {
+	    "graphemes": "U N P R E S ER VE D",
+	    "phonemes": "AH N P R AH Z ER V D"
+	},
+	"UNPRESERVED(1)": {
+	    "graphemes": "U N P R E S ER VE D",
+	    "phonemes": "AH N P R IH Z ER V D"
+	},
+	"UNPRESERVED(2)": {
+	    "graphemes": "U N P R E S ER VE D",
+	    "phonemes": "AH N P R IY Z ER V D"
+	},
+	"UNREGISTERED": {
+	    "graphemes": "U N R E G I S T ER ED",
+	    "phonemes": "AH N R EH JH IH S T ER D"
+	},
+	"UNSECURED": {
+	    "graphemes": "U N S E C U RE D",
+	    "phonemes": "AH N S IH K Y:UH R D"
+	},
+	"UNSECURED(1)": {
+	    "graphemes": "U N S E C U RE D",
+	    "phonemes": "AH N S IY K Y:UH R D"
+	},
+	"UNSUPERVISED": {
+	    "graphemes": "U N S U P ER V I SE D",
+	    "phonemes": "AH N S UW P ER V AY Z D"
+	},
+	"UNTENDERED": {
+	    "graphemes": "U N T E N D ER ED",
+	    "phonemes": "AH N T EH N D ER D"
+	},
+	"UNWELCOMED": {
+	    "graphemes": "U N W E L C O M ED",
+	    "phonemes": "AH N W EH L K AH M D"
+	},
+	"URINE(1)": {
+	    "graphemes": "U R I NE",
+	    "phonemes": "Y:UH R AH N"
+	},
+	"VETERINARIAN(1)": {
+	    "graphemes": "V E T ER I N A R I A N",
+	    "phonemes": "V EH T ER AH N EH R IY AH N"
+	},
+	"VIRTUOUS": {
+	    "graphemes": "V IR T U OU S",
+	    "phonemes": "V ER CH UW AH S"
+	},
+	"VIVIPAROUS": {
+	    "graphemes": "V I V I P AR OU S",
+	    "phonemes": "V AY V IH P ER AH S"
+	},
+	"VOCIFEROUS": {
+	    "graphemes": "V O C I F ER OU S",
+	    "phonemes": "V OW S IH F ER AH S"
+	},
+	"VOCIFEROUSLY": {
+	    "graphemes": "V O C I F ER OU S L Y",
+	    "phonemes": "V AH S IH F ER AH S L IY"
+	},
+	"WALLED": {
+	    "graphemes": "W A LL ED",
+	    "phonemes": "W AO L D"
+	},
+	"WANED": {
+	    "graphemes": "W A NE D",
+	    "phonemes": "W EY N D"
+	},
+	"WARBLED": {
+	    "graphemes": "W A R B LE D",
+	    "phonemes": "W AO R B AH:L D"
+	},
+	"WARMED": {
+	    "graphemes": "W A R M ED",
+	    "phonemes": "W AO R M D"
+	},
+	"WATERED": {
+	    "graphemes": "W A T ER ED",
+	    "phonemes": "W AO T ER D"
+	},
+	"WATERLOGGED": {
+	    "graphemes": "W A T ER L O GG ED",
+	    "phonemes": "W AO T ER L AA G D"
+	},
+	"WATTLED": {
+	    "graphemes": "W A TT LE D",
+	    "phonemes": "W AA T AH:L D"
+	},
+	"WAVED": {
+	    "graphemes": "W A VE D",
+	    "phonemes": "W EY V D"
+	},
+	"WEAVED": {
+	    "graphemes": "W EA VE D",
+	    "phonemes": "W IY V D"
+	},
+	"WEDGED": {
+	    "graphemes": "W E DGE D",
+	    "phonemes": "W EH JH D"
+	},
+	"WELTERWEIGHT": {
+	    "graphemes": "W E L T ER W EIGH T",
+	    "phonemes": "W EH L T ER W EY T"
+	},
+	"WHIRLED": {
+	    "graphemes": "WH IR L ED",
+	    "phonemes": "W ER L D"
+	},
+	"WHIRLED(1)": {
+	    "graphemes": "WH IR L ED",
+	    "phonemes": "HH:W ER L D"
+	},
+	"WHISKERED": {
+	    "graphemes": "WH I S K ER ED",
+	    "phonemes": "W IH S K ER D"
+	},
+	"WHISPERED": {
+	    "graphemes": "WH I S P ER ED",
+	    "phonemes": "W IH S P ER D"
+	},
+	"WHISPERED(1)": {
+	    "graphemes": "WH I S P ER ED",
+	    "phonemes": "HH:W IH S P ER D"
+	},
+	"WIDOWED": {
+	    "graphemes": "W I D OW ED",
+	    "phonemes": "W IH D OW D"
+	},
+	"WILLED": {
+	    "graphemes": "W I LL ED",
+	    "phonemes": "W IH L D"
+	},
+	"WINDOWED": {
+	    "graphemes": "W I N D OW ED",
+	    "phonemes": "W IH N D OW D"
+	},
+	"WINED": {
+	    "graphemes": "W I NE D",
+	    "phonemes": "W AY N D"
+	},
+	"WINTERED": {
+	    "graphemes": "W I N T ER ED",
+	    "phonemes": "W IH N T ER D"
+	},
+	"WIRED": {
+	    "graphemes": "W I RE D",
+	    "phonemes": "W AY ER D"
+	},
+	"WIRED(1)": {
+	    "graphemes": "W I RE D",
+	    "phonemes": "W AY R D"
+	},
+	"WIZENED": {
+	    "graphemes": "W I Z E N ED",
+	    "phonemes": "W AY Z AH N D"
+	},
+	"WONDERED": {
+	    "graphemes": "W O N D ER ED",
+	    "phonemes": "W AH N D ER D"
+	},
+
+	"BOOSTERISM": {
+	    "graphemes": "B OO S T ER I S M",
+	    "phonemes": "B UW S T ER IH Z AH:M"
+	},
+	"COMMERCIALISM": {
+	    "graphemes": "C O MM ER CI A L I S M",
+	    "phonemes": "K AH M ER SH AH L IH Z AH:M"
+	},
+	"CONSERVATISM": {
+	    "graphemes": "C O N S ER V A T I S M",
+	    "phonemes": "K AH N S ER V AH T IH Z AH:M"
+	},
+	"DETERMINISM": {
+	    "graphemes": "D E T ER M I N I S M",
+	    "phonemes": "D IH T ER M AH N IH Z AH:M"
+	},
+	"FEDERALISM": {
+	    "graphemes": "F E D ER A L I S M",
+	    "phonemes": "F EH D ER AH L IH Z AH:M"
+	},
+	"INTERNATIONALISM": {
+	    "graphemes": "I N T ER N A TI O N A L I S M",
+	    "phonemes": "IH N T ER N AE SH AH N AA L IH Z AH:M"
+	},
+	"INTERVENTIONISM": {
+	    "graphemes": "I N T ER V E N TI O N I S M",
+	    "phonemes": "IH N T ER V EH N SH AH N IH Z AH:M"
+	},
+	"LIBERALISM": {
+	    "graphemes": "L I B ER A L I S M",
+	    "phonemes": "L IH B ER AH L IH Z AH:M"
+	},
+	"MANNERISM": {
+	    "graphemes": "M A NN ER I S M",
+	    "phonemes": "M AE N ER IH Z AH:M"
+	},
+	"MERCANTILISM": {
+	    "graphemes": "M ER C A N T I L I S M",
+	    "phonemes": "M ER K AE N T AH L IH Z AH:M"
+	},
+	"MESMERISM": {
+	    "graphemes": "M E S M ER I S M",
+	    "phonemes": "M EH S M ER IH Z AH:M"
+	},
+	"MODERNISM": {
+	    "graphemes": "M O D ER N I S M",
+	    "phonemes": "M AA D ER N IH Z AH:M"
+	},
+	"PATERNALISM": {
+	    "graphemes": "P A T ER N A L I S M",
+	    "phonemes": "P AH T ER N AH L IH Z AH:M"
+	},
+	"PERFECTIONISM": {
+	    "graphemes": "P ER F E C TI O N I S M",
+	    "phonemes": "P ER F EH K SH AH N IH Z AH:M"
+	},
+	"PURITANISM": {
+	    "graphemes": "P U R I T A N I S M",
+	    "phonemes": "P Y:UH R AH T AH N IH Z AH:M"
+	},
+	"SEPARATISM": {
+	    "graphemes": "S E P AR A T I S M",
+	    "phonemes": "S EH P ER AH T IH Z AH:M"
+	},
+	"SYNERGISM": {
+	    "graphemes": "S Y N ER G I S M",
+	    "phonemes": "S IH N ER JH IH Z AH:M"
+	},
+	"UNILATERALISM": {
+	    "graphemes": "U N I L A T ER A L I S M",
+	    "phonemes": "Y:UW N IH L AE T ER AH L IH Z AH:M"
+	},
+
+	"DIFFERENTIATION": {
+	    "graphemes": "D I FF ER E N T I A TI O N",
+	    "phonemes": "D IH F ER EH N SH IY EY SH AH N"
+	},
+	"DIFFERENTIATION(1)": {
+	    "graphemes": "D I FF ER E N T I A TI O N",
+	    "phonemes": "D IH F ER EH N SH IY EY SH AH N"
+	},
+	"HELTER-SKELTER": {
+		"graphemes": "H E L T ER S K E L T ER",
+	    "phonemes": "HH EH L T ER S K EH L T ER"
+	},
+	"LINSEY-WOOLSEY": {
+		"graphemes": "L I N S EY W OO L S EY",
+		"phonemes": "L IH N Z IY W UH L Z IY"
+	},
+	"SELF-DETERMINATION": {
+		"graphemes": "S E L F D E T ER M I N A TI O N",
+	    "phonemes": "S EH L F D IH T ER M AH N EY SH AH N"
+	},
+	"SHORT-WINDED": {
+		"graphemes": "SH O R T W I N D E D",
+	    "phonemes": "SH AO R T W IH N D IH D"
+	},
+
+
+	"ADVENTURER": {
+	    "graphemes": "A D V E N T UR ER",
+	    "phonemes": "AE D V EH N CH ER ER"
+	},
+	"ADVENTURER(1)": {
+	    "graphemes": "A D V E N T UR ER",
+	    "phonemes": "AE D V EH N CH ER ER"
+	},
+	"INTERCULTURAL": {
+	    "graphemes": "I N T ER C U L T UR A L",
+	    "phonemes": "IH N T ER K AH L CH ER AH L"
+	},
+	"LECTURER": {
+	    "graphemes": "L E C T UR ER",
+	    "phonemes": "L EH K CH ER ER"
+	},
+	"MANUFACTURER": {
+	    "graphemes": "M A N U F A C T UR ER",
+	    "phonemes": "M AE N Y:AH F AE K CH ER ER"
+	},
+	"NURTURER": {
+	    "graphemes": "N UR T UR ER",
+	    "phonemes": "N ER CH ER ER"
+	},
+	"SUPERNATURAL": {
+	    "graphemes": "S U P ER N A T UR A L",
+	    "phonemes": "S UW P ER N AE CH ER AH L"
+	},
+	"SUPERNATURALISM": {
+	    "graphemes": "S U P ER N A T UR A L I S M",
+	    "phonemes": "S UW P ER N AE CH ER AH L IH Z AH:M"
+	},
+	"TORTURER": {
+	    "graphemes": "T O R T UR ER",
+	    "phonemes": "T AO R CH ER ER"
+	},
+	"AFTERSHOCK": {
+	    "graphemes": "A F T ER SH O CK",
+	    "phonemes": "AE F T ER SH AA K"
+	},
+	"BLOCKADER": {
+	    "graphemes": "B L O CK A D ER",
+	    "phonemes": "B L AA K EY D ER"
+	},
+	"BLOCKBUSTER": {
+	    "graphemes": "B L O CK B U S T ER",
+	    "phonemes": "B L AA K B AH S T ER"
+	},
+	"INTERLOCK": {
+	    "graphemes": "I N T ER L O CK",
+	    "phonemes": "IH N T ER L AA K"
+	},
+	"OCCUPIER": {
+	    "graphemes": "O CC U P I ER",
+	    "phonemes": "AA K Y:AH P AY ER"
+	},
+	"OVERLOCK": {
+	    "graphemes": "O V ER L O CK",
+	    "phonemes": "OW V ER L AA K"
+	},
+	"OVERSTOCK": {
+	    "graphemes": "O V ER S T O CK",
+	    "phonemes": "OW V ER S T AA K"
+	},
+	"SHERLOCK": {
+	    "graphemes": "SH ER L O CK",
+	    "phonemes": "SH ER L AA K"
+	},
+	"SHOCKER": {
+	    "graphemes": "SH O CK ER",
+	    "phonemes": "SH AA K ER"
+	},
+	"STOCKBROKER": {
+	    "graphemes": "S T O CK B R O K ER",
+	    "phonemes": "S T AA K B R OW K ER"
+	},
+	"STOCKHOLDER": {
+	    "graphemes": "S T O CK H O L D ER",
+	    "phonemes": "S T AA K HH OW L D ER"
+	},
+	"BERYLLIUM": {
+	    "graphemes": "B ER Y LL I U M",
+	    "phonemes": "B ER IH L IY AH M"
+	},
+	"CHLOROPHYLL": {
+	    "graphemes": "C HL O R O PH Y LL",
+	    "phonemes": "K L AO R AH F IH L"
+	},
+	"BOWLER": {
+	    "graphemes": "B OW L ER",
+	    "phonemes": "B OW L ER"
+	},
+    "COFFER": {
+        "graphemes": "C O FF ER",
+        "phonemes": "K AO F ER"
+    },
+    "COUNTEROFFER": {
+        "graphemes": "C OU N T ER O FF ER",
+        "phonemes": "K AW N T ER AO F ER"
+    },
+    "OFFER": {
+        "graphemes": "O FF ER",
+        "phonemes": "AO F ER"
+    },
+    "OFFERER": {
+        "graphemes": "O FF ER ER",
+        "phonemes": "AO F ER ER"
+    },
+    "OFFERING": {
+        "graphemes": "O FF ER I NG",
+        "phonemes": "AO F ER IH NG"
+    },
+    "OFFICER": {
+        "graphemes": "O FF I CE R",
+        "phonemes": "AO F AH S ER"
+    },
+    "OFFICER(1)": {
+        "graphemes": "O FF I CE R",
+        "phonemes": "AO F AH S ER"
+    },
+    "REOFFER": {
+        "graphemes": "R E O FF ER",
+        "phonemes": "R IY AO F ER"
+    },
+    "DESIGNER": {
+	    "graphemes": "D E S I GN ER",
+	    "phonemes": "D IH Z AY N ER"
+	},
+	"HIGHLANDER": {
+	    "graphemes": "H IGH L A N D ER",
+	    "phonemes": "HH AY L AE N D ER"
+	},
+	"LAMPLIGHTER": {
+	    "graphemes": "L A M P L IGH T ER",
+	    "phonemes": "L AE M P L AY T ER"
+	},
+	"OVERNIGHT": {
+	    "graphemes": "O V ER N IGH T",
+	    "phonemes": "OW V ER N AY T"
+	},
+	"OVERSIGHT": {
+	    "graphemes": "O V ER S IGH T",
+	    "phonemes": "OW V ER S AY T"
+	},
+	"SIGNER": {
+	    "graphemes": "S I GN ER",
+	    "phonemes": "S AY N ER"
+	},
+	"WATERTIGHT": {
+	    "graphemes": "W A T ER T IGH T",
+	    "phonemes": "W AO T ER T AY T"
+	},
+	"HITCHHIKER": {
+	    "graphemes": "H I TCH H I K ER",
+	    "phonemes": "HH IH CH HH AY K ER"
+	},
+	"MATCHMAKER": {
+	    "graphemes": "M A TCH M A K ER",
+	    "phonemes": "M AE CH M EY K ER"
+	},
+	"MUFFLER": {
+	    "graphemes": "M U FF L ER",
+	    "phonemes": "M AH F L ER"
+	},
+	"OVERSTUFF": {
+	    "graphemes": "O V ER S T U FF",
+	    "phonemes": "OW V ER S T AH F"
+	},
+	"SHUFFLER": {
+	    "graphemes": "SH U FF L ER",
+	    "phonemes": "SH AH F AH:L ER"
+	},
+	"SHUFFLER(1)": {
+	    "graphemes": "SH U FF L ER",
+	    "phonemes": "SH AH F AH:L ER"
+	},
+	"SUFFERER": {
+	    "graphemes": "S U FF ER ER",
+	    "phonemes": "S AH F ER ER"
+	},
+	"SUFFERING": {
+	    "graphemes": "S U FF ER I NG",
+	    "phonemes": "S AH F ER IH NG"
+	},
+	"SCHNAUZER": {
+	    "graphemes": "SCH N AU Z ER",
+	    "phonemes": "SH N AW Z ER"
+	},
+	"UNWORRIED": {
+	    "graphemes": "U N W ORR IE D",
+	    "phonemes": "AH N W ER IY D"
+	},
+	"WORRIED": {
+	    "graphemes": "W ORR IE D",
+	    "phonemes": "W ER IY D"
+	},
+	"WORRIER": {
+	    "graphemes": "W ORR I ER",
+	    "phonemes": "W ER IY ER"
+	},
+	"YOUNGSTER": {
+	    "graphemes": "Y OU NG S T ER",
+	    "phonemes": "Y AH NG S T ER"
+	},
+	"YOUNKER": {
+	    "graphemes": "Y OU N K ER",
+	    "phonemes": "Y AH NG K ER"
+	},
+    "FASTENING(1)": {
+        "graphemes": "F A ST E N I NG",
+        "phonemes": "F AE S AH N IH NG"
+    },
+    "LISTENING(1)": {
+        "graphemes": "L I ST E N I NG",
+        "phonemes": "L IH S AH N IH NG"
+    },
+    "SOFTENER": {
+        "graphemes": "S O FT E N ER",
+        "phonemes": "S AO F AH N ER"
+    },
+    "BUTTERSCOTCH": {
+        "graphemes": "B U TT ER S C O TCH",
+        "phonemes": "B AH T ER S K AA CH"
+    },
+    "TREASURER": {
+        "graphemes": "T R EA S UR ER",
+        "phonemes": "T R EH ZH ER ER"
+    },
+    "YEARLING(1)": {
+        "graphemes": "Y EAR L I NG",
+        "phonemes": "Y ER L IH NG"
+    },
+    "ALLER": {
+        "graphemes": "A LL ER",
+        "phonemes": "AO L ER"
+    },
+    "BALLER": {
+        "graphemes": "B A LL ER",
+        "phonemes": "B AO L ER"
+    },
+    "CALLER": {
+        "graphemes": "C A LL ER",
+        "phonemes": "K AO L ER"
+    },
+    "FALLER": {
+        "graphemes": "F A LL ER",
+        "phonemes": "F AO L ER"
+    },
+    "GALLER": {
+        "graphemes": "G A LL ER",
+        "phonemes": "G AO L ER"
+    },
+    "INSTALLER": {
+        "graphemes": "I N S T A LL ER",
+        "phonemes": "IH N S T AO L ER"
+    },
+    "OVERALL": {
+        "graphemes": "O V ER A LL",
+        "phonemes": "OW V ER AO L"
+    },
+    "OVERALLS": {
+        "graphemes": "O V ER A LL S",
+        "phonemes": "OW V ER AO L Z"
+    },
+    "SMALLER": {
+        "graphemes": "S M A LL ER",
+        "phonemes": "S M AO L ER"
+    },
+    "TALLER": {
+        "graphemes": "T A LL ER",
+        "phonemes": "T AO L ER"
+    },
+    "WALLER": {
+        "graphemes": "W A LL ER",
+        "phonemes": "W AO L ER"
+    },
+    "TROWEL": {
+        "graphemes": "T R OW E L",
+        "phonemes": "T R AW EH L"
+    },
+    "SUPERFLUOUS": {
+        "graphemes": "S U P ER F L U OU S",
+        "phonemes": "S UW P ER F L W AH S"
+    },
+    "BUTTERBALL": {
+        "graphemes": "B U TT ER B A LL",
+        "phonemes": "B AH T ER B AO L"
+    },
+    "COVERALLS": {
+        "graphemes": "C O V ER A LL S",
+        "phonemes": "K AH V ER AO L Z"
+    },
+    "STALLER": {
+        "graphemes": "S T A LL ER",
+        "phonemes": "S T AO L ER"
+    },
+    "WALLPAPER": {
+        "graphemes": "W A LL P A P ER",
+        "phonemes": "W AO L P EY P ER"
+    },
+    "WALLPAPERING": {
+        "graphemes": "W A LL P A P ER I NG",
+        "phonemes": "W AO L P EY P ER IH NG"
+    },
+    "WATERFALL": {
+        "graphemes": "W A T ER F A LL",
+        "phonemes": "W AO T ER F AO L"
+    },
+    "HIGH-SPIRITED": {
+        "graphemes": "H IGH S P I R I T E D",
+        "phonemes": "HH AY S P IH R IH T IH D"
+    },
+    "ABOLITIONISM": {
+	    "graphemes": "A B O L I TI O N I S M",
+	    "phonemes": "AE B AH L IH SH AH N IH Z AH:M"
+	},
+	"ABSOLUTISM": {
+	    "graphemes": "A B S O L U T I S M",
+	    "phonemes": "AE B S AH L UW T IH Z AH:M"
+	},
+	"ACTIVISM": {
+	    "graphemes": "A C T I V I S M",
+	    "phonemes": "AE K T IH V IH Z AH:M"
+	},
+	"AGRARIANISM": {
+	    "graphemes": "A G R A R I A N I S M",
+	    "phonemes": "AH G R EH R IY AH N IH Z AH:M"
+	},
+	"ALCOHOLISM": {
+	    "graphemes": "A L C O H O L I S M",
+	    "phonemes": "AE L K AH HH AO L IH Z AH:M"
+	},
+	"ALTRUISM": {
+	    "graphemes": "A L T R U I S M",
+	    "phonemes": "AE L T R UW IH Z AH:M"
+	},
+	"ANACHRONISM": {
+	    "graphemes": "A N A C HR O N I S M",
+	    "phonemes": "AH N AE K R AH N IH Z AH:M"
+	},
+	"ANIMISM": {
+	    "graphemes": "A N I M I S M",
+	    "phonemes": "AE N AH M IH Z AH:M"
+	},
+	"ANTAGONISM": {
+	    "graphemes": "A N T A G O N I S M",
+	    "phonemes": "AE N T AE G AH N IH Z AH:M"
+	},
+	"ANTHROPOMORPHISM": {
+	    "graphemes": "A N TH R O P O M O R PH I S M",
+	    "phonemes": "AE N TH R AH P AH M AO R F IH Z AH:M"
+	},
+	"APHORISM": {
+	    "graphemes": "A PH OR I S M",
+	    "phonemes": "AE F ER IH Z AH:M"
+	},
+	"ASTIGMATISM": {
+	    "graphemes": "A S T I G M A T I S M",
+	    "phonemes": "AH S T IH G M AH T IH Z AH:M"
+	},
+	"ATAVISM": {
+	    "graphemes": "A T A V I S M",
+	    "phonemes": "AE T AH V IH Z AH:M"
+	},
+	"AUTISM": {
+	    "graphemes": "AU T I S M",
+	    "phonemes": "AO T IH Z AH:M"
+	},
+	"BAPTISM": {
+	    "graphemes": "B A P T I S M",
+	    "phonemes": "B AE P T IH Z AH:M"
+	},
+	"BARBARISM": {
+	    "graphemes": "B A R B AR I S M",
+	    "phonemes": "B AA R B ER IH Z AH:M"
+	},
+	"BILINGUALISM": {
+	    "graphemes": "B I L I N G U A L I S M",
+	    "phonemes": "B AY L IH NG G W AH L IH Z AH:M"
+	},
+	"BOTULISM": {
+	    "graphemes": "B O T U L I S M",
+	    "phonemes": "B AA CH UW L IH Z AH:M"
+	},
+	"CANNIBALISM": {
+	    "graphemes": "C A NN I B A L I S M",
+	    "phonemes": "K AE N AH B AH L IH Z AH:M"
+	},
+	"CAPITALISM": {
+	    "graphemes": "C A P I T A L I S M",
+	    "phonemes": "K AE P IH T AH L IH Z AH:M"
+	},
+	"CATHOLICISM": {
+	    "graphemes": "C A TH O L I C I S M",
+	    "phonemes": "K AH TH AO L AH S IH Z AH:M"
+	},
+	"CENTRALISM": {
+	    "graphemes": "C E N T R A L I S M",
+	    "phonemes": "S EH N T R AH L IH Z AH:M"
+	},
+	"CHAUVINISM": {
+	    "graphemes": "CH AU V I N I S M",
+	    "phonemes": "SH OW V AH N IH Z AH:M"
+	},
+	"CLASSICISM": {
+	    "graphemes": "C L A SS I C I S M",
+	    "phonemes": "K L AE S IH S IH Z AH:M"
+	},
+	"COLLECTIVISM": {
+	    "graphemes": "C O LL E C T I V I S M",
+	    "phonemes": "K AH L EH K T IH V IH Z AH:M"
+	},
+	"COLONIALISM": {
+	    "graphemes": "C O L O N I A L I S M",
+	    "phonemes": "K AH L OW N IY AH L IH Z AH:M"
+	},
+	"COMMUNISM": {
+	    "graphemes": "C O MM U N I S M",
+	    "phonemes": "K AA M Y:AH N IH Z AH:M"
+	},
+	"CREATIONISM": {
+	    "graphemes": "C R E A TI O N I S M",
+	    "phonemes": "K R IY EY SH AH N IH Z AH:M"
+	},
+	"CRITICISM": {
+	    "graphemes": "C R I T I C I S M",
+	    "phonemes": "K R IH T IH S IH Z AH:M"
+	},
+	"CUBISM": {
+	    "graphemes": "C U B I S M",
+	    "phonemes": "K Y:UW B IH Z AH:M"
+	},
+	"CYNICISM": {
+	    "graphemes": "C Y N I C I S M",
+	    "phonemes": "S IH N IH S IH Z AH:M"
+	},
+	"CYTOPLASM": {
+	    "graphemes": "C Y T O P L A S M",
+	    "phonemes": "S AY T AH P L AE Z AH:M"
+	},
+	"DANDYISM": {
+	    "graphemes": "D A N D Y I S M",
+	    "phonemes": "D AE N D IY IH Z AH:M"
+	},
+	"DEFEATISM": {
+	    "graphemes": "D E F EA T I S M",
+	    "phonemes": "D IH F IY T IH Z AH:M"
+	},
+	"DEISM": {
+	    "graphemes": "D E I S M",
+	    "phonemes": "D IY IH Z AH:M"
+	},
+	"DESPOTISM": {
+	    "graphemes": "D E S P O T I S M",
+	    "phonemes": "D EH S P AH T IH Z AH:M"
+	},
+	"DIAMAGNETISM": {
+	    "graphemes": "D I A M A G N E T I S M",
+	    "phonemes": "D AY AH M AE G N IH T IH Z AH:M"
+	},
+	"DIASTROPHISM": {
+	    "graphemes": "D I A S T R O PH I S M",
+	    "phonemes": "D AY AE S T R AH F IH Z AH:M"
+	},
+	"DIMORPHISM": {
+	    "graphemes": "D I M O R PH I S M",
+	    "phonemes": "D AY M AO R F IH Z AH:M"
+	},
+	"DOGMATISM": {
+	    "graphemes": "D O G M A T I S M",
+	    "phonemes": "D AA G M AH T IH Z AH:M"
+	},
+	"DRUIDISM": {
+	    "graphemes": "D R U I D I S M",
+	    "phonemes": "D R UW AH D IH Z AH:M"
+	},
+	"DUALISM": {
+	    "graphemes": "D U A L I S M",
+	    "phonemes": "D UW AH L IH Z AH:M"
+	},
+	"DWARFISM": {
+	    "graphemes": "D W A R F I S M",
+	    "phonemes": "D W AO R F IH Z AH:M"
+	},
+	"DYNAMISM": {
+	    "graphemes": "D Y N A M I S M",
+	    "phonemes": "D AY N AH M IH Z AH:M"
+	},
+	"EGALITARIANISM": {
+	    "graphemes": "E G A L I T A R I A N I S M",
+	    "phonemes": "IY G AE L AH T EH R IY AH N IH Z AH:M"
+	},
+	"EGOISM": {
+	    "graphemes": "E G O I S M",
+	    "phonemes": "IY G OW IH Z AH:M"
+	},
+	"EGOTISM": {
+	    "graphemes": "E G O T I S M",
+	    "phonemes": "IY G AH T IH Z AH:M"
+	},
+	"ELECTROMAGNETISM": {
+	    "graphemes": "E L E C T R O M A G N E T I S M",
+	    "phonemes": "IH L EH K T R OW M AE G N AH T IH Z AH:M"
+	},
+	"EMBOLISM": {
+	    "graphemes": "E M B O L I S M",
+	    "phonemes": "EH M B OW L IH Z AH:M"
+	},
+	"EMOTIONALISM": {
+	    "graphemes": "E M O TI O N A L I S M",
+	    "phonemes": "IY M OW SH AH N AH L IH Z AH:M"
+	},
+	"EMPIRICISM": {
+	    "graphemes": "E M P I R I C I S M",
+	    "phonemes": "EH M P IH R AH S IH Z AH:M"
+	},
+	"ENTHUSIASM": {
+	    "graphemes": "E N TH U S I A S M",
+	    "phonemes": "IH N TH UW Z IY AE Z AH:M"
+	},
+	"ENVIRONMENTALISM": {
+	    "graphemes": "E N V I R O N M E N T A L I S M",
+	    "phonemes": "EH N V AY R AH N M EH N T AH L IH Z AH:M"
+	},
+	"ENVIRONMENTALISM(1)": {
+	    "graphemes": "E N V I R O N M E N T A L I S M",
+	    "phonemes": "EH N V AY R AH N M EH N T AH L IH Z AH:M"
+	},
+	"ERGOTISM": {
+	    "graphemes": "ER G O T I S M",
+	    "phonemes": "ER G AH T IH Z AH:M"
+	},
+	"EROTICISM": {
+	    "graphemes": "ER O T I C I S M",
+	    "phonemes": "ER AA T IH S IH Z AH:M"
+	},
+	"ESCAPISM": {
+	    "graphemes": "E S C A P I S M",
+	    "phonemes": "IH S K EY P IH Z AH:M"
+	},
+	"ETHNOCENTRISM": {
+	    "graphemes": "E TH N O C E N T R I S M",
+	    "phonemes": "EH TH N OW S EH N T R IH Z AH:M"
+	},
+	"EXORCISM": {
+	    "graphemes": "E X OR C I S M",
+	    "phonemes": "EH K:S ER S IH Z AH:M"
+	},
+	"EXPANSIONISM": {
+	    "graphemes": "E X P A N SI O N I S M",
+	    "phonemes": "IH K:S P AE N SH AH N IH Z AH:M"
+	},
+	"EXPANSIONISM(1)": {
+	    "graphemes": "E X P A N SI O N I S M",
+	    "phonemes": "IH K:S P AE N SH AH N IH Z AH:M"
+	},
+	"EXTREMISM": {
+	    "graphemes": "E X T R E M I S M",
+	    "phonemes": "IH K:S T R EH M IH Z AH:M"
+	},
+	"EXTREMISM(1)": {
+	    "graphemes": "E X T R E M I S M",
+	    "phonemes": "IH K:S T R EH M IH Z AH:M"
+	},
+	"FACTIONALISM": {
+	    "graphemes": "F A C TI O N A L I S M",
+	    "phonemes": "F AE K SH AH N AH L IH Z AH:M"
+	},
+	"FANATICISM": {
+	    "graphemes": "F A N A T I C I S M",
+	    "phonemes": "F AH N AE T AH S IH Z AH:M"
+	},
+	"FASCISM": {
+	    "graphemes": "F A SC I S M",
+	    "phonemes": "F AE SH IH Z AH:M"
+	},
+	"FATALISM": {
+	    "graphemes": "F A T A L I S M",
+	    "phonemes": "F EY T AH L IH Z AH:M"
+	},
+	"FAVORITISM": {
+	    "graphemes": "F A V OR I T I S M",
+	    "phonemes": "F EY V ER IH T IH Z AH:M"
+	},
+	"FEDERALISM(1)": {
+	    "graphemes": "F E D ER A L I S M",
+	    "phonemes": "F EH D ER AH L IH Z AH:M"
+	},
+	"FEMINISM": {
+	    "graphemes": "F E M I N I S M",
+	    "phonemes": "F EH M IH N IH Z AH:M"
+	},
+	"FERROMAGNETISM": {
+	    "graphemes": "F E RR O M A G N E T I S M",
+	    "phonemes": "F EH R OW M AE G N AH T IH Z AH:M"
+	},
+	"FETISHISM": {
+	    "graphemes": "F E T I SH I S M",
+	    "phonemes": "F EH T IH SH IH Z AH:M"
+	},
+	"FORMALISM": {
+	    "graphemes": "F O R M A L I S M",
+	    "phonemes": "F AO R M AH L IH Z AH:M"
+	},
+	"FUTURISM": {
+	    "graphemes": "F U T UR I S M",
+	    "phonemes": "F Y:UW CH ER IH Z AH:M"
+	},
+	"GEOTROPISM": {
+	    "graphemes": "G E O T R O P I S M",
+	    "phonemes": "JH IY AA T R AH P IH Z AH:M"
+	},
+	"GRADUALISM": {
+	    "graphemes": "G R A D U A L I S M",
+	    "phonemes": "G R AE JH:AH W AH L IH Z AH:M"
+	},
+	"HEDONISM": {
+	    "graphemes": "H E D O N I S M",
+	    "phonemes": "HH IY D AH N IH Z AH:M"
+	},
+	"HELOTISM": {
+	    "graphemes": "H E L O T I S M",
+	    "phonemes": "HH EH L AH T IH Z AH:M"
+	},
+	"HEROISM": {
+	    "graphemes": "H E R O I S M",
+	    "phonemes": "HH EH R OW IH Z AH:M"
+	},
+	"HOOLIGANISM": {
+	    "graphemes": "H OO L I G A N I S M",
+	    "phonemes": "HH UW L IH G AH N IH Z AH:M"
+	},
+	"HUMANISM": {
+	    "graphemes": "H U M A N I S M",
+	    "phonemes": "HH Y:UW M AH N IH Z AH:M"
+	},
+	"HYPNOTISM": {
+	    "graphemes": "H Y P N O T I S M",
+	    "phonemes": "HH IH P N AH T IH Z AH:M"
+	},
+	"ICONOCLASM": {
+	    "graphemes": "I C O N O C L A S M",
+	    "phonemes": "AY K AA N AH K L AE Z AH:M"
+	},
+	"IDEALISM": {
+	    "graphemes": "I D EA L I S M",
+	    "phonemes": "AY D IY L IH Z AH:M"
+	},
+	"ILLUSIONISM": {
+	    "graphemes": "I LL U SI O N I S M",
+	    "phonemes": "IH L UW ZH AH N IH Z AH:M"
+	},
+	"IMPERIALISM": {
+	    "graphemes": "I M P E R I A L I S M",
+	    "phonemes": "IH M P IH R IY AH L IH Z AH:M"
+	},
+	"INDIVIDUALISM": {
+	    "graphemes": "I N D I V I D U A L I S M",
+	    "phonemes": "IH N D IH V IH D UW AH L IH Z AH:M"
+	},
+	"INTELLECTUALISM": {
+	    "graphemes": "I N T E LL E C T U A L I S M",
+	    "phonemes": "IH N T EH L AH K CH UW AH L IH Z AH:M"
+	},
+	"INTELLECTUALISM(1)": {
+	    "graphemes": "I N T E LL E C T U A L I S M",
+	    "phonemes": "IH N T EH L AH K CH UW AH L IH Z AH:M"
+	},
+	"INTERNATIONALISM(1)": {
+	    "graphemes": "I N T ER N A TI O N A L I S M",
+	    "phonemes": "IH N T ER N AE SH AH N AA L IH Z AH:M"
+	},
+	"ISM": {
+	    "graphemes": "I S M",
+	    "phonemes": "IH Z AH:M"
+	},
+	"ISOLATIONISM": {
+	    "graphemes": "I S O L A TI O N I S M",
+	    "phonemes": "AY S AH L EY SH AH N IH Z AH:M"
+	},
+	"ISOMORPHISM": {
+	    "graphemes": "I S O M O R PH I S M",
+	    "phonemes": "AY S AH M AO R F IH Z AH:M"
+	},
+	"JINGOISM": {
+	    "graphemes": "J I N G O I S M",
+	    "phonemes": "JH IH NG G OW IH Z AH:M"
+	},
+	"LEFTISM": {
+	    "graphemes": "L E F T I S M",
+	    "phonemes": "L EH F T IH Z AH:M"
+	},
+	"LEGALISM": {
+	    "graphemes": "L E G A L I S M",
+	    "phonemes": "L IY G AH L IH Z AH:M"
+	},
+	"LYRICISM": {
+	    "graphemes": "L Y R I C I S M",
+	    "phonemes": "L IH R IH S IH Z AH:M"
+	},
+	"MAGNETISM": {
+	    "graphemes": "M A G N E T I S M",
+	    "phonemes": "M AE G N AH T IH Z AH:M"
+	},
+	"MATERIALISM": {
+	    "graphemes": "M A T E R I A L I S M",
+	    "phonemes": "M AH T IH R IY AH L IH Z AH:M"
+	},
+	"MEASLES": {
+	    "graphemes": "M EA S L ES",
+	    "phonemes": "M IY Z:AH L Z"
+	},
+	"METABOLISM": {
+	    "graphemes": "M E T A B O L I S M",
+	    "phonemes": "M AH T AE B AH L IH Z AH:M"
+	},
+	"METHODISM": {
+	    "graphemes": "M E TH O D I S M",
+	    "phonemes": "M EH TH AH D IH Z AH:M"
+	},
+	"MICROCOSM": {
+	    "graphemes": "M I C R O C O S M",
+	    "phonemes": "M AY K R AH K AA Z AH:M"
+	},
+	"MICROORGANISM": {
+	    "graphemes": "M I C R O O R G A N I S M",
+	    "phonemes": "M AY K R OW AO R G AH N IH Z AH:M"
+	},
+	"MILITARISM": {
+	    "graphemes": "M I L I T AR I S M",
+	    "phonemes": "M IH L AH T ER IH Z AH:M"
+	},
+	"MINIMALISM": {
+	    "graphemes": "M I N I M A L I S M",
+	    "phonemes": "M IH N AH M AH L IH Z AH:M"
+	},
+	"MONASTICISM": {
+	    "graphemes": "M O N A S T I C I S M",
+	    "phonemes": "M AH N AE S T AH S IH Z AH:M"
+	},
+	"MONISM": {
+	    "graphemes": "M O N I S M",
+	    "phonemes": "M AA N IH Z AH:M"
+	},
+	"MONOTHEISM": {
+	    "graphemes": "M O N O TH E I S M",
+	    "phonemes": "M AA N AH TH IY IH Z AH:M"
+	},
+	"MORALISM": {
+	    "graphemes": "M O R A L I S M",
+	    "phonemes": "M AO R AH L IH Z AH:M"
+	},
+	"MUTUALISM": {
+	    "graphemes": "M U T U A L I S M",
+	    "phonemes": "M Y:UW CH UW AH L IH Z AH:M"
+	},
+	"MYSTICISM": {
+	    "graphemes": "M Y S T I C I S M",
+	    "phonemes": "M IH S T IH S IH Z AH:M"
+	},
+	"NARCISSISM": {
+	    "graphemes": "N A R C I SS I S M",
+	    "phonemes": "N AA R S IH S IH Z AH:M"
+	},
+	"NATIONALISM": {
+	    "graphemes": "N A TI O N A L I S M",
+	    "phonemes": "N AE SH AH N AH L IH Z AH:M"
+	},
+	"NATIVISM": {
+	    "graphemes": "N A T I V I S M",
+	    "phonemes": "N EY T IH V IH Z AH:M"
+	},
+	"NATURALISM": {
+	    "graphemes": "N A T UR A L I S M",
+	    "phonemes": "N AE CH ER AH L IH Z AH:M"
+	},
+	"NEGATIVISM": {
+	    "graphemes": "N E G A T I V I S M",
+	    "phonemes": "N EH G AH T IH V IH Z AH:M"
+	},
+	"NEOPLASM": {
+	    "graphemes": "N E O P L A S M",
+	    "phonemes": "N IY AH P L AE Z AH:M"
+	},
+	"NEPOTISM": {
+	    "graphemes": "N E P O T I S M",
+	    "phonemes": "N EH P AH T IH Z AH:M"
+	},
+	"NIHILISM": {
+	    "graphemes": "N I HI L I S M",
+	    "phonemes": "N AY AH L IH Z AH:M"
+	},
+	"OBSTRUCTIONISM": {
+	    "graphemes": "O B S T R U C TI O N I S M",
+	    "phonemes": "AH B S T R AH K SH AH N IH Z AH:M"
+	},
+	"OPPORTUNISM": {
+	    "graphemes": "O PP OR T U N I S M",
+	    "phonemes": "AA P ER T UW N IH Z AH:M"
+	},
+	"OPTIMISM": {
+	    "graphemes": "O P T I M I S M",
+	    "phonemes": "AA P T IH M IH Z AH:M"
+	},
+	"ORGANISM": {
+	    "graphemes": "O R G A N I S M",
+	    "phonemes": "AO R G AH N IH Z AH:M"
+	},
+	"ORGASM": {
+	    "graphemes": "O R G A S M",
+	    "phonemes": "AO R G AE Z AH:M"
+	},
+	"OSTRACISM": {
+	    "graphemes": "O S T R A C I S M",
+	    "phonemes": "AO S T R AH S IH Z AH:M"
+	},
+	"PACIFISM": {
+	    "graphemes": "P A C I F I S M",
+	    "phonemes": "P AE S IH F IH Z AH:M"
+	},
+	"PAGANISM": {
+	    "graphemes": "P A G A N I S M",
+	    "phonemes": "P EY G AH N IH Z AH:M"
+	},
+	"PARALLELISM": {
+	    "graphemes": "P A R A LL E L I S M",
+	    "phonemes": "P EH R AH L EH L IH Z AH:M"
+	},
+	"PASTORALISM": {
+	    "graphemes": "P A S T OR A L I S M",
+	    "phonemes": "P AE S T ER AH L IH Z AH:M"
+	},
+	"PATRIOTISM": {
+	    "graphemes": "P A T R I O T I S M",
+	    "phonemes": "P EY T R IY AH T IH Z AH:M"
+	},
+	"PESSIMISM": {
+	    "graphemes": "P E SS I M I S M",
+	    "phonemes": "P EH S AH M IH Z AH:M"
+	},
+	"PHANTASM": {
+	    "graphemes": "PH A N T A S M",
+	    "phonemes": "F AE N T AE Z AH:M"
+	},
+	"PIETISM": {
+	    "graphemes": "P IE T I S M",
+	    "phonemes": "P IY T IH Z AH:M"
+	},
+	"PLAGIARISM": {
+	    "graphemes": "P L A GI AR I S M",
+	    "phonemes": "P L EY JH ER IH Z AH:M"
+	},
+	"PLURALISM": {
+	    "graphemes": "P L U R A L I S M",
+	    "phonemes": "P L UH R AH L IH Z AH:M"
+	},
+	"POLYTHEISM": {
+	    "graphemes": "P O L Y TH E I S M",
+	    "phonemes": "P AA L IY TH IY IH Z AH:M"
+	},
+	"POSITIVISM": {
+	    "graphemes": "P O S I T I V I S M",
+	    "phonemes": "P AA Z AH T IH V IH Z AH:M"
+	},
+	"PRAGMATISM": {
+	    "graphemes": "P R A G M A T I S M",
+	    "phonemes": "P R AE G M AH T IH Z AH:M"
+	},
+	"PRISM": {
+	    "graphemes": "P R I S M",
+	    "phonemes": "P R IH Z AH:M"
+	},
+	"PROTECTIONISM": {
+	    "graphemes": "P R O T E C TI O N I S M",
+	    "phonemes": "P R AH T EH K SH AH N IH Z AH:M"
+	},
+	"PROTESTANTISM": {
+	    "graphemes": "P R O T E S T A N T I S M",
+	    "phonemes": "P R AA T AH S T AH N T IH Z AH:M"
+	},
+	"PROVINCIALISM": {
+	    "graphemes": "P R O V I N CI A L I S M",
+	    "phonemes": "P R AH V IH N SH AH L IH Z AH:M"
+	},
+	"RACIALISM": {
+	    "graphemes": "R A CI A L I S M",
+	    "phonemes": "R EY SH AH L IH Z AH:M"
+	},
+	"RACISM": {
+	    "graphemes": "R A C I S M",
+	    "phonemes": "R EY S IH Z AH:M"
+	},
+	"RECIDIVISM": {
+	    "graphemes": "R E C I D I V I S M",
+	    "phonemes": "R AH S IH D IH V IH Z AH:M"
+	},
+	"RELATIVISM": {
+	    "graphemes": "R E L A T I V I S M",
+	    "phonemes": "R EH L AH T IH V IH Z AH:M"
+	},
+	"REPUBLICANISM": {
+	    "graphemes": "R E P U B L I C A N I S M",
+	    "phonemes": "R IH P AH B L IH K AH N IH Z AH:M"
+	},
+	"REVISIONISM": {
+	    "graphemes": "R E V I SI O N I S M",
+	    "phonemes": "R IY V IH ZH AH N IH Z AH:M"
+	},
+	"ROMANTICISM": {
+	    "graphemes": "R O M A N T I C I S M",
+	    "phonemes": "R OW M AE N T AH S IH Z AH:M"
+	},
+	"SADISM": {
+	    "graphemes": "S A D I S M",
+	    "phonemes": "S EY D IH Z AH:M"
+	},
+	"SARCASM": {
+	    "graphemes": "S A R C A S M",
+	    "phonemes": "S AA R K AE Z AH:M"
+	},
+	"SECTARIANISM": {
+	    "graphemes": "S E C T A R I A N I S M",
+	    "phonemes": "S EH K T EH R IY AH N IH Z AH:M"
+	},
+	"SENSATIONALISM": {
+	    "graphemes": "S E N S A TI O N A L I S M",
+	    "phonemes": "S EH N S EY SH AH N AH L IH Z AH:M"
+	},
+	"SKEPTICISM": {
+	    "graphemes": "S K E P T I C I S M",
+	    "phonemes": "S K EH P T IH S IH Z AH:M"
+	},
+	"SOCIALISM": {
+	    "graphemes": "S O CI A L I S M",
+	    "phonemes": "S OW SH AH L IH Z AH:M"
+	},
+	"SPASM": {
+	    "graphemes": "S P A S M",
+	    "phonemes": "S P AE Z AH:M"
+	},
+	"STATISM": {
+	    "graphemes": "S T A T I S M",
+	    "phonemes": "S T EY T IH Z AH:M"
+	},
+	"STIGMATISM": {
+	    "graphemes": "S T I G M A T I S M",
+	    "phonemes": "S T IH G M AH T IH Z AH:M"
+	},
+	"STOICISM": {
+	    "graphemes": "S T O I C I S M",
+	    "phonemes": "S T OW AH S IH Z AH:M"
+	},
+	"SYMBOLISM": {
+	    "graphemes": "S Y M B O L I S M",
+	    "phonemes": "S IH M B AH L IH Z AH:M"
+	},
+	"TERRITORIALISM": {
+	    "graphemes": "T E RR I T O R I A L I S M",
+	    "phonemes": "T EH R AH T AO R IY AH L IH Z AH:M"
+	},
+	"TERRORISM": {
+	    "graphemes": "T E RR O R I S M",
+	    "phonemes": "T EH R AH R IH Z AH:M"
+	},
+	"THEISM": {
+	    "graphemes": "TH E I S M",
+	    "phonemes": "TH IY IH Z AH:M"
+	},
+	"TOTALITARIANISM": {
+	    "graphemes": "T O T A L I T A R I A N I S M",
+	    "phonemes": "T OW T AE L AH T EH R IY AH N IH Z AH:M"
+	},
+	"TOURISM": {
+	    "graphemes": "T OU R I S M",
+	    "phonemes": "T UH R IH Z AH:M"
+	},
+	"TRUISM": {
+	    "graphemes": "T R U I S M",
+	    "phonemes": "T R UW IH Z AH:M"
+	},
+	"UNIONISM": {
+	    "graphemes": "U N I O N I S M",
+	    "phonemes": "Y:UW N Y AH N IH Z AH:M"
+	},
+	"VEGETARIANISM": {
+	    "graphemes": "V E G E T A R I A N I S M",
+	    "phonemes": "V EH JH AH T EH R IY AH N IH Z AH:M"
+	},
+	"VOLUNTARISM": {
+	    "graphemes": "V O L U N T AR I S M",
+	    "phonemes": "V OW L AH N T ER IH Z AH:M"
+	},
+	"APPRECIATE": {
+	    "graphemes": "A PP R E C I A TE",
+	    "phonemes": "AH P R IY SH IY EY T"
+	},
+	"APPRECIATION": {
+	    "graphemes": "A PP R E C I A TI O N",
+	    "phonemes": "AH P R IY SH IY EY SH AH N"
+	},
+	"APPRECIATIVE": {
+	    "graphemes": "A PP R E C I A T I VE",
+	    "phonemes": "AH P R IY SH IY EY T IH V"
+	},
+	"APPRECIATIVE(1)": {
+	    "graphemes": "A PP R E C I A T I VE",
+	    "phonemes": "AH P R IY SH IY EY T IH V"
+	},
+	"DEPRECIATE": {
+	    "graphemes": "D E P R E C I A TE",
+	    "phonemes": "D IH P R IY SH IY EY T"
+	},
+	"DEPRECIATION": {
+	    "graphemes": "D E P R E C I A TI O N",
+	    "phonemes": "D IH P R IY SH IY EY SH AH N"
+	},
+	"DISASSOCIATE": {
+	    "graphemes": "D I S A SS O C I A TE",
+	    "phonemes": "D IH S AH S OW SH IY EY T"
+	},
+	"DISASSOCIATE(1)": {
+	    "graphemes": "D I S A SS O C I A TE",
+	    "phonemes": "D IH S AH S OW SH IY EY T"
+	},
+	"EMACIATE": {
+	    "graphemes": "E M A C I A TE",
+	    "phonemes": "IH M EY SH IY EY T"
+	},
+	"EXCRUCIATING": {
+	    "graphemes": "E X C R U C I A T I NG",
+	    "phonemes": "IH K:S K R UW SH IY EY T IH NG"
+	},
+	"GLACIATE": {
+	    "graphemes": "G L A C I A TE",
+	    "phonemes": "G L EY SH IY EY T"
+	},
+	"GLACIATE(1)": {
+	    "graphemes": "G L A C I A TE",
+	    "phonemes": "G L EY SH IY EY T"
+	},
+	"GLACIATION": {
+	    "graphemes": "G L A C I A TI O N",
+	    "phonemes": "G L EY SH IY EY SH AH N"
+	},
+	"INGRATIATE": {
+	    "graphemes": "I N G R A T I A TE",
+	    "phonemes": "IH NG G R EY SH IY EY T"
+	},
+	"INGRATIATING": {
+	    "graphemes": "I N G R A T I A T I NG",
+	    "phonemes": "IH NG G R EY SH IY EY T IH NG"
+	},
+	"INITIATE": {
+	    "graphemes": "I N I T I A TE",
+	    "phonemes": "IH N IH SH IY EY T"
+	},
+	"INITIATION": {
+	    "graphemes": "I N I T I A TI O N",
+	    "phonemes": "IH N IH SH IY EY SH AH N"
+	},
+	"INITIATOR": {
+	    "graphemes": "I N I T I A T OR",
+	    "phonemes": "IH N IH SH IY EY T ER"
+	},
+	"NEGOTIATE": {
+	    "graphemes": "N E G O T I A TE",
+	    "phonemes": "N AH G OW SH IY EY T"
+	},
+	"NEGOTIATE(1)": {
+	    "graphemes": "N E G O T I A TE",
+	    "phonemes": "N AH G OW SH IY EY T"
+	},
+	"NEGOTIATION": {
+	    "graphemes": "N E G O T I A TI O N",
+	    "phonemes": "N IH G OW SH IY EY SH AH N"
+	},
+	"NEGOTIATOR": {
+	    "graphemes": "N E G O T I A T OR",
+	    "phonemes": "N AH G OW SH IY EY T ER"
+	},
+	"NEGOTIATOR(1)": {
+	    "graphemes": "N E G O T I A T OR",
+	    "phonemes": "N AH G OW SH IY EY T ER"
+	},
+	"OFFICIATE": {
+	    "graphemes": "O FF I C I A TE",
+	    "phonemes": "AH F IH SH IY EY T"
+	},
+	"RENEGOTIATE": {
+	    "graphemes": "R E N E G O T I A TE",
+	    "phonemes": "R IY N IH G OW SH IY EY T"
+	},
+	"RENEGOTIATION": {
+	    "graphemes": "R E N E G O T I A TI O N",
+	    "phonemes": "R IY N IH G OW SH IY EY SH AH N"
+	},
+	"RENEGOTIATIONS": {
+	    "graphemes": "R E N E G O T I A TI O N S",
+	    "phonemes": "R IY N IH G OW SH IY EY SH AH N Z"
+	},
+	"UNAPPRECIATED": {
+	    "graphemes": "U N A PP R E C I A T E D",
+	    "phonemes": "AH N AH P R IY SH IY EY T IH D"
+	},
+	"UNDIFFERENTIATED": {
+	    "graphemes": "U N D I FF E R E N T I A T E D",
+	    "phonemes": "AH N D IH F AH R EH N SH IY EY T IH D"
+	},
+	"UNINITIATED": {
+	    "graphemes": "U N I N I T I A T E D",
+	    "phonemes": "AH N IH N IH SH IY EY T IH D"
+	},
+	"UNINITIATED(1)": {
+	    "graphemes": "U N I N I T I A T E D",
+	    "phonemes": "AH N IH N IH SH IY EY T IH D"
+	},
+	"UNSUBSTANTIATED": {
+	    "graphemes": "U N S U B S T A N T I A T E D",
+	    "phonemes": "AH N S AH B S T AE N SH IY EY T IH D"
+	},
+	"BA(1)": {
+	    "graphemes": "B A",
+	    "phonemes": "B AA"
+	},
+	"BUSIED": {
+	    "graphemes": "B U S IE D",
+	    "phonemes": "B IH Z IY D"
+	},
+	"BUSY": {
+	    "graphemes": "B U S Y",
+	    "phonemes": "B IH Z IY"
+	},
+	"CARBURETED": {
+	    "graphemes": "C A R B U R E T E D",
+	    "phonemes": "K AA R B Y ER EH T IH D"
+	},
+	"CONFIGURATION": {
+	    "graphemes": "C O N F I G U R A TI O N",
+	    "phonemes": "K AH N F IH G Y ER EY SH AH N"
+	},
+	"CONFIGURE": {
+	    "graphemes": "C O N F I G U RE",
+	    "phonemes": "K AH N F IH G Y ER"
+	},
+	"DISFIGURE": {
+	    "graphemes": "D I S F I G U RE",
+	    "phonemes": "D IH S F IH G Y ER"
+	},
+	"FIGURATION": {
+	    "graphemes": "F I G U R A TI O N",
+	    "phonemes": "F IH G Y ER EY SH AH N"
+	},
+	"FIGURATIVE": {
+	    "graphemes": "F I G U R A T I VE",
+	    "phonemes": "F IH G Y ER AH T IH V"
+	},
+	"FIGURE": {
+	    "graphemes": "F I G U RE",
+	    "phonemes": "F IH G Y ER"
+	},
+	"FIGURINE": {
+	    "graphemes": "F I G U R I NE",
+	    "phonemes": "F IH G Y ER IY N"
+	},
+	"CASUAL": {
+        "graphemes": "C A S U A L",
+        "phonemes": "K AE ZH AH:W AH L"
+    },
+    "CASUALLY": {
+        "graphemes": "C A S U A LL Y",
+        "phonemes": "K AE ZH AH:W AH L IY"
+    },
+    "CASUALNESS": {
+        "graphemes": "C A S U A L N E SS",
+        "phonemes": "K AE ZH AH:W AH L N EH S"
+    },
+    "CASUALTY": {
+        "graphemes": "C A S U A L T Y",
+        "phonemes": "K AE ZH AH:W AH L T IY"
+    },
+    "USUAL": {
+        "graphemes": "U S U A L",
+        "phonemes": "Y:UW ZH AH:W AH L"
+    },
+    "USUAL(1)": {
+        "graphemes": "U S U A L",
+        "phonemes": "Y:UW ZH AH:W AH L"
+    },
+    "USUALLY": {
+        "graphemes": "U S U A LL Y",
+        "phonemes": "Y:UW ZH AH:W AH L IY"
+    },
+    "VISUAL": {
+        "graphemes": "V I S U A L",
+        "phonemes": "V IH ZH AH:W AH L"
+    },
+	"GRADUALISM": {
+        "graphemes": "G R A D U A L I S M",
+        "phonemes": "G R AE JH AH:W AH L IH Z:AH M"
+    },
+    "GRADUALIST": {
+        "graphemes": "G R A D U A L I S T",
+        "phonemes": "G R AE JH AH:W AH L IH S T"
+    },
+    "GRADUATE": {
+        "graphemes": "G R A D U A TE",
+        "phonemes": "G R AE JH AH:W AH T"
+    },
+    "GRADUATE(1)": {
+        "graphemes": "G R A D U A TE",
+        "phonemes": "G R AE JH AH:W AH T"
+    },
+    "GRADUATE(3)": {
+        "graphemes": "G R A D U A TE",
+        "phonemes": "G R AE JH AH:W AH T"
+    },
+    "INDIVIDUAL": {
+        "graphemes": "I N D I V I D U A L",
+        "phonemes": "IH N D AH V IH JH AH:W AH L"
+    },
+    "SINEWY": {
+	    "graphemes": "S I N EW Y",
+	    "phonemes": "S IH N Y:UW IY"
+	},
+	"TENURE": {
+	    "graphemes": "T E N U RE",
+	    "phonemes": "T EH N Y ER"
+	},
+	"BAS-RELIEF(1)": {
+	    "graphemes": "B A S R E L IE F",
+	    "phonemes": "B AA S R IY L IY F"
+	},
+	"BRAND-NEW": {
+	    "graphemes": "B R A N D N EW",
+	    "phonemes": "B R AE N D N UW"
+	},
+	"BROKEN-WINDED": {
+	    "graphemes": "B R O K E N W I N D E D",
+	    "phonemes": "B R OW K AH N W IH N D IH D"
+	},
+	"COURT-MARTIAL": {
+	    "graphemes": "C OU R T M A R TI A L",
+	    "phonemes": "K AO R T M AA R SH AH L"
+	},
+	"EX-VOTO": {
+	    "graphemes": "E X V O T O",
+	    "phonemes": "EH K:S V OW T OW"
+	},
+	"FIRST-CLASS": {
+	    "graphemes": "F IR S T C L A SS",
+	    "phonemes": "F ER S T K L AE S"
+	},
+	"FIRST-RATE": {
+	    "graphemes": "F IR S T R A TE",
+	    "phonemes": "F ER S T R EY T"
+	},
+	"GOOD-LOOKING": {
+	    "graphemes": "G OO D L OO K I NG",
+	    "phonemes": "G UH D L UH K IH NG"
+	},
+	"GOOD-NATUREDLY": {
+	    "graphemes": "G OO D N A T UR ED L Y",
+	    "phonemes": "G UH D N EY CH ER D L IY"
+	},
+	"HA-HA": {
+	    "graphemes": "H A H A",
+	    "phonemes": "HH AA HH AA"
+	},
+	"HARA-KIRI": {
+	    "graphemes": "H A R A K I R I",
+	    "phonemes": "HH AA R IH K IH R IY"
+	},
+	"LEFT-HAND": {
+	    "graphemes": "L E F T H A N D",
+	    "phonemes": "L EH F T HH AE N D"
+	},
+	"LEFT-HANDED": {
+	    "graphemes": "L E F T H A N D E D",
+	    "phonemes": "L EH F T HH AE N D IH D"
+	},
+	"LIFE-GIVING": {
+	    "graphemes": "L I FE G I V I NG",
+	    "phonemes": "L AY F G IH V IH NG"
+	},
+	"LONG-WINDED": {
+	    "graphemes": "L O NG W I N D E D",
+	    "phonemes": "L AO NG W IH N D IH D"
+	},
+	"LOW-SPIRITED": {
+	    "graphemes": "L OW S P I R I T E D",
+	    "phonemes": "L OW S P IH R AH T IH D"
+	},
+	"MAKE-UP": {
+	    "graphemes": "M A KE U P",
+	    "phonemes": "M EY K AH P"
+	},
+	"MERRY-GO-ROUND": {
+	    "graphemes": "M E RR Y G O R OU N D",
+	    "phonemes": "M EH R IY G OW R AW N D"
+	},
+	"MIDDLE-AGED": {
+	    "graphemes": "M I DD L EA G ED",
+	    "phonemes": "M IH D AH:L EY G D"
+	},
+	"NAMBY-PAMBY": {
+	    "graphemes": "N A M B Y P A M B Y",
+	    "phonemes": "N AE M B IY P AE M B IY"
+	},
+	"OLD-FASHIONED": {
+	    "graphemes": "O L D F A SHI O N ED",
+	    "phonemes": "OW L D F AE SH AH N D"
+	},
+	"ONE-SIDED": {
+	    "graphemes": "O NE S I D E D",
+	    "phonemes": "W:AH N S AY D AH D"
+	},
+	"PING-PONG": {
+	    "graphemes": "P I NG P O NG",
+	    "phonemes": "P IH NG P AO NG"
+	},
+	"POOR-SPIRITED": {
+	    "graphemes": "P OO R S P I R I T E D",
+	    "phonemes": "P UW R S P IH R IH T IH D"
+	},
+	"RIGHT-HANDED": {
+	    "graphemes": "R IGH T H A N D E D",
+	    "phonemes": "R AY T HH AE N D IH D"
+	},
+	"SELF-AGGRANDIZEMENT": {
+	    "graphemes": "S E L F A GG R A N D I ZE M E N T",
+	    "phonemes": "S EH L F AE G R AH N D AY Z M AH N T"
+	},
+	"SELF-CONFIDENCE": {
+	    "graphemes": "S E L F C O N F I D E N CE",
+	    "phonemes": "S EH L F K AA N F AH D AH N S"
+	},
+	"SELF-CONFIDENT": {
+	    "graphemes": "S E L F C O N F I D E N T",
+	    "phonemes": "S EH L F K AA N F AH D AH N T"
+	},
+	"SELF-CONSCIOUSNESS": {
+	    "graphemes": "S E L F C O N SCI OU S N E SS",
+	    "phonemes": "S EH L F K AA N SH AH S N AH S"
+	},
+	"SELF-CONSISTENT": {
+	    "graphemes": "S E L F C O N S I S T E N T",
+	    "phonemes": "S EH L F K AH N S IH S T AH N T"
+	},
+	"SELF-CONTROL": {
+	    "graphemes": "S E L F C O N T R O L",
+	    "phonemes": "S EH L F K AH N T R OW L"
+	},
+	"SELF-DECEPTION": {
+	    "graphemes": "S E L F D E C E P TI O N",
+	    "phonemes": "S EH L F D AH S EH P SH AH N"
+	},
+	"SELF-DEFENSE": {
+	    "graphemes": "S E L F D E F E N SE",
+	    "phonemes": "S EH L F D IH F EH N S"
+	},
+	"SELF-HELP": {
+	    "graphemes": "S E L F H E L P",
+	    "phonemes": "S EH L F HH EH L P"
+	},
+	"SELF-INTEREST": {
+	    "graphemes": "S E L F I N T E R E S T",
+	    "phonemes": "S EH L F IH N T AH R EH S T"
+	},
+	"SELF-RESPECT": {
+	    "graphemes": "S E L F R E S P E C T",
+	    "phonemes": "S EH L F R IH S P EH K T"
+	},
+	"SELF-RIGHTEOUS": {
+	    "graphemes": "S E L F R IGH TE OU S",
+	    "phonemes": "S EH L F R AY CH AH S"
+	},
+	"SELF-SUFFICIENCY": {
+	    "graphemes": "S E L F S U FF I CI E N C Y",
+	    "phonemes": "S EH L F S AH F IH SH AH N S IY"
+	},
+	"SHORT-LIVED": {
+	    "graphemes": "SH O R T L I V ED",
+	    "phonemes": "SH AO R T L IH V D"
+	},
+	"SIGHT-SEER": {
+	    "graphemes": "S IGH T S EE R",
+	    "phonemes": "S AY T S IY R"
+	},
+	"SLIP-ON": {
+	    "graphemes": "S L I P O N",
+	    "phonemes": "S L IH P AA N"
+	},
+	"SO-CALLED": {
+	    "graphemes": "S O C A LL ED",
+	    "phonemes": "S OW K AO L D"
+	},
+	"SO-SO": {
+	    "graphemes": "S O S O",
+	    "phonemes": "S OW S OW"
+	},
+	"STAND-BY": {
+	    "graphemes": "S T A N D B Y",
+	    "phonemes": "S T AE N D B AY"
+	},
+	"START-UP": {
+	    "graphemes": "S T A R T U P",
+	    "phonemes": "S T AA R T AH P"
+	},
+	"THREE-WAY": {
+	    "graphemes": "TH R EE W AY",
+	    "phonemes": "TH R IY W EY"
+	},
+	"TO-DO": {
+	    "graphemes": "T O D O",
+	    "phonemes": "T UW D UW"
+	},
+	"TOPSY-TURVY": {
+	    "graphemes": "T O P S Y T UR V Y",
+	    "phonemes": "T AA P S IY T ER V IY"
+	},
+	"TWO-WAY": {
+	    "graphemes": "TW O W AY",
+	    "phonemes": "T UW W EY"
+	},
+	"WELL-BEING": {
+	    "graphemes": "W E LL B E I NG",
+	    "phonemes": "W EH L B IY IH NG"
+	},
+	"WELL-KNOWN": {
+	    "graphemes": "W E LL KN OW N",
+	    "phonemes": "W EH L N OW N"
+	},
+	"GRADUALISM": {
+	    "graphemes": "G R A D U A L I S M",
+	    "phonemes": "G R AE JH AH:W AH L IH Z AH:M"
+	},
+	"MEASLES": {
+	    "graphemes": "M EA S LE S",
+	    "phonemes": "M IY Z AH:L Z"
+	},
+	"ANACHRONISM": {
+        "graphemes": "A N A CH R O N I S M",
+        "phonemes": "AH N AE K R AH N IH Z AH:M"
+    },
+    "BUHR": {
+        "graphemes": "B UH R",
+        "phonemes": "B UH R"
+    },
+    "CHRISTENING(1)": {
+        "graphemes": "CH R I ST E N I NG",
+        "phonemes": "K R IH S AH N IH NG"
+    },
+    "CHRONICLER": {
+        "graphemes": "CH R O N I C L ER",
+        "phonemes": "K R AA N IH K L ER"
+    },
+    "CHRONOLOGICAL": {
+        "graphemes": "CH R O N O L O G I C A L",
+        "phonemes": "K R AA N AH L AA JH IH K AH L"
+    },
+    "CHRYSANTHEMUM": {
+        "graphemes": "CH R Y S A N TH E M U M",
+        "phonemes": "K R IH S AE N TH AH M AH M"
+    }
+}

@@ -1,0 +1,5413 @@
+{
+	"AA": {
+		"o": {
+			"examples": ["odd", "drop"],
+			"count": 1578,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"a": {
+			"examples": ["are", "father", "schwa"],
+			"count": 673,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ea": {
+			"examples": ["heart"],
+			"count": 18,
+			"silent_replacement": "_a",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"e": {
+			"examples": ["encore"],
+			"count": 10,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ow": {
+			"examples": ["knowledge"],
+			"count": 4,
+			"silent_replacement": "o_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ah": {
+			"examples": ["dahl", "bah"],
+			"count": 3,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"aa": {
+			"examples": ["aardvark"],
+			"count": 1,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"au": {
+			"examples": ["aeronaut"],
+			"count": 1,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ou": {
+			"examples": ["cough"],
+			"count": 1,
+			"silent_replacement": "o_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ho": {
+			"examples": ["homage"],
+			"count": 1,
+			"rare": true,
+			"silent_replacement": "_o",
+			"silent": ["h"],
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"hau": {
+			"examples": ["exhaustively"],
+			"count": 1,
+			"rare": true,
+			"silent": ["h"],
+			"silent_replacement": "_a_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"augh": {
+			"examples": ["caught"],
+			"count": 1,
+			"silent": ["ugh"],
+			"silent_replacement": "a___",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ough": {
+			"examples": ["bought"],
+			"count": 1,
+			"silent": ["ugh"],
+			"silent_replacement": "o___",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"aw": {
+		    "examples": ["awning", "raw"],
+		    "count": 1,
+		    "very_rare": true,
+			"silent_replacement": "a_",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"awe": {
+		    "examples": ["awe"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["e"],
+			"silent_replacement": "a__",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"at": {
+		    "examples": ["baccarat"],
+		    "count": 1,
+		    "very_rare": true,
+			"silent_replacement": "a_",
+		    "silent": ["t"],
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"as": {
+		    "examples": ["bas-relief"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["s"],
+			"silent_replacement": "a_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"i": {
+		    "examples": ["lingerie"],
+		    "count": 1,
+		    "very_rare": true,
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		}
+	},
+	"AE": {
+		"a": {
+			"examples": ["at", "cat", "baboon"],
+			"count": 4339,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"au": {
+			"examples": ["laugh", "aunt"],
+			"count": 4,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ah": {
+			"examples": ["dahlia"],
+			"count": 1,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"ai": {
+			"examples": ["plaid"],
+			"count": 1,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"i": {
+			"examples": ["chapin"],
+			"count": 1,
+			"very_rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"eah": {
+			"examples": ["yeah"],
+			"count": 1,
+			"very_rare": true,
+			"silent": ["h"],
+			"silent_replacement": "_a_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		}
+	},
+	"AH": {
+		"o": {
+			"examples": ["other", "gallop", "cocoon"],
+			"count": 1882,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"u": {
+			"examples": ["medium", "bug", "ukulele"],
+			"count": 1509,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"a": {
+			"examples": ["alone", "canvas", "canal"],
+			"count": 1438,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"i": {
+			"examples": ["civil", "pencil", "mutiny"],
+			"count": 1347,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"e": {
+			"examples": ["rebel", "angel"],
+			"count": 864,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ou": {
+			"examples": ["pious", "touch", "courageous"],
+			"count": 366,
+			"silent_replacement": "_u",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"ai": {
+			"examples": ["villain", "certainty", "mountainous"],
+			"count": 24,
+			"silent": ["a"],
+			"silent_replacement": "_i",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"y": {
+			"examples": ["ethyl", "idyl", "porphyry"],
+			"count": 23,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"oo": {
+			"examples": ["blood"],
+			"count": 7,
+			"silent_replacement": "o_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ea": {
+			"examples": ["pageant", "sergeant"],
+			"count": 3,
+			"silent_replacement": "_a",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ei": {
+			"examples": ["sovereignty", "forefeiture"],
+			"count": 2,
+			"silent": ["e"],
+			"silent_replacement": "_i",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ia": {
+			"examples": ["parliament"],
+			"count": 2,
+			"silent": ["i"],
+			"silent_replacement": "_a",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"oi": {
+			"examples": ["tortoise"],
+			"count": 2,
+			"silent": ["o"],
+			"silent_replacement": "_i",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"au": {
+			"examples": ["epaulet"],
+			"count": 1,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ah": {
+			"examples": ["zillah"],
+			"count": 1,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ae": {
+			"examples": ["anaesthetic"],
+			"count": 1,
+			"silent_replacement": "a_",
+			"silent": ["a"],
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"iu": {
+			"examples": ["aluminium"],
+			"count": 1,
+			"silent": ["i"],
+			"silent_replacement": "_u",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ui": {
+			"examples": ["circuit"],
+			"count": 1,
+			"silent": ["u"],
+			"silent_replacement": "_i",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"lla": {
+			"examples": ["tortilla"],
+			"count": 1,
+			"rare": true,
+			"silent": ["l"],
+			"silent_replacement": "__a",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"hi": {
+			"examples": ["exhibition"],
+			"count": 1,
+			"rare": true,
+			"silent": ["h"],
+			"silent_replacement": "_i",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ugh": {
+		    "examples": ["brugh"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["g"],
+			"silent_replacement": "u__",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ua": {
+		    "examples": ["casualty"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["u"],
+			"silent_replacement": "_a",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		},
+		"aa": {
+		    "examples": ["maam"],
+		    "count": 1,
+		    "very_rare": true,
+			"silent_replacement": "a_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		},
+		"ie": {
+		    "examples": ["mischief"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["e"],
+			"silent_replacement": "i_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		},
+		"oe": {
+		    "examples": ["does"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["e"],
+			"silent_replacement": "o_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		},
+		"agh": {
+		    "examples": ["curragh"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["gh"],
+			"silent_replacement": "a__",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ha": {
+		    "examples": ["gingham"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["h"],
+			"silent_replacement": "_a",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		},
+		"ho": {
+		    "examples": ["silhouette"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["h"],
+			"silent_replacement": "_o",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"uh": {
+		    "examples": ["huh"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["h"],
+			"silent_replacement": "u_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"io": {
+		    "examples": ["marchioness"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["i"],
+			"silent_replacement": "_o",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		},
+		"on": {
+		    "examples": ["monsieur"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["n"],
+			"silent_replacement": "o_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"er": {
+		    "examples": ["reservoir"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["r"],
+			"silent_replacement": "e_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"eou": {
+		    "examples": ["nauseous"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["e"],
+			"silent_replacement": "__u",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		}
+	},
+	"AH:L": {
+		"l": {
+			"examples": ["little"],
+			"count": 620,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"sle": {
+			"examples": ["aisle"],
+			"count": 1,
+			"rare": true,
+			"silent": ["s", "e"],
+			"silent_replacement": "_l_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"le": {
+			"examples": ["able"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "l_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"AH:M": {
+		"m": {
+			"examples": ["chasm"],
+			"count": 97,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"AH:R": {
+		"re": {
+			"examples": ["acreage"],
+			"count": 5,
+			"rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"AH:W": {
+		"u": {
+			"examples": ["casual"],
+			"count": 5,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		}
+	},
+	"AO": {
+		"o": {
+			"examples": ["off", "dog"],
+			"count": 456,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"a": {
+			"examples": ["all", "hall", "water"],
+			"count": 168,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"au": {
+			"examples": ["auction", "fraud", "faucet"],
+			"count": 155,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"aw": {
+			"examples": ["awning", "dawn", "law"],
+			"count": 77,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ough": {
+			"examples": ["ought", "fought"],
+			"count": 15,
+			"silent_replacement": "o___",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"augh": {
+			"examples": ["aught", "fraught", "daughter"],
+			"count": 12,
+			"silent_replacement": "a___",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ou": {
+			"examples": ["four"],
+			"count": 10,
+			"silent_replacement": "o_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"oa": {
+			"examples": ["broad"],
+			"count": 9,
+			"silent_replacement": "o_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"oo": {
+			"examples": ["door"],
+			"count": 9,
+			"silent_replacement": "o_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ao": {
+			"examples": ["extraordinary"],
+			"count": 2,
+			"silent_replacement": "_o",
+			"silent": ["a"],
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"uo": {
+			"examples": ["fluoride"],
+			"count": 1,
+			"silent": ["u"],
+			"silent_replacement": "_o",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"hau": {
+			"examples": ["exhaust"],
+			"count": 1,
+			"rare": true,
+			"silent": ["h"],
+			"silent_replacement": "_a_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"ho": {
+			"examples": ["exhort"],
+			"count": 1,
+			"rare": true,
+			"silent": ["h"],
+			"silent_replacement": "_o",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"ow": {
+			"examples": ["toward"],
+			"count": 1,
+			"very_rare": true,
+			"silent_replacement": "o_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		}
+	},
+	"AW": {
+		"ou": {
+			"examples": ["out", "bout", "thousand"],
+			"count": 281,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"ow": {
+			"examples": ["owl", "howl", "cow"],
+			"count": 121,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ough": {
+			"examples": ["drought", "bough"],
+			"count": 4,
+			"silent_replacement": "__gh",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"au": {
+			"examples": ["emeraude"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"hou": {
+			"examples": ["hour"],
+			"count": 1,
+			"silent": ["h"],
+			"silent_replacement": "_ou",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ao": {
+			"examples": ["dao"],
+			"count": 1,
+			"very_rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"owe": {
+			"examples": ["howe"],
+			"count": 1,
+			"very_rare": true,
+			"silent": ["e"],
+			"silent_replacement": "ow_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"AY": {
+		"i": {
+			"examples": ["ice", "bicycle", "china"],
+			"count": 1109,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"y": {
+			"examples": ["typist", "my"],
+			"count": 222,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"igh": {
+			"examples": ["night", "high"],
+			"count": 88,
+			"silent_replacement": "i__",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ie": {
+			"examples": ["tried", "pie"],
+			"count": 26,
+			"silent": ["e"],
+			"silent_replacement": "i_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ye": {
+			"examples": ["bye"],
+			"count": 12,
+			"silent": ["e"],
+			"silent_replacement": "y_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ei": {
+			"examples": ["feisty", "kaleidoscope"],
+			"count": 6,
+			"silent_replacement": "_i",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ay": {
+			"examples": ["kayak"],
+			"count": 3,
+			"silent_replacement": "_y",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"eigh": {
+			"examples": ["height"],
+			"count": 3,
+			"silent_replacement": "_i__",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"uy": {
+			"examples": ["buy"],
+			"count": 3,
+			"silent_replacement": "_y",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ai": {
+			"examples": ["aisle"],
+			"count": 1,
+			"silent_replacement": "_i",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ey": {
+			"examples": ["geyser"],
+			"count": 1,
+			"silent_replacement": "_y",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"oy": {
+			"examples": ["coyote"],
+			"count": 1,
+			"silent_replacement": "_y",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"eye": {
+			"examples": ["eye"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "_y_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"aye": {
+		    "examples": ["aye"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["e"],
+			"silent_replacement": "_y_",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ae": {
+		    "examples": ["maestro"],
+		    "count": 1,
+		    "very_rare": true,
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ia": {
+		    "examples": ["diamond"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["a"],
+			"silent_replacement": "i_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"a": {
+		    "examples": ["naive"],
+		    "count": 1,
+		    "very_rare": true,
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"B": {
+		"b": {
+			"examples": ["bed", "drubs", "rub"],
+			"count": 2242,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"bb": {
+			"examples": ["rubble", "rubbed", "ebb"],
+			"count": 63,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"bh": {
+			"examples": ["bhangra"],
+			"count": 5,
+			"rare": true,
+			"silent": ["h"],
+			"silent_replacement": "b_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"pb": {
+			"examples": ["raspberry"],
+			"count": 1,
+			"rare": true,
+			"silent": ["p"],
+			"silent_replacement": "_b",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"be": {
+			"examples": ["cube"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "b_",
+			"rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"CH": {
+		"ch": {
+			"examples": ["cheese", "arched", "arch"],
+			"count": 313,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"t": {
+			"examples": ["culture", "ritual"],
+			"count": 175,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"tch": {
+			"examples": ["catch"],
+			"count": 61,
+			"silent_replacement": "_ch",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ti": {
+			"examples": ["question"],
+			"count": 13,
+			"silent_replacement": "t_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ci": {
+			"examples": ["ancient"],
+			"count": 2,
+			"silent_replacement": "c_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"c": {
+			"examples": ["cello"],
+			"count": 2,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"che": {
+			"examples": ["niche"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "ch_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"te": {
+			"examples": ["righteous"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "t_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"cc": {
+			"examples": ["bocce"],
+			"count": 1,
+			"silent_replacement": "c_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ct": {
+			"examples": ["unctuous"],
+			"count": 1,
+			"silent_replacement": "c_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"si": {
+			"examples": ["expansion"],
+			"count": 1,
+			"very_rare": true,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"th": {
+			"examples": ["posthumous"],
+			"count": 1,
+			"very_rare": true,
+			"silent_replacement": "t_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		}
+	},
+	"D": {
+		"d": {
+			"examples": ["dog", "ads", "ad"],
+			"count": 3611,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"ed": {
+			"examples": ["moved"],
+			"count": 1000,
+			"silent_replacement": "_d",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"dd": {
+			"examples": ["odds", "add"],
+			"count": 74,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ld": {
+			"examples": ["would"],
+			"count": 6,
+			"silent_replacement": "_d",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"de": {
+			"examples": ["bade"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "d_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"da": {
+			"examples": ["boundary"],
+			"count": 1,
+			"rare": true,
+			"silent": ["a"],
+			"silent_replacement": "d_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"dh": {
+		    "examples": ["dharma"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["h"],
+			"silent_replacement": "d_",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		},
+		"t": {
+		    "examples": ["kindergarten"],
+		    "count": 1,
+		    "very_rare": true,
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		}
+	},
+	"DH": {
+		"th": {
+			"examples": ["the", "clothes", "mother"],
+			"count": 149,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+
+		"the": {
+			"examples": ["seethe"],
+			"count": 10,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "th_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		}
+	},
+	"EH": {
+		"e": {
+			"examples": ["end", "bed"],
+			"count": 3395,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"a": {
+			"examples": ["any", "many"],
+			"count": 258,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ea": {
+			"examples": ["bread"],
+			"count": 139,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ei": {
+			"examples": ["heifer"],
+			"count": 6,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"u": {
+			"examples": ["bury"],
+			"count": 5,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ae": {
+			"examples": ["aesthetic"],
+			"count": 4,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"ai": {
+			"examples": ["said"],
+			"count": 4,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"eo": {
+			"examples": ["leopard"],
+			"count": 4,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ie": {
+			"examples": ["friend"],
+			"count": 4,
+			"silent_replacement": "_e",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ay": {
+			"examples": ["says"],
+			"count": 1,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ey": {
+			"examples": ["eyrie"],
+			"count": 1,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"y": {
+			"examples": ["satyr"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"hei": {
+			"examples": ["heir"],
+			"count": 1,
+			"rare": true,
+			"silent": ["h"],
+			"silent_replacement": "_e_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"eh": {
+		    "examples": ["eh"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["h"],
+			"silent_replacement": "e_",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"ER": {
+		"er": {
+			"examples": ["baker", "after"],
+			"count": 2021,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"or": {
+			"examples": ["honor", "word", "humor"],
+			"count": 322,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ur": {
+			"examples": ["urn", "turn", "femur"],
+			"count": 267,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ar": {
+			"examples": ["coward", "altar"],
+			"count": 168,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ir": {
+			"examples": ["irk", "bird", "nadir"],
+			"count": 105,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ear": {
+			"examples": ["earn", "learn"],
+			"count": 30,
+			"silent_replacement": "e_r",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"our": {
+			"examples": ["scourge", "glamour"],
+			"count": 22,
+			"silent_replacement": "_ur",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"yr": {
+			"examples": ["syrup"],
+			"count": 6,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"aur": {
+			"examples": ["restaurant"],
+			"count": 6,
+			"silent_replacement": "_ur",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"eur": {
+			"examples": ["amateur"],
+			"count": 6,
+			"silent_replacement": "_ur",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"err": {
+			"examples": ["error"],
+			"count": 3,
+			"silent_replacement": "er_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"arr": {
+			"examples": ["chaparral"],
+			"count": 1,
+			"silent_replacement": "ar_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"arrh": {
+			"examples": ["arrhythmia"],
+			"count": 1,
+			"very_rare": true,
+			"silent": ["h"],
+			"silent_replacement": "ar__",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"orr": {
+			"examples": ["incorrectly"],
+			"count": 1,
+			"silent_replacement": "or_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"urr": {
+			"examples": ["purring"],
+			"count": 3,
+			"silent_replacement": "ur_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"irr": {
+			"examples": ["squirrel"],
+			"count": 1,
+			"rare": true,
+			"silent_replacement": "ir_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"irrh": {
+			"examples": ["cirrhosis"],
+			"count": 1,
+			"rare": true,
+			"silent": ["h"],
+			"silent_replacement": "ir__",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"yrrh": {
+			"examples": ["myrrh"],
+			"count": 1,
+			"rare": true,
+			"silent": ["h"],
+			"silent_replacement": "yr__",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"orrh": {
+			"examples": ["gonorrhea"],
+			"count": 1,
+			"rare": true,
+			"silent": ["h"],
+			"silent_replacement": "or__",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"aer": {
+			"examples": ["anaeroboic"],
+			"count": 2,
+			"silent": ["a"],
+			"silent_replacement": "_er",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"r": {
+			"examples": ["admired"],
+			"count": 1000,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"olo": {
+			"examples": ["colonel"],
+			"count": 1,
+			"silent_replacement": "ol_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+
+		"re": {
+			"examples": ["admire"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "r_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"ere": {
+			"examples": ["were"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "er_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ure": {
+			"examples": ["manufacture"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "ur_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"eare": {
+			"examples": ["speare"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "e_r_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"her": {
+			"examples": ["herb"],
+			"count": 1,
+			"silent": ["h"],
+			"silent_replacement": "_er",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"awr": {
+		    "examples": ["awry"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["w"],
+			"silent_replacement": "a_r",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		},
+		"oar": {
+		    "examples": ["cupboard"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["a"],
+			"silent_replacement": "o_r",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		},
+		"urre": {
+		    "examples": ["murrelet"],
+		    "count": 1,
+		    "very_rare": true,
+			"silent_replacement": "ur__",
+		    "silent": ["e"],
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"uer": {
+		    "examples": ["lacquer"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["e"],
+			"silent_replacement": "_er",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ier": {
+		    "examples": ["papier-mache"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["i"],
+			"silent_replacement": "_er",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"EY": {
+		"a": {
+			"examples": ["angel", "bass", "halo"],
+			"count": 1792,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"ai": {
+			"examples": ["aid", "rain", "daily"],
+			"count": 208,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ay": {
+			"examples": ["ways", "day"],
+			"count": 132,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"eigh": {
+			"examples": ["eight", "freight", "weigh"],
+			"count": 18,
+			"silent_replacement": "ei__",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"e": {
+			"examples": ["cafe"],
+			"count": 16,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ei": {
+			"examples": ["vein", "heinous"],
+			"count": 16,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ea": {
+			"examples": ["steak", "yea"],
+			"count": 14,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ey": {
+			"examples": ["they"],
+			"count": 14,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"et": {
+			"examples": ["beret"],
+			"count": 9,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"aigh": {
+			"examples": ["straight"],
+			"count": 4,
+			"silent_replacement": "ai__",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"au": {
+			"examples": ["gauge"],
+			"count": 2,
+			"silent_replacement": "a_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ee": {
+			"examples": ["matinee"],
+			"count": 1,
+			"rare": true,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ais": {
+			"examples": ["calais"],
+			"count": 1,
+			"rare": true,
+			"silent": ["s"],
+			"silent_replacement": "ai_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ie": {
+			"examples": ["lingerie"],
+			"count": 1,
+			"rare": true,
+			"silent": ["i"],
+			"silent_replacement": "_e",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ae": {
+			"examples": ["alumnae"],
+			"count": 1,
+			"silent": ["a"],
+			"silent_replacement": "_e",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"es": {
+		    "examples": ["mesdames"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["s"],
+			"silent_replacement": "e_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ait": {
+		    "examples": ["parfait"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["t"],
+			"silent_replacement": "ai_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"er": {
+		    "examples": ["dossier"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["r"],
+			"silent_replacement": "e_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"F": {
+		"f": {
+			"examples": ["food", "aft", "beef"],
+			"count": 1580,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"ph": {
+			"examples": ["phone", "sphere", "graph"],
+			"count": 242,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ff": {
+			"examples": ["stuff"],
+			"count": 177,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"lf": {
+			"examples": ["calf"],
+			"count": 9,
+			"rare": true,
+			"silent_replacement": "_f",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"gh": {
+			"examples": ["laugh"],
+			"count": 8,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ft": {
+			"examples": ["soften"],
+			"count": 3,
+			"rare": true,
+			"silent_replacement": "f_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"pph": {
+			"examples": ["sapphire"],
+			"count": 1,
+			"rare": true,
+			"silent_replacement": "_ph",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"fe": {
+			"examples": ["life"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "f_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ffe": {
+			"examples": ["gaffe"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "ff_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"pf": {
+		    "examples": ["pfennig"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["p"],
+			"silent_replacement": "_f",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		},
+		"pho": {
+		    "examples": ["sophomore"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["o"],
+			"silent_replacement": "ph_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"G": {
+		"g": {
+			"examples": ["game", "hogshead", "beg"],
+			"count": 1178,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"gg": {
+			"examples": ["egg"],
+			"count": 67,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"gh": {
+			"examples": ["ghost", "burgh"],
+			"count": 10,
+			"silent_replacement": "g_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"gu": {
+			"examples": ["guide"],
+			"count": 19,
+			"silent_replacement": "g_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"gue": {
+			"examples": ["plague"],
+			"count": 21,
+			"silent_replacement": "g_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"tg": {
+			"examples": ["mortgage"],
+			"count": 1,
+			"silent_replacement": "_g",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ge": {
+			"examples": ["renege"],
+			"count": 1,
+			"very_rare": true,
+			"silent": ["e"],
+			"silent_replacement": "g_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"G:ZH": {
+		"x": {
+			"examples": ["luxury"],
+			"count": 12,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"G:Z": {
+		"x": {
+			"examples": ["exist"],
+			"count": 30,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"HH": {
+		"h": {
+			"examples": ["hot"],
+			"count": 762,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"wh": {
+			"examples": ["whole"],
+			"count": 16,
+			"silent_replacement": "_h",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"j": {
+			"examples": ["jojoba"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		}
+	},
+	"HH:W": {
+		"wh": {
+			"examples": ["whiff"],
+			"count": 89,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		}
+	},
+	"IH": {
+		"i": {
+			"examples": ["in", "sit", "apricot"],
+			"count": 5685,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"a": {
+			"examples": ["villager"],
+			"count": 187,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"y": {
+			"examples": ["larynx", "myth"],
+			"count": 101,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ie": {
+			"examples": ["mischief"],
+			"count": 29,
+			"silent": ["e"],
+			"silent_replacement": "i_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ui": {
+			"examples": ["build", "guitar"],
+			"count": 16,
+			"silent_replacement": "_i",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ei": {
+			"examples": ["foreign", "forfeit"],
+			"count": 11,
+			"silent_replacement": "_i",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ai": {
+			"examples": ["mountain"],
+			"count": 11,
+			"silent_replacement": "_i",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"u": {
+			"examples": ["minute", "busy"],
+			"count": 6,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"e": {
+			"examples": ["pretty"],
+			"count": 5,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ea": {
+			"examples": ["yesteryear"],
+			"count": 5,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ee": {
+			"examples": ["been"],
+			"count": 5,
+			"silent": ["e"],
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ia": {
+			"examples": ["marriage"],
+			"count": 3,
+			"silent_replacement": "i_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"o": {
+			"examples": ["women"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"ou": {
+			"examples": ["pugnacious"],
+			"count": 1,
+			"silent_replacement": "_u",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"ae": {
+			"examples": ["anaesthesia"],
+			"count": 1,
+			"silent_replacement": "_e",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"hi": {
+			"examples": ["exhibit"],
+			"count": 1,
+			"rare": true,
+			"silent_replacement": "_i",
+			"silent": ["h"],
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"ez": {
+		    "examples": ["rendezvous"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["z"],
+			"silent_replacement": "e_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ue": {
+		    "examples": ["racquet"],
+		    "count": 1,
+			"silent_replacement": "_e",
+		    "very_rare": true,
+		    "silent": ["u"],
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		}
+	},
+	"IY": {
+		"e": {
+			"examples": ["eve", "senior", "she"],
+			"count": 1827,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"y": {
+			"examples": ["funny"],
+			"count": 1801,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ee": {
+			"examples": ["eel", "feel", "tree"],
+			"count": 249,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ea": {
+			"examples": ["eat", "meat", "sea"],
+			"count": 245,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ie": {
+			"examples": ["chief"],
+			"count": 62,
+			"silent_replacement": "_e",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ey": {
+			"examples": ["key"],
+			"count": 40,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"i": {
+			"examples": ["motif", "ski"],
+			"count": 38,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ei": {
+			"examples": ["receive", "neither"],
+			"count": 16,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ae": {
+			"examples": ["algae"],
+			"count": 5,
+			"silent_replacement": "_e",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"oe": {
+			"examples": ["amoeba"],
+			"count": 5,
+			"silent_replacement": "_e",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"eo": {
+			"examples": ["people"],
+			"count": 2,
+			"silent_replacement": "e_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"iy": {
+			"examples": ["sukiyaki"],
+			"count": 1,
+			"silent_replacement": "i_",
+			"very_rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ay": {
+			"examples": ["quay"],
+			"count": 1,
+			"very_rare": true,
+			"silent_replacement": "_y",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"uis": {
+			"examples": ["marquis"],
+			"count": 1,
+			"very_rare": true,
+			"silent": ["s"],
+			"silent_replacement": "_i_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"is": {
+		    "examples": ["debris"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["s"],
+			"silent_replacement": "i_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"it": {
+		    "examples": ["esprit"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["t"],
+			"silent_replacement": "i_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"JH": {
+		"g": {
+			"examples": ["giraffe", "legend"],
+			"count": 347,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ge": {
+			"examples": ["cage"],
+			"count": 300,
+			"silent": ["e"],
+			"silent_replacement": "g_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"j": {
+			"examples": ["jar"],
+			"count": 218,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"d": {
+			"examples": ["arduous", "educate"],
+			"count": 32,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"dge": {
+			"examples": ["fudge"],
+			"count": 31,
+			"silent": ["e"],
+			"silent_replacement": "_g_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"dg": {
+			"examples": ["budget"],
+			"count": 20,
+			"silent_replacement": "_g",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"dj": {
+			"examples": ["adjective"],
+			"count": 14,
+			"silent_replacement": "_j",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"gi": {
+			"examples": ["region"],
+			"count": 14,
+			"silent_replacement": "g_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"di": {
+			"examples": ["cordial"],
+			"count": 2,
+			"silent_replacement": "d_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"gg": {
+			"examples": ["exaggerate"],
+			"count": 2,
+			"silent_replacement": "g_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"jh": {
+			"examples": ["jheel"],
+			"count": 1,
+			"silent_replacement": "j_",
+			"rare": true,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		}
+	},
+	"K": {
+		"c": {
+			"examples": ["cat", "act", "arc"],
+			"count": 3478,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"k": {
+			"examples": ["kite", "ski", "leak"],
+			"count": 601,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"ck": {
+			"examples": ["cracked", "back"],
+			"count": 290,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ch": {
+			"examples": ["chord", "school", "echo"],
+			"count": 142,
+			"silent_replacement": "c_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"cc": {
+			"examples": ["occupy"],
+			"count": 76,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"qu": {
+			"examples": ["bouquet"],
+			"count": 27,
+			"silent_replacement": "q_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"que": {
+			"examples": ["plaque"],
+			"count": 27,
+			"silent": ["e"],
+			"silent_replacement": "q_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"q": {
+			"examples": ["quick"],
+			"count": 20,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"lk": {
+			"examples": ["stalk"],
+			"count": 14,
+			"silent_replacement": "_k",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"cq": {
+			"examples": ["acquit"],
+			"count": 3,
+			"silent_replacement": "_q",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"kh": {
+			"examples": ["khaki"],
+			"count": 3,
+			"rare": true,
+			"silent_replacement": "k_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"cch": {
+			"examples": ["saccharin"],
+			"count": 1,
+			"rare": true,
+			"silent_replacement": "cc_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ca": {
+			"examples": ["academically"],
+			"count": 1,
+			"rare": true,
+			"silent": ["a"],
+			"silent_replacement": "c_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+
+		"che": {
+			"examples": ["ache"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "c__",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"ke": {
+			"examples": ["take"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "k_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"kk": {
+			"examples": ["markka"],
+			"count": 1,
+			"rare": true,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"ct": {
+			"examples": ["directly"],
+			"count": 1,
+			"silent": ["t"],
+			"rare": true,
+			"silent_replacement": "c_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		}
+	},
+	"K:S": {
+		"x": {
+			"examples": ["boxes", "boxed", "fox"],
+			"count": 325,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"xe": {
+			"examples": ["axe"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "x_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"xc": {
+			"examples": ["exceed"],
+			"count": 1,
+			"silent_replacement": "x_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"xs": {
+		    "examples": ["flaxseed"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["s"],
+			"silent_replacement": "x_",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"K:SH": {
+		"xi": {
+			"examples": ["anxious"],
+			"count": 10,
+			"silent_replacement": "x_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"x": {
+			"examples": ["sexual"],
+			"count": 10,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"L": {
+		"l": {
+			"examples": ["lion", "cliff", "ail"],
+			"count": 4894,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"le": {
+			"examples": ["little"],
+			"count": 620,
+			"silent": ["e"],
+			"silent_replacement": "l_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ll": {
+			"examples": ["falls", "fall"],
+			"count": 489,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"sl": {
+			"examples": ["island"],
+			"count": 5,
+			"rare": true,
+			"silent_replacement": "_l",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"hl": {
+			"examples": ["kohlrabi"],
+			"count": 1,
+			"rare": true,
+			"silent_replacement": "_l",
+			"silent": ["h"],
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+
+		"sle": {
+			"examples": ["isle"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "_l_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"lle": {
+			"examples": ["grille"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "ll_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ull": {
+		    "examples": ["colorfully"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["u"],
+			"silent_replacement": "_ll",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		},
+		"all": {
+		    "examples": ["especially"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["a"],
+			"silent_replacement": "_ll",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		},
+		"ell": {
+		    "examples": ["excellency"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["e"],
+			"silent_replacement": "_ll",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		},
+		"ol": {
+		    "examples": ["catholic"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["o"],
+			"silent_replacement": "_l",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		},
+		"il": {
+		    "examples": ["devilish"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["i"],
+			"silent_replacement": "_l",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		},
+		"al": {
+		    "examples": ["sundial"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["a"],
+			"silent_replacement": "_l",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"gl": {
+		    "examples": ["imbroglio"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["g"],
+			"silent_replacement": "_l",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		}
+	},
+	"M": {
+		"m": {
+			"examples": ["man", "imp", "am"],
+			"count": 3302,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"mm": {
+			"examples": ["summer"],
+			"count": 142,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"mb": {
+			"examples": ["comb"],
+			"count": 27,
+			"rare": true,
+			"silent_replacement": "m_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"lm": {
+			"examples": ["calmed", "calm"],
+			"count": 10,
+			"rare": true,
+			"silent_replacement": "_m",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"gm": {
+			"examples": ["phlegm"],
+			"count": 8,
+			"rare": true,
+			"silent_replacement": "_m",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"mn": {
+			"examples": ["autumn"],
+			"count": 7,
+			"rare": true,
+			"silent_replacement": "m_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+
+		"me": {
+			"examples": ["came"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "m_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"mme": {
+			"examples": ["femme"],
+			"count": 1,
+			"silent": ["e"],
+			"rare": true,
+			"silent_replacement": "mm_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"mbe": {
+			"examples": ["combe"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "m__",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"nm": {
+			"examples": ["government"],
+			"count": 1,
+			"very_rare": true,
+			"silent": ["n"],
+			"silent_replacement": "_m",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"N": {
+		"n": {
+			"examples": ["no", "and", "man"],
+			"count": 7452,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"nn": {
+			"examples": ["funny"],
+			"count": 127,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"kn": {
+			"examples": ["knot"],
+			"rare": true,
+			"count": 41,
+			"silent_replacement": "_n",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"gn": {
+			"examples": ["gnat"],
+			"count": 32,
+			"rare": true,
+			"silent_replacement": "_n",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"pn": {
+			"examples": ["pneumonia"],
+			"count": 3,
+			"rare": true,
+			"silent_replacement": "_n",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"mn": {
+			"examples": ["mnemonic"],
+			"count": 1,
+			"rare": true,
+			"silent_replacement": "_n",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		
+		"ne": {
+			"examples": ["cane"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "n_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"nne": {
+			"examples": ["comedienne"],
+			"count": 1,
+			"silent": ["e"],
+			"rare": true,
+			"silent_replacement": "nn_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"gne": {
+			"examples": ["champagne"],
+			"count": 1,
+			"silent": ["e"],
+			"rare": true,
+			"silent_replacement": "_n_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"nt": {
+			"examples": ["authentically"],
+			"count": 1,
+			"rare": true,
+			"silent": ["t"],
+			"silent_replacement": "n_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"nd": {
+			"examples": ["handsome"],
+			"count": 1,
+			"rare": true,
+			"silent": ["d"],
+			"silent_replacement": "n_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"on": {
+			"examples": ["iron"],
+			"count": 1,
+			"very_rare": true,
+			"silent": ["o"],
+			"silent_replacement": "_n",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"in": {
+		    "examples": ["cabinetry"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["i"],
+			"silent_replacement": "_n",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		}
+	},
+	"NG": {
+		"ng": {
+			"examples": ["length", "sing"],
+			"count": 362,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"n": {
+			"examples": ["think", "anchor"],
+			"count": 251,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ngue": {
+			"examples": ["tongue"],
+			"count": 2,
+			"silent_replacement": "ng__",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ngh": {
+		    "examples": ["dinghy"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["h"],
+			"silent_replacement": "ng_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"nge": {
+		    "examples": ["melange"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["e"],
+			"silent_replacement": "ng_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"nk": {
+		    "examples": ["phytoplankton"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["k"],
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"nd": {
+		    "examples": ["handkerchief"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["d"],
+			"silent_replacement": "n_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"NG:K": {
+		"ng": {
+		    "examples": ["angst"],
+		    "count": 1,
+		    "very_rare": true,
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		}
+	},
+	"OW": {
+		"o": {
+			"examples": ["only", "most", "ego"],
+			"count": 2246,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"oa": {
+			"examples": ["oat", "boat", "cocoa"],
+			"count": 129,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"oe": {
+			"examples": ["toe"],
+			"count": 13,
+			"silent": ["e"],
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ou": {
+			"examples": ["soul"],
+			"count": 29,
+			"silent_replacement": "o_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ow": {
+			"examples": ["own", "sown", "grow"],
+			"count": 125,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ough": {
+			"examples": ["though"],
+			"count": 8,
+			"silent_replacement": "ou__",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"eau": {
+			"examples": ["bureau"],
+			"count": 6,
+			"silent_replacement": "_au",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"au": {
+			"examples": ["mauve", "hauteur"],
+			"count": 5,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ew": {
+			"examples": ["sew"],
+			"count": 3,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"oh": {
+			"examples": ["ohm"],
+			"count": 4,
+			"silent_replacement": "o_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"eaux": {
+			"examples": ["chateaux"],
+			"count": 1,
+			"rare": true,
+			"silent": ["x"],
+			"silent_replacement": "_au_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"owe": {
+			"examples": ["owe"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "ow_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"eo": {
+			"examples": ["yeoman"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "_o",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"os": {
+			"examples": ["apropos"],
+			"count": 1,
+			"very_rare": true,
+			"silent": ["s"],
+			"silent_replacement": "o_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ot": {
+		    "examples": ["tarot"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["t"],
+			"silent_replacement": "o_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"OY": {
+		"oy": {
+			"examples": ["gargoyle", "boy"],
+			"count": 49,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}  
+		},
+		"oi": {
+			"examples": ["oil", "soil", "poison"],
+			"count": 100,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"uoy": {
+			"examples": ["buoyant"],
+			"count": 2,
+			"rare": true,
+			"silent_replacement": "_oy",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+
+		"oye": {
+			"examples": ["oye"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "oy_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}  
+		}
+	},
+	"P": {
+		"p": {
+			"examples": ["pie", "apt", "cap"],
+			"count": 3296,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"pp": {
+			"examples": ["stopped", "happy"],
+			"count": 153,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"pa": {
+			"examples": ["accompaniment"],
+			"count": 1,
+			"silent": ["a"],
+			"silent_replacement": "p_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"pe": {
+			"examples": ["ape"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "p_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"ppe": {
+			"examples": ["shoppe"],
+			"count": 1,
+			"silent": ["e"],
+			"rare": true,
+			"silent_replacement": "pp_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"gh": {
+			"examples": ["hiccough"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"bp": {
+		    "examples": ["subpoena"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["b"],
+			"silent_replacement": "_p",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		},
+		"pt": {
+		    "examples": ["bankruptcy"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["t"],
+			"silent_replacement": "p_",
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		},
+		"ph": {
+		    "examples": ["ophthalmologist"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["h"],
+			"silent_replacement": "p_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"R": {
+		"r": {
+			"examples": ["run", "arm", "far"],
+			"count": 9119,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"rr": {
+			"examples": ["purr"],
+			"count": 207,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"wr": {
+			"examples": ["write"],
+			"count": 48,
+			"silent_replacement": "_r",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"rh": {
+			"examples": ["rhyme"],
+			"count": 16,
+			"silent_replacement": "r_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"or": {
+			"examples": ["electorate"],
+			"count": 10,
+			"silent_replacement": "_r",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"rrh": {
+			"examples": ["pyrrhic"],
+			"count": 1,
+			"silent_replacement": "rr_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+
+		"re": {
+			"examples": ["fore"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "r_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"rre": {
+			"examples": ["bizarre"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "rr_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"orrh": {
+			"examples": ["hemorrhage"],
+			"count": 1,
+			"rare": true,
+			"silent": ["h"],
+			"silent_replacement": "_rr_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"rps": {
+		    "examples": ["corps"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["ps"],
+			"silent_replacement": "r__",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"rt": {
+		    "examples": ["rapport"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["t"],
+			"silent_replacement": "r_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ir": {
+		    "examples": ["aspirin"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["i"],
+			"silent_replacement": "_r",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		},
+		"ar": {
+		    "examples": ["elementary"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["a"],
+			"silent_replacement": "_r",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": true,
+		        "final": false
+		    }
+		},
+		"er": {
+		    "examples": ["prayer"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["e"],
+			"silent_replacement": "_r",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"S": {
+		"s": {
+			"examples": ["sun", "ask", "bus"],
+			"count": 4599,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"c": {
+			"examples": ["ceiling", "paced"],
+			"count": 1067,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ss": {
+			"examples": ["pressed", "messy"],
+			"count": 442,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"sc": {
+			"examples": ["scent"],
+			"count": 77,
+			"silent": ["c"],
+			"silent_replacement": "s_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"st": {
+			"examples": ["listen"],
+			"count": 33,
+			"silent": ["t"],
+			"silent_replacement": "s_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ps": {
+			"examples": ["psychiatry"],
+			"count": 19,
+			"silent": ["p"],
+			"silent_replacement": "_s",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"ts": {
+			"examples": ["tsunami"],
+			"count": 1,
+			"silent": ["t"],
+			"silent_replacement": "_s",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"z": {
+			"examples": ["eczema", "quartz"],
+			"count": 6,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"sw": {
+			"examples": ["sword"],
+			"count": 4,
+			"silent": ["w"],
+			"silent_replacement": "s_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"sse": {
+			"examples": ["noblesse"],
+			"count": 0,
+			"silent": ["e"],
+			"silent_replacement": "ss_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ce": {
+			"examples": ["nice"],
+			"count": 0,
+			"silent": ["e"],
+			"silent_replacement": "c_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": false
+			}
+		},
+		"se": {
+			"examples": ["groused", "house"],
+			"count": 0,
+			"silent": ["e"],
+			"silent_replacement": "s_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"sce": {
+			"examples": ["convalesce"],
+			"count": 0,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "s_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"sth": {
+			"examples": ["isthmus"],
+			"count": 1,
+			"rare": true,
+			"silent": ["th"],
+			"silent_replacement": "s__",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"sz": {
+		    "examples": ["grosz"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["z"],
+			"silent_replacement": "s_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"SH": {
+		"ti": {
+			"examples": ["nation"],
+			"count": 850,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"sh": {
+			"examples": ["shoe", "finished", "wish"],
+			"count": 398,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"ci": {
+			"examples": ["physician"],
+			"count": 119,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ssi": {
+			"examples": ["mission"],
+			"count": 51,
+			"silent_replacement": "_si",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"si": {
+			"examples": ["pension"],
+			"count": 38,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ch": {
+			"examples": ["chef", "echelon"],
+			"count": 34,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"s": {
+			"examples": ["sugar"],
+			"count": 20,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ss": {
+			"examples": ["pressure"],
+			"count": 9,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"t": {
+			"examples": ["initiate"],
+			"count": 9,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"shi": {
+			"examples": ["fashion"],
+			"count": 7,
+			"silent_replacement": "sh_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"sc": {
+			"examples": ["fascism"],
+			"count": 6,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ce": {
+			"examples": ["ocean"],
+			"count": 5,
+			"silent": ["e"],
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"sci": {
+			"examples": ["conscience"],
+			"count": 5,
+			"silent_replacement": "sc_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"c": {
+			"examples": ["oceanic"],
+			"count": 4,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"sch": {
+			"examples": ["schnitzel"],
+			"count": 2,
+			"rare": true,
+			"silent_replacement": "s_h",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"che": {
+			"examples": ["moustache"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "ch_",
+			"rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"T": {
+		"t": {
+			"examples": ["tree", "bats", "at"],
+			"count": 7528,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"tt": {
+			"examples": ["little"],
+			"count": 216,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ed": {
+			"examples": ["jumped"],
+			"count": 28,
+			"silent_replacement": "_d",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"bt": {
+			"examples": ["doubt"],
+			"count": 11,
+			"silent": ["b"],
+			"silent_replacement": "_t",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"tw": {
+			"examples": ["two"],
+			"count": 3,
+			"silent": ["w"],
+			"silent_replacement": "t_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"pt": {
+			"examples": ["pterodactyl", "receipt"],
+			"count": 2,
+			"silent": ["p"],
+			"silent_replacement": "_t",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"cht": {
+			"examples": ["yacht"],
+			"count": 2,
+			"silent": ["ch"],
+			"silent_replacement": "__t",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ct": {
+			"examples": ["indict"],
+			"count": 2,
+			"silent": ["c"],
+			"silent_replacement": "_t",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"th": {
+			"examples": ["thyme"],
+			"count": 1,
+			"silent": ["h"],
+			"silent_replacement": "t_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+
+		"te": {
+			"examples": ["taste"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "t_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"tte": {
+			"examples": ["pipette"],
+			"count": 1,
+			"silent": ["e"],
+			"rare": true,
+			"silent_replacement": "tt_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"d": {
+			"examples": ["apartheid"],
+			"count": 1,
+			"very_rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"T:S": {
+		"zz": {
+			"examples": ["pizza"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"z": {
+			"examples": ["zeitgeist"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"c": {
+			"examples": ["accountancy"],
+			"count": 1,
+			"rare": true,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		}
+	},
+	"T:TH": {
+		"th": {
+			"examples": ["eighth"],
+			"count": 1,
+			"rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"TH": {
+		"th": {
+			"examples": ["throw", "widths", "math"],
+			"count": 411,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"the": {
+			"examples": ["writhe"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "th_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"UH": {
+		"u": {
+			"examples": ["put", "plurality"],
+			"count": 211,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"oo": {
+			"examples": ["cook"],
+			"count": 114,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"ou": {
+			"examples": ["could", "tambourine"],
+			"count": 25,
+			"silent_replacement": "_u",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"o": {
+			"examples": ["woman", "today"],
+			"count": 17,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"eu": {
+			"examples": ["pleurisy"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "_u",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"uo": {
+			"examples": ["fluorometer"],
+			"count": 1,
+			"silent": ["o"],
+			"silent_replacement": "u_",
+			"very_rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"UW": {
+		"oo": {
+			"examples": ["ooze", "soon", "too"],
+			"count": 185,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"u": {
+			"examples": ["tune", "tuna"],
+			"count": 127,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ew": {
+			"examples": ["shrewd", "new"],
+			"count": 60,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"o": {
+			"examples": ["whom", "do"],
+			"count": 49,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ou": {
+			"examples": ["soup", "you"],
+			"count": 32,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ui": {
+			"examples": ["suit", "nuisance"],
+			"count": 18,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ue": {
+			"examples": ["blue"],
+			"count": 16,
+			"silent": ["e"],
+			"silent_replacement": "u_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"eu": {
+			"examples": ["sleuth", "maneuver"],
+			"count": 4,
+			"silent_replacement": "_u",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ieu": {
+			"examples": ["lieu"],
+			"count": 4,
+			"silent_replacement": "__u",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"oe": {
+			"examples": ["canoe"],
+			"count": 4,
+			"silent": ["e"],
+			"silent_replacement": "o_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ough": {
+			"examples": ["through"],
+			"count": 2,
+			"silent_replacement": "ou__",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"uo": {
+			"examples": ["buoy"],
+			"count": 1,
+			"rare": true,
+			"silent_replacement": "u_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"oux": {
+			"examples": ["roux"],
+			"count": 1,
+			"rare": true,
+			"silent": ["x"],
+			"silent_replacement": "ou_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ewe": {
+			"examples": ["ewe"],
+			"count": 1,
+			"rare": true,
+			"silent": ["e"],
+			"silent_replacement": "ew_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"oup": {
+		    "examples": ["coup"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["p"],
+			"silent_replacement": "ou_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ut": {
+		    "examples": ["debut"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["t"],
+			"silent_replacement": "u_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"oue": {
+		    "examples": ["denouement"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["e"],
+			"silent_replacement": "ou_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ous": {
+		    "examples": ["rendezvous"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["s"],
+			"silent_replacement": "ou_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ooh": {
+		    "examples": ["pooh"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["h"],
+			"silent_replacement": "oo_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"V": {
+		"v": {
+			"examples": ["van", "wives"],
+			"count": 1485,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"lv": {
+			"examples": ["calves"],
+			"count": 4,
+			"silent_replacement": "_v",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"f": {
+			"examples": ["of"],
+			"count": 3,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"vv": {
+			"examples": ["divvy"],
+			"count": 2,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"ve": {
+			"examples": ["have"],
+			"count": 0,
+			"silent": ["e"],
+			"silent_replacement": "v_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": false
+			}
+		},
+		"lve": {
+			"examples": ["calves"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "_v_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"w": {
+			"examples": ["edelweiss"],
+			"count": 1,
+			"very_rare": true,
+			"silent": ["e"],
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		}
+	},
+	"W": {
+		"w": {
+			"examples": ["water", "sweet"],
+			"count": 626,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"wh": {
+			"examples": ["whale"],
+			"count": 89,
+			"silent_replacement": "w_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"u": {
+			"examples": ["liquid"],
+			"count": 47,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ou": {
+			"examples": ["bivouac"],
+			"count": 1,
+			"rare": true,
+			"silent_replacement": "_u",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"o": {
+			"examples": ["choir"],
+			"count": 1,
+			"rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ju": {
+			"examples": ["marijuana"],
+			"count": 1,
+			"rare": true,
+			"silent_replacement": "_u",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		}
+	},
+	"W:AA": {
+		"oi": {
+			"examples": ["repertoire"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"ois": {
+		    "examples": ["bourgeois"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["s"],
+			"silent_replacement": "oi_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"W:AH": {
+		"o": {
+			"examples": ["once"],
+			"count": 5,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"a": {
+		    "examples": ["semiannual"],
+		    "count": 1,
+		    "very_rare": true,
+		    "syllabic_position": {
+		        "initial": true,
+		        "medial": false,
+		        "final": false
+		    }
+		}
+	},
+	"W:EY": {
+		"a": {
+			"examples": ["evacuate"],
+			"count": 2,
+			"rare": true,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		}
+	},
+	"Y": {
+		"i": {
+			"examples": ["onion", "fiord"],
+			"count": 66,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			} 
+		},
+		"y": {
+			"examples": ["yellow"],
+			"count": 53,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"e": {
+			"examples": ["azalea"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"u": {
+			"examples": ["accuracy"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"j": {
+			"examples": ["fjord"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		},
+		"o": {
+			"examples": ["monsignor"],
+			"count": 1,
+			"very_rare": true,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		}
+	},
+	"Y:AE": {
+		"a": {
+			"examples": ["cognac"],
+			"count": 5,
+			"rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		}
+	},
+	"Y:AH": {
+		"u": {
+			"examples": ["regular"],
+			"count": 5,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"a": {
+			"examples": ["poignancy"],
+			"count": 5,
+			"very_rare": true,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		}
+	},
+	"Y:EH": {
+		"e": {
+			"examples": ["vignette"],
+			"count": 1,
+			"rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		}
+	},
+	"Y:IH": {
+		"i": {
+			"examples": ["insignificance"],
+			"count": 1,
+			"rare": true,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": false
+			}
+		}
+	},
+	"Y:UH": {
+		"u": {
+			"examples": ["eureka", "fury"],
+			"count": 15,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": false
+			}
+		},
+		"eu": {
+			"examples": ["aneurism"],
+			"count": 1,
+			"very_rare": true,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		}
+	},
+	"Y:UW": {
+		"u": {
+			"examples": ["union", "refusal", "pupil"],
+			"count": 916,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"ew": {
+			"examples": ["ewe", "mewed", "few"],
+			"count": 50,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"eu": {
+			"examples": ["feud", "feudal"],
+			"count": 28,
+			"syllabic_position": {
+				"initial": false,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ue": {
+			"examples": ["valued", "cue"],
+			"count": 27,
+			"silent": ["e"],
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			}
+		},
+		"iew": {
+			"examples": ["view"],
+			"count": 6,
+			"silent_replacement": "_ew",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"eau": {
+			"examples": ["beauty"],
+			"count": 5,
+			"silent_replacement": "__u",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"ewe": {
+			"examples": ["ewe"],
+			"count": 1,
+			"silent": ["e"],
+			"silent_replacement": "ew_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"hu": {
+			"examples": ["humid"],
+			"count": 1,
+			"silent": ["h"],
+			"silent_replacement": "_u",
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			} 
+		},
+		"ugh": {
+		    "examples": ["pugh"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["gh"],
+			"silent_replacement": "u__",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ueue": {
+		    "examples": ["queue"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["eue"],
+			"silent_replacement": "u___",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ut": {
+		    "examples": ["debut"],
+		    "count": 1,
+		    "very_rare": true,
+		    "silent": ["t"],
+			"silent_replacement": "u_",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"Z": {
+		"s": {
+			"examples": ["design", "is"],
+			"count": 688,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"z": {
+			"examples": ["zoo", "adz"],
+			"count": 229,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": true
+			} 
+		},
+		"x": {
+			"examples": ["xylophone"],
+			"count": 42,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"zz": {
+			"examples": ["dizzy", "quizzed", "fuzz"],
+			"count": 23,
+			"syllabic_position": {
+				"initial": true,
+				"medial": true,
+				"final": true
+			}
+		},
+		"ss": {
+			"examples": ["dessert"],
+			"count": 13,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"cz": {
+			"examples": ["czar"],
+			"count": 1,
+			"silent_replacement": "z_",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ts": {
+			"examples": ["tsar"],
+			"count": 1,
+			"silent": ["t"],
+			"silent_replacement": "_s",
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ze": {
+			"examples": ["snooze"],
+			"count": 0,
+			"silent": ["e"],
+			"silent_replacement": "z_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": false
+			}
+		},
+		"se": {
+			"examples": ["choose"],
+			"count": 0,
+			"silent": ["e"],
+			"silent_replacement": "s_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"si": {
+			"examples": ["business"],
+			"count": 0,
+			"rare": true,
+			"silent": ["i"],
+			"silent_replacement": "s_",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		},
+		"sth": {
+			"examples": ["asthma"],
+			"count": 0,
+			"rare": true,
+			"silent": ["th"],
+			"silent_replacement": "s__",
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": true
+			}
+		}
+	},
+	"ZH": {
+		"si": {
+			"examples": ["collision"],
+			"count": 50,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"s": {
+			"examples": ["casual"],
+			"count": 34,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"g": {
+			"examples": ["regime"],
+			"count": 15,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"z": {
+			"examples": ["seizure"],
+			"count": 2,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"j": {
+			"examples": ["deja-vu"],
+			"count": 1,
+			"rare": true,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"ti": {
+			"examples": ["equation"],
+			"count": 1,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		},
+		"ge": {
+			"examples": ["beige"],
+			"count": 0,
+			"rare": true,
+			"silent": ["e"],
+			"syllabic_position": {
+				"initial": false,
+				"medial": false,
+				"final": false
+			} 
+		},
+		"zi": {
+		    "examples": ["crozier"],
+		    "count": 1,
+		    "very_rare": true,
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"sh": {
+		    "examples": ["cashmere"],
+		    "count": 1,
+		    "very_rare": true,
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		},
+		"ssi": {
+		    "examples": ["recission"],
+		    "count": 1,
+		    "very_rare": true,
+			"silent_replacement": "_si",
+		    "syllabic_position": {
+		        "initial": false,
+		        "medial": false,
+		        "final": true
+		    }
+		}
+	},
+	"_": {
+		"h": {
+			"examples": ["heir"],
+			"count": 41,
+			"syllabic_position": {
+				"initial": true,
+				"medial": false,
+				"final": false
+			}
+		}
+	}
+}	
