@@ -84,7 +84,7 @@ cd m2m-aligner
 
 ### (B) Manually Splitting Words Into Graphemes
 
-**Description:**  For words where I didn't trust the `m2m-aligner`, I manually mapped \~1.5K words into their graphemes. Silent letters were tricky since sometimes they can be attributed to multiple graphemes. For instance the word **bared** could be split up as B A **RE** D or B A R **ED**. In this cases, where there is a *morpheme*, I tried to default to keeping the morpheme to together (e.g. **bare** is a morpheme in bared). Since I'm not a linguist, I'm not sure that's the right move and I'm pretty sure this is the step with the most mistakes.
+**Description:**  For words where I didn't trust the `m2m-aligner`, I manually mapped \~1.5K words into their graphemes. Silent letters were tricky since sometimes they can be attributed to multiple graphemes. For instance the word **bared** could be split up as B A **RE** D or B A R **ED**. In these cases, where there is a *morpheme*, I tried to default to keeping the morpheme together (e.g. **bare** is a morpheme in bared, so I decided to use the grapheme **RE** instead of splitting up the **R** and **E**). Since I'm not a linguist, I'm not sure that's the right move and I'm pretty sure this is the step with the most mistakes.
 
 
 # (7) Checking the Work
